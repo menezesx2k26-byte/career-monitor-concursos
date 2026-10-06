@@ -1,0 +1,66 @@
+name: One-shot deploy geometria-rpg
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/one-shot-deploy-geometria-rpg.yml
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - name: Validate deployment credentials exist
+        shell: bash
+        run: |
+          test -n "$CLOUDFLARE_API_TOKEN" || { echo "CLOUDFLARE_API_TOKEN secret missing"; exit 2; }
+          test -n "$CLOUDFLARE_ACCOUNT_ID" || { echo "CLOUDFLARE_ACCOUNT_ID secret missing"; exit 3; }
+
+      - name: Checkout geometry deployment commit
+        shell: bash
+        run: |
+          git clone --filter=blob:none --no-checkout https://github.com/menezesx2k26-byte/edu-geometria-rpg.git geometry
+          cd geometry
+          git fetch --depth=1 origin a972ce5c5f3963b70d5120e4323342bd84730006
+          git checkout --detach a972ce5c5f3963b70d5120e4323342bd84730006
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.23.3'
+          cache: npm
+          cache-dependency-path: geometry/package-lock.json
+
+      - name: Install
+        working-directory: geometry
+        run: npm ci --no-audit --no-fund
+
+      - name: Unit tests
+        working-directory: geometry
+        run: npm run test:unit
+
+      - name: Build
+        working-directory: geometry
+        run: npm run build
+
+      - name: Validate Cloudflare authentication
+        working-directory: geometry
+        run: npx wrangler whoami
+
+      - name: Deploy geometria-rpg
+        working-directory: geometry
+        run: npm run deploy:cloudflare
+
+      - name: Verify live worker
+        shell: bash
+        run: |
+          status="$(curl -sS -o /tmp/geometria.html -w '%{http_code}' https://geometria-rpg.menezesx2k25.workers.dev/)"
+          test "$status" = "200" || { echo "Live worker returned HTTP $status"; exit 4; }
+          echo "LIVE_HTTP_STATUS=$status"
