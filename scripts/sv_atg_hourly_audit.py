@@ -119,7 +119,9 @@ def main():
     inaccessible=[x for x in real if not next((r for r in gets if r["url"]==x["url"] and r["pdf"]),None)]
     pdfs=[]
     for r in valid:
-        if PAT.search(r["url"]) and int(PAT.search(r["url"]).group(1))<=693:
+        # Audit every newly discovered edition; never hard-code the last checkpoint.
+        # Checkpoint advancement is a separate decision after complete review.
+        if PAT.search(r["url"]):
             pdfs.append(pdf_audit(r))
     conv=fetch(CONV)
     if conv["pdf"]: pdfs.append(pdf_audit(conv))
