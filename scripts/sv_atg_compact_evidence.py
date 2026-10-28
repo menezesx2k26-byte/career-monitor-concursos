@@ -34,7 +34,8 @@ def main():
         ],
     }
     destination.parent.mkdir(parents=True, exist_ok=True)
-    destination.write_text(json.dumps(evidence, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Deterministic LF bytes on Windows and Linux; Git must not change evidence checksums.
+    destination.write_bytes(json.dumps(evidence, ensure_ascii=False, indent=2).encode("utf-8"))
     print(json.dumps({"path": str(destination), "bytes": destination.stat().st_size,
                       "sha256": hashlib.sha256(destination.read_bytes()).hexdigest(),
                       "raw_sha256": evidence["raw_local_sha256"]}, ensure_ascii=False))
