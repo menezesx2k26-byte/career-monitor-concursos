@@ -1,0 +1,1660 @@
+{
+  "start_utc": "2026-10-28T15:44:57.069514+00:00",
+  "end_utc": "2026-10-28T15:47:00.762419+00:00",
+  "raw_local_file": "C:\\Users\\Pichau\\AppData\\Local\\Temp\\sv_atg_20261028_124457\\audit.json",
+  "raw_local_sha256": "0d8880853579ab5dcf9bdbd142855332b07370218e084b3a78990608682cbf56",
+  "index": {
+    "http": 200,
+    "bytes": 1347513,
+    "real_hrefs": [
+      {
+        "edition": 693,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+        "label": ""
+      },
+      {
+        "edition": 692,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 691,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 690,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 689,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 688,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 688,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 687,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+        "label": ""
+      }
+    ]
+  },
+  "probe": {
+    "head_status": {
+      "200": 8,
+      "404": 115
+    },
+    "get_status": {
+      "200": 8,
+      "404": 115
+    },
+    "valid_pdf_count": 8,
+    "count": 123,
+    "results": [
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 9696910,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 910321,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 9529895,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 5538184,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 6899976,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 857200,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+        "http": 200,
+        "bytes": 853711,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+        "http": 200,
+        "bytes": 9376703,
+        "pdf": true,
+        "content_type": "application/pdf",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-1-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-4-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-5-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-6-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-versaoimpressao-1.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-696-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-1-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-2-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-3-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-suplementar-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      },
+      {
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-versaoimpressao.pdf",
+        "http": 404,
+        "bytes": 26,
+        "pdf": false,
+        "content_type": "application/json",
+        "error": null
+      }
+    ],
+    "inaccessible_listed": [],
+    "real_valid": [
+      {
+        "edition": 693,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+        "label": ""
+      },
+      {
+        "edition": 692,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 691,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 690,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 689,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 688,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 688,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+        "label": ""
+      },
+      {
+        "edition": 687,
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+        "label": ""
+      }
+    ]
+  },
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "pages_extracted": 43,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "pages_extracted": 43,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "pages_extracted": 49,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "pages_extracted": 179,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "pages_extracted": 2,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "pages_extracted": 2,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "pages_extracted": 55,
+      "empty_pages": [],
+      "signature_flags": 3
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "pages_extracted": 7,
+      "empty_pages": [],
+      "signature_flags": -1
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "http": 200,
+      "bytes": 1349600,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "error": null,
+      "document_number_candidates": [
+        "1 - Edital de Abertura",
+        "2 - Retificação do Edital de Abertura",
+        "03 - Edital de Resultado de Isenção de Pagamento da Inscrição",
+        "04 - Edital de Resultado dos Recursos de Isenção de Pagamento",
+        "05 - Edital de Divulgação de Candidatos que Apresentaram Laudos Médicos com Deficiência",
+        "06 - Edital de Relação de Candidatos que se Autodeclararam como Negro e ou Afrodescendente",
+        "07 - Edital Lista de Inscritos por Cargo e por Modalidade",
+        "08 - Edital de Convocação para Provas Objetivas",
+        "09 - Edital Resultado de Recursos da Lista de Inscritos",
+        "10 - Edital Resultado de Recurso dos Candidatos que Apresentaram Laudos Médicos com Deficiência",
+        "11 - Edital Resultado de Recursos dos Candidatos Negros",
+        "12 - Edital de Resultado da Prova Objetiva - GABARITO",
+        "13 - Edital de Resultado de Recurso da Prova Objetiva - GABARITO",
+        "14 - Edital de Divulgação de Notas das Provas Objetivas",
+        "15 - Edital de Resultado de Recurso das Notas da Prova Objetiva - CP 02-2026.pdf",
+        "16 - Edital de Convocação para Prova Física - CP 02-2026.pdf",
+        "17 - Edital de Convocação da Heteroidentificação Presencial - CP 02-2026.pdf",
+        "18 - Edital de Retificação da Convocação para Prova Física - CP 02-2026.pdf",
+        "19 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+        "20 - EDITAL DE DIVULGAÇÃO DA CLASSIFICAÇÃO PRELIMINAR"
+      ],
+      "links_total": 3506,
+      "relevant_links": [
+        {
+          "text": "16 - Edital de Convocação para Prova Física - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/16-edital-de-convocacao-para-prova-fisica-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/17-edital-de-convocacao-da-heteroidentificacao-presencial-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "17 - Edital de Convocação da Heteroidentificação Presencial - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/17-edital-de-convocacao-da-heteroidentificacao-presencial-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/18-edital-de-retificacao-da-convocacao-para-prova-fisica-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "18 - Edital de Retificação da Convocação para Prova Física - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/18-edital-de-retificacao-da-convocacao-para-prova-fisica-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/19-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "19 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/19-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/20-edital-de-divulgacao-da-classificacao-preliminar-ass-e-inspetor.pdf/view"
+        },
+        {
+          "text": "20 - EDITAL DE DIVULGAÇÃO DA CLASSIFICAÇÃO PRELIMINAR",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/20-edital-de-divulgacao-da-classificacao-preliminar-ass-e-inspetor.pdf/view"
+        },
+        {
+          "text": "2",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20"
+        },
+        {
+          "text": "Refazer a busca",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026#"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "http": 200,
+      "bytes": 1335481,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "error": null,
+      "document_number_candidates": [
+        "21- Edital de Divulgação dos Resultados do Teste de Aptidão Física.pdf",
+        "22- Edital de Resultado de Recurso da Classificação Preliminar - CP 02-2026.pdf",
+        "23- Edital de Divulgação da Classificação Final - CP 02-2026.pdf",
+        "24 - Homologação parcial.pdf",
+        "25 - Edital de Resultado de Recurso do Resultado do TAF - CP 02-2026.pdf",
+        "26 - Edital de Divulgação da Classificação Preliminar - CP 02-2026.pdf",
+        "27 - EDITAL DE CONVOCAÇÃO PARA O PROCEDIMENTO DE HETEROIDENTIFICAÇÃO AGENTE DE TRANSITO.pdf",
+        "28 - Republicação do Edital da Classificação Preliminar - CP 02-2026.pdf",
+        "29 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+        "30 - Edital de Divulgação da Classificação Final - CP 02-2026.pdf",
+        "31 - Despacho de Homologação.pdf"
+      ],
+      "links_total": 3488,
+      "relevant_links": [
+        {
+          "text": "27 - EDITAL DE CONVOCAÇÃO PARA O PROCEDIMENTO DE HETEROIDENTIFICAÇÃO AGENTE DE TRANSITO.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/27-edital-de-convocacao-para-o-procedimento-de-heteroidentificacao-agente-de-transito.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/28-republicacao-do-edital-da-classificacao-preliminar-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "28 - Republicação do Edital da Classificação Preliminar - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/28-republicacao-do-edital-da-classificacao-preliminar-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/29-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "29 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/29-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "30 - Edital de Divulgação da Classificação Final - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf/view"
+        },
+        {
+          "text": "31 - Despacho de Homologação.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=0"
+        },
+        {
+          "text": "1",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=0"
+        },
+        {
+          "text": "Refazer a busca",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20#"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40",
+      "http": 200,
+      "bytes": 1317575,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "error": null,
+      "document_number_candidates": [],
+      "links_total": 3464,
+      "relevant_links": [
+        {
+          "text": "",
+          "href": "https://pinterest.com/pin/create/button/?url=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026&description=Concurso%20n%C2%BA%2002/2026"
+        },
+        {
+          "text": "",
+          "href": "https://telegram.me/share/url?url=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40"
+        },
+        {
+          "text": "",
+          "href": "https://api.whatsapp.com/send?text=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        },
+        {
+          "text": "",
+          "href": "http://www.facebook.com/sharer.php?u=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/share?text=Concurso%20n%C2%BA%2002/2026&url=https://www.saovicente.sp.gov.br/resolveuid/26c44820ae864aa7b1c78ab46672e002"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026&title=Concurso%20n%C2%BA%2002/2026"
+        },
+        {
+          "text": "",
+          "href": "https://pinterest.com/pin/create/button/?url=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026&description=Concurso%20n%C2%BA%2002/2026"
+        },
+        {
+          "text": "",
+          "href": "https://telegram.me/share/url?url=https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40#"
+        },
+        {
+          "text": "Refazer a busca",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40#"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "http": 200,
+      "bytes": 1326771,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "error": null,
+      "document_number_candidates": [],
+      "links_total": 3484,
+      "relevant_links": [
+        {
+          "text": "CONVOCAÇÃO - Concursos de 2025",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2025"
+        },
+        {
+          "text": "CONVOCAÇÃO - Concursos de 2023",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2023"
+        },
+        {
+          "text": "CONVOCAÇÃO - Processo Seletivo nº 02/2023",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-processo-seletivo-no-02-2023"
+        },
+        {
+          "text": "CONVOCAÇÃO - Concursos de 2019 e 2020",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2019-e-2020"
+        },
+        {
+          "text": "CONVOCAÇÃO - Contratação Temporária 2021",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-contratacao-temporaria-2021"
+        },
+        {
+          "text": "CONVOCAÇÃO - Contratação Temporária 2022",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-contratacao-temporaria-2022"
+        },
+        {
+          "text": "CONVOCAÇÃO - Processo Seletivo 2021",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-processo-seletivo-2021"
+        },
+        {
+          "text": "CONVOCAÇÃO - Concurso de 2016",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concurso-de-2016"
+        },
+        {
+          "text": "Processo Seletivo de Estágio - 2026",
+          "href": "javascript: void(0)"
+        },
+        {
+          "text": "Concurso nº 01/2026",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-01-2026"
+        },
+        {
+          "text": "Concurso nº 02/2026",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        },
+        {
+          "text": "Cronograma de Reuniões - 2026",
+          "href": "https://www.saovicente.sp.gov.br/resolveuid/cdb8625e570a4897ba3566de8566e242"
+        },
+        {
+          "text": "Convocações",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes"
+        },
+        {
+          "text": "Concurso nº 01/2026",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-01-2026"
+        },
+        {
+          "text": "Concurso nº 02/2026",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "http": 200,
+      "bytes": 1324591,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "error": null,
+      "document_number_candidates": [],
+      "links_total": 3473,
+      "relevant_links": [
+        {
+          "text": "",
+          "href": "https://telegram.me/share/url?url=https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf/view"
+        },
+        {
+          "text": "Convocação dias 03, 04, 05 e 06 de novembro de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf/view"
+        },
+        {
+          "text": "Convocação dias 18, 21, 22 e 24 de setembro de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-17-e-18-de-agosto-de-2026.pdf/view"
+        },
+        {
+          "text": "Convocação 17 e 18 de agosto de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-17-e-18-de-agosto-de-2026.pdf/view"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-23-e-24-de-julho-de-2026.pdf/view"
+        },
+        {
+          "text": "Convocação 23 e 24 de julho de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-23-e-24-de-julho-de-2026.pdf/view"
+        },
+        {
+          "text": "Refazer a busca",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026#"
+        },
+        {
+          "text": "",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026#"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      "http": 200,
+      "bytes": 71356,
+      "pdf": false,
+      "content_type": "text/html; charset=ISO-8859-1",
+      "error": null,
+      "document_number_candidates": [
+        "01- Edital de Abertura 09/04/2026",
+        "02 - Retificação do Edital de Abertura",
+        "03 - Edital De Resultado De Isenção De Pagamento Da Inscrição",
+        "04 - Edital de Resultado dos Recursos de Isenção de Pagamento",
+        "05 - Edital de Divulgação de Candidatos que Apresentaram Laudos Médicos com Deficiência",
+        "06 - Edital de Relação de Candidatos que se Autodeclararam como Negro e ou Afrodescendente",
+        "07 - Edital Lista de Inscritos por Cargo e por Modalidade",
+        "08- Edital de Convocação para Provas Objetivas",
+        "09- Edital de Resultado de Recurso dos Candidatos que Apresentaram Laudos Médicos com Deficiência",
+        "10- Edital Resultado de Recursos dos Candidatos Negros ou Afrodescendente",
+        "11- Edital Resultado de Recursos da Lista de Inscritos",
+        "12- Edital de Resultado da Prova Objetiva - GABARITO",
+        "13- Edital de Resultado de Recurso da Prova Objetiva - GABARITO",
+        "14- Edital de Divulgação de Notas das Provas Objetivas",
+        "15- Edital de Resultado de Recurso das Notas da Prova Objetiva",
+        "16 - Edital de Convocação para Prova Física",
+        "17 - Edital de Convocação da Heteroidentificação Presencial",
+        "18- Edital de Retificação da Convocação para Prova Física",
+        "19- Edital de Resultado de Heteroidentificação",
+        "20- EDITAL DE DIVULGAÇÃO DA CLASSIFICAÇÃO PRELIMINAR",
+        "21- EDITAL DE DIVULGAÇÃO DOS RESULTADOS DO TESTE DE APTIDÃO FÍSICA  TAF",
+        "22- Edital de Resultado de Recurso da Classificação Preliminar.",
+        "23- Edital de Divulgação da Classificação Final.",
+        "24- Despacho de Homologação Parcial",
+        "25- Edital de Resultado de Recurso - TAF Teste de Aptidão Física.",
+        "26 - Edital de Divulgação da Classificação Preliminar.",
+        "27- Edital de Convocação para Heteroidentificação.",
+        "28- Edital de Republicação da Classificação Preliminar.",
+        "29 - Edital de Resultado de Heteroidentificação",
+        "30 - Edital de Divulgação da Classificação Final",
+        "31 - Despacho de Homologação"
+      ],
+      "links_total": 56,
+      "relevant_links": [
+        {
+          "text": "01- Edital de Abertura 09/04/2026",
+          "href": "https://anexos.cdn.selecao.net.br/uploads/810/concursos/134/anexos/2e34d3d8-29d4-429b-b4de-de52f6ad8f3c.pdf"
+        },
+        {
+          "text": "08- Edital de Convocação para Provas Objetivas",
+          "href": "https://anexos.cdn.selecao.net.br/uploads/810/concursos/134/anexos/e8779f05-89ce-4d5a-be3e-d9627558c55d.pdf"
+        },
+        {
+          "text": "16 - Edital de Convocação para Prova Física",
+          "href": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/b55b6442-2093-4518-9b63-4beb78d829db.pdf"
+        },
+        {
+          "text": "17 - Edital de Convocação da Heteroidentificação Presencial",
+          "href": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/59e2b49b-0c65-43a1-b9dc-316572986bf4.pdf"
+        },
+        {
+          "text": "18- Edital de Retificação da Convocação para Prova Física",
+          "href": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/69eb2d0b-20fd-4fbe-9691-0f26b1dea611.pdf"
+        },
+        {
+          "text": "27- Edital de Convocação para Heteroidentificação.",
+          "href": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/994938e6-dec6-425d-94b7-a0abd507a7fe.pdf"
+        }
+      ]
+    }
+  ],
+  "convocation": {
+    "http": 200,
+    "bytes": 186290,
+    "pdf": true,
+    "error": null
+  },
+  "limitations": [
+    "Text extraction only; no independent visual inspection of all pages",
+    "PDF signature flags observed, but no cryptographic signature validation",
+    "No access to restricted HR/DIGP systems",
+    "HTTP 404 is not proof of permanent absence"
+  ]
+}
