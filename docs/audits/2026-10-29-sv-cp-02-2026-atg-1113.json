@@ -1282,6 +1282,2473 @@
       "attempts": 1
     },
     {
-      "url": "https://www.saov
-... (output truncated, full output saved to: /mnt/files/.composio/output/bash_fair_stdout.txt)
-Run 'cat /mnt/files/.composio/output/bash_fair_stdout.txt' to view the full output, or use 'head -n 100 /mnt/files/.composio/output/bash_fair_stdout.txt' / 'tail -n 100 /mnt/files/.composio/output/bash_fair_stdout.txt' to view parts of it.
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-697-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-698-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-699-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-700-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-701-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-702-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-703-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-704-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-705-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 1
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-706-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-707-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-708-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-709-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-710-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-711-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-712-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-713-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-714-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-5-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-6-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-7-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-8-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extraordinaria-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-extraordinario-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-715-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "attempts": 2
+    }
+  ],
+  "documents": [
+    {
+      "file": "23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "short_pages": [],
+      "first_page_excerpt": "1 CONCURSO PÚBLICO N° 02/2026 EDITAL DE DIVULGA˙ˆO DA CLASSIFICA˙ˆO FINAL A Prefeitura do Município de Sªo Vicente, por intermØdio de sua Comissªo Permanente Examinadora de Seleçªo, Classificaçªo e Aperfeiçoamento de Pessoal, doravante denominada Comissªo Organizadora, constituída pela Portaria GP n” 253, de 28 de dezembro de 2021, e suas alteraçıes, nos termos da legislaçªo vigente, torna pœblicas as listas de CLASSIFICA˙ˆO FINAL dos candidatos habilitados no referido Concurso",
+      "metadata": {
+        "/Producer": "GPL Ghostscript 10.02.1",
+        "/CreationDate": "D:20260817103735-03'00'",
+        "/ModDate": "D:20260817103735-03'00'",
+        "/Creator": "PDF24 Creator"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-687-versaoimpressao.pdf",
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "short_pages": [],
+      "first_page_excerpt": "1 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv Edição 687 - Publicada em 13/10/2026 Instituído pela Lei nº 4.206/2021 Fundo Social leva brinquedos para crianças de creches de São Vicente na semana da criança PÁG 06 Com açaí, banana e alegria, Sexta-feira Divertida do Dia das Crianças tem sabor especial na rede municipal de São Vicente PÁG 07 Dia das Crianças: Talentos mirins de São Vicente se destacam na",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 687.indd",
+        "/ModDate": "D:20261013184802+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261013153805-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "short_pages": [],
+      "first_page_excerpt": "1 Edição 688 - SUPLEMENTAR Publicada em 15/10/2026 Instituído pela Lei nº 4.206/2021 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv CADERNO DE LEIS E REGULAMENTOS DECRETOS DO PREFEITO DECRETO N.º 7263, DE 15 DE OUTUBRO DE 2026 Regulamenta, no âmbito do Município de São Vicente, a aplicação das hipóteses excepcionais previstas no §2º do art. 6º da Lei Federal nº 14.903, de 27 de junho de 2024, que estabelece",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 688 - suplementar.indd",
+        "/ModDate": "D:20261015192706+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261015162425-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-688-versaoimpressao.pdf",
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "short_pages": [],
+      "first_page_excerpt": "1 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv Edição 688 - Publicada em 15/10/2026 Instituído pela Lei nº 4.206/2021 Dia das Crianças: Rua da FelizCidade leva diversão e lazer à Orla do Gonzaguinha neste domingo (18) PÁG 07 São Vicente recebe novos equipamentos de segurança por meio do programa Municípios Mais Seguros PÁG 08 São Vicente elimina mais de 5 mil focos de dengue em setembro, com maior incidê",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 688.indd",
+        "/ModDate": "D:20261015170700+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261015124546-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-689-versaoimpressao.pdf",
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "short_pages": [],
+      "first_page_excerpt": "1 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv Edição 689 - Publicada em 20/10/2026 Instituído pela Lei nº 4.206/2021 Fundo Social de São Vicente abre inscrições para nova etapa do Acolhe Mãe Puerpério PÁG 05 8º Mutirão do Implanon de São Vicente contempla mais de 100 adolescentes da Área Insular PÁG 06 São Vicente apresenta projeto de monitoramento climático para fortalecer prevenção de riscos PÁG 08",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 689.indd",
+        "/ModDate": "D:20261020151518+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261020120827-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-690-versaoimpressao.pdf",
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "short_pages": [],
+      "first_page_excerpt": "1 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv Edição 690 - Publicada em 22/10/2026 Instituído pela Lei nº 4.206/2021 São Vicente recebe sugestões da população para Plano Municipal de Segurança Pública até sábado (24) PÁG 04 Fundo Social de São Vicente leva serviços gratuitos ao Samaritá nesta sexta (23) PÁG 05 Hospital do Vicentino realiza quinta captação de órgãos de 2026 PÁG 05 Píer do Pelé completa três",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 690.indd",
+        "/ModDate": "D:20261022181512+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261022150630-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "short_pages": [],
+      "first_page_excerpt": "1 Edição 691 - EXTRA - Publicada em 23/10/2026 Instituído pela Lei nº 4.206/2021 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv CADERNO DE ATOS DO PODER EXECUTIVO: ADMINISTRAÇÃO DIRETA SEÇÃO DE LICITAÇÕES SECRETARIA EXECUTIVA DO PREFEITO AVISO SUPLIC – SUSPENSÃO DO PREGÃO ELETRÔNICO 56/26 – PROC. SEI N.º 27518/2026- 79. Objeto: Contratação de empresa especializada para prestação de serviços de limpeza e desi",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 691 - extra.indd",
+        "/ModDate": "D:20261023190426+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261023160234-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "short_pages": [],
+      "first_page_excerpt": "1 Edição 692 - EXTRA - Publicada em 26/10/2026 Instituído pela Lei nº 4.206/2021 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv CADERNO DE ATOS DO PODER EXECUTIVO: ADMINISTRAÇÃO DIRETA SEÇÃO DE LICITAÇÕES SECRETARIA EXECUTIVA DO PREFEITO AVISO DE LICITAÇÃO - PREGÃO ELETRÔNICO N.º 89/26 – PROC. SEI N.º 38039/2026-88. Objeto: Contratação de empresa especializada para locação, montagem e desmontagem de 24 tenda",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 692 - extra.indd",
+        "/ModDate": "D:20261026180653+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261026145609-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "short_pages": [],
+      "first_page_excerpt": "1 KAYO AMADO - PREFEITO DE SÃO VICENTE WAGNER CABEÇA - PRESIDENTE DA CÂMARA MUNICIPAL TV Primeira www.saovicente.sp.gov.brprefeiturasv Edição 693 - Publicada em 27/10/2026 Instituído pela Lei nº 4.206/2021 Jogo educativo de tabuleiro aproxima estudantes das relações entre mudanças climáticas e saúde pública de São Vicente PÁG 13 Ouvidoria de São Vicente finaliza cerca de 80% das manifestações registradas em 2026 PÁG 09 São Vicente celebra o Dia Nacional da Saúde Bucal com mais de 160 mil serv",
+      "metadata": {
+        "/GTS_PDFXVersion": "PDF/X-1:2001",
+        "/Creator": "Adobe InDesign 21.5 (Windows)",
+        "/Title": "BOM Edição 693.indd",
+        "/ModDate": "D:20261027193536+00'00'",
+        "/GTS_PDFXConformance": "PDF/X-1a:2001",
+        "/Author": "Assinador TechCert",
+        "/Producer": "Adobe PDF Library 18.0; modified using iTextSharp.LGPLv2.Core 3.7.2.0",
+        "/CreationDate": "D:20261027163222-03'00'",
+        "/Trapped": "False"
+      },
+      "signature_validation": "not performed"
+    },
+    {
+      "file": "convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "short_pages": [],
+      "first_page_excerpt": "Prefeitura Municipal de São Vicente Cidade Monumento da História Pátria Cellula Mater da Nacionalidade ATOS DO EXECUTIVO MUNICIPAL O Município de São Vicente, Estado de São Paulo, convoca os(as) candidatos(as) abaixo, habilitados(as) no concurso público aberto por meio do respectivo edital, para comparecer no Auditório da Secretaria de Saúde da Prefeitura Municipal de São Vicente, situada na Rua Padre Anchieta, n.º 462, 5.º andar – Centro, nos dias e horários discriminados abaixo , munido(a) de",
+      "metadata": {
+        "/Title": "ATOS DO EXECUTIVO MUNICIPAL",
+        "/Author": "SEAD",
+        "/Creator": "Writer",
+        "/Producer": "LibreOffice 7.1",
+        "/CreationDate": "D:20261027151517-03'00'"
+      },
+      "signature_validation": "not performed"
+    }
+  ],
+  "total_pdf_pages_extracted": 390,
+  "all_pages_minimum_50_chars": true,
+  "municipal_pages": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "http": 200,
+      "bytes": 1349600,
+      "items": [
+        {
+          "title": "1 - Edital de Abertura",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/01-minuta-edital-de-abertura-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "2 - Retificação do Edital de Abertura",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/02-retificacao-do-edital-de-abertura.pdf/view"
+        },
+        {
+          "title": "03 - Edital de Resultado de Isenção de Pagamento da Inscrição",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/03-edital-de-resultado-de-isencao-de-pagamento-da-inscricao.pdf/view"
+        },
+        {
+          "title": "04 - Edital de Resultado dos Recursos de Isenção de Pagamento",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/minuta-do-edital-de-resultado-dos-recursos-de-isencao-de-pagamento.pdf/view"
+        },
+        {
+          "title": "05 - Edital de Divulgação de Candidatos que Apresentaram Laudos Médicos com Deficiência",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/05-edital-de-divulgacao-de-candidatos-que-apresentaram-laudos-medicos-com-deficiencia.pdf/view"
+        },
+        {
+          "title": "06 - Edital de Relação de Candidatos que se Autodeclararam como Negro e ou Afrodescendente",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/06-edital-de-relacao-de-candidatos-que-se-autodeclararam-como-negro-e-ou-afrodescendente.pdf/view"
+        },
+        {
+          "title": "07 - Edital Lista de Inscritos por Cargo e por Modalidade",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/07-edital-lista-de-inscritos-por-cargo-e-por-modalidade.pdf/view"
+        },
+        {
+          "title": "08 - Edital de Convocação para Provas Objetivas",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/08-edital-de-convocacao-para-provas-objetivas-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "09 - Edital Resultado de Recursos da Lista de Inscritos",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/09-edital-resultado-de-recursos-da-lista-de-inscritos-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "10 - Edital Resultado de Recurso dos Candidatos que Apresentaram Laudos Médicos com Deficiência",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/10-edital-de-resultado-de-recurso-dos-candidatos-que-apresentaram.pdf/view"
+        },
+        {
+          "title": "11 - Edital Resultado de Recursos dos Candidatos Negros",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/11-edital-resultado-de-recursos-dos-candidatos-negros-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "12 - Edital de Resultado da Prova Objetiva - GABARITO",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/12-edital-de-resultado-da-prova-objetiva-gabarito.pdf/view"
+        },
+        {
+          "title": "13 - Edital de Resultado de Recurso da Prova Objetiva - GABARITO",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/13-edital-de-resultado-de-recurso-da-prova-objetiva-gabarito-cp-02-26.pdf/view"
+        },
+        {
+          "title": "14 - Edital de Divulgação de Notas das Provas Objetivas",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/14-edital-de-divulgacao-de-notas-das-provas-objetivas-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "15 - Edital de Resultado de Recurso das Notas da Prova Objetiva - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/15-edital-de-resultado-de-recurso-das-notas-da-prova-objetiva-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "16 - Edital de Convocação para Prova Física - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/16-edital-de-convocacao-para-prova-fisica-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "17 - Edital de Convocação da Heteroidentificação Presencial - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/17-edital-de-convocacao-da-heteroidentificacao-presencial-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "18 - Edital de Retificação da Convocação para Prova Física - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/18-edital-de-retificacao-da-convocacao-para-prova-fisica-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "19 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/19-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "20 - EDITAL DE DIVULGAÇÃO DA CLASSIFICAÇÃO PRELIMINAR",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/20-edital-de-divulgacao-da-classificacao-preliminar-ass-e-inspetor.pdf/view"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "http": 200,
+      "bytes": 1335481,
+      "items": [
+        {
+          "title": "21- Edital de Divulgação dos Resultados do Teste de Aptidão Física.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/21-edital-de-divulgacao-dos-resultados-do-teste-de-aptidao-fisica.pdf/view"
+        },
+        {
+          "title": "22- Edital de Resultado de Recurso da Classificação Preliminar - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/22-edital-de-resultado-de-recurso-da-classificacao-preliminar-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "23- Edital de Divulgação da Classificação Final - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "24 - Homologação parcial.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/24-homologacao-parcial.pdf/view"
+        },
+        {
+          "title": "25 - Edital de Resultado de Recurso do Resultado do TAF - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/25-edital-de-resultado-de-recurso-do-resultado-do-taf-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "26 - Edital de Divulgação da Classificação Preliminar - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/26-edital-de-divulgacao-da-classificacao-preliminar-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "27 - EDITAL DE CONVOCAÇÃO PARA O PROCEDIMENTO DE HETEROIDENTIFICAÇÃO AGENTE DE TRANSITO.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/27-edital-de-convocacao-para-o-procedimento-de-heteroidentificacao-agente-de-transito.pdf/view"
+        },
+        {
+          "title": "28 - Republicação do Edital da Classificação Preliminar - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/28-republicacao-do-edital-da-classificacao-preliminar-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "29 - Edital de Resultado de Heteroidentificação - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/29-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "30 - Edital de Divulgação da Classificação Final - CP 02-2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf/view"
+        },
+        {
+          "title": "31 - Despacho de Homologação.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf/view"
+        }
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40",
+      "http": 200,
+      "bytes": 1317575,
+      "items": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "http": 200,
+      "bytes": 1326771,
+      "items": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "http": 200,
+      "bytes": 1324591,
+      "items": [
+        {
+          "title": "Convocação dias 03, 04, 05 e 06 de novembro de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf/view"
+        },
+        {
+          "title": "Convocação dias 18, 21, 22 e 24 de setembro de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf/view"
+        },
+        {
+          "title": "Convocação 17 e 18 de agosto de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-17-e-18-de-agosto-de-2026.pdf/view"
+        },
+        {
+          "title": "Convocação 23 e 24 de julho de 2026.pdf",
+          "href": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-23-e-24-de-julho-de-2026.pdf/view"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      "http": 403,
+      "bytes": 5484
+    }
+  ],
+  "ibam_web_native": "https://www.ibamsp-concursos.org.br/informacoes/134/ — documents 01-31, confirmed 2026-10-29 via web native; direct HTTP 403",
+  "last_general_atg": 65,
+  "candidate_general_atg": 99,
+  "nominal_gap": 34,
+  "new_relevant_act": false,
+  "visual_all_pages": "not independently performed",
+  "crypto_signature_validation": "not performed",
+  "restricted_hr_systems": "not accessed",
+  "browserbase": "connected, not used",
+  "crawl4ai": "not connected (endpoint not verified)",
+  "firecrawl": "not used (priced)",
+  "pdfco": "not used (priced)"
+}
