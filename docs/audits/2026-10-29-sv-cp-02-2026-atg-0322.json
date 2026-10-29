@@ -1,0 +1,1612 @@
+{
+  "audit_brt": "2026-10-29 03:22:10 BRT",
+  "scope": "São Vicente CP 02/2026, Assistente-Técnico de Gestão",
+  "last_certified_textual_edition": 693,
+  "next_edition": 694,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "sha256": "6ac9c68e9bb0ae438dbacb0bb5049c2378a4a79c558e629b0de16e1ec6b6ebd9",
+    "real_pdf_hrefs": [
+      {
+        "n": 693,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf"
+      },
+      {
+        "n": 692,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf"
+      },
+      {
+        "n": 691,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf"
+      },
+      {
+        "n": 690,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf"
+      },
+      {
+        "n": 689,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf"
+      },
+      {
+        "n": 688,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf"
+      },
+      {
+        "n": 688,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf"
+      },
+      {
+        "n": 687,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf"
+      },
+      {
+        "n": 686,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-686-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-686-versaoimpressao.pdf"
+      },
+      {
+        "n": 685,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-685-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-685-versaoimpressao.pdf"
+      },
+      {
+        "n": 684,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-684-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-684-versaoimpressao.pdf"
+      },
+      {
+        "n": 683,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-683-extra-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-683-extra-versaoimpressao.pdf"
+      },
+      {
+        "n": 682,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-682-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-682-versaoimpressao.pdf"
+      },
+      {
+        "n": 681,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-681-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-681-versaoimpressao.pdf"
+      },
+      {
+        "n": 680,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-680-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-680-versaoimpressao.pdf"
+      },
+      {
+        "n": 679,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-679-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-679-versaoimpressao.pdf"
+      },
+      {
+        "n": 678,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-678-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-678-versaoimpressao.pdf"
+      },
+      {
+        "n": 677,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-677-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-677-versaoimpressao.pdf"
+      },
+      {
+        "n": 676,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-676-1-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-676-1-versaoimpressao.pdf"
+      },
+      {
+        "n": 675,
+        "title": "",
+        "view_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-675-extra-versaoimpressao.pdf/view",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-675-extra-versaoimpressao.pdf"
+      }
+    ]
+  },
+  "variant_discovery": {
+    "method": "HEAD and GET, checking PDF magic",
+    "edition_range": "689–700 plus indexed 687–688",
+    "probes_total": 207,
+    "head_200": 8,
+    "head_404": 199,
+    "get_200_pdf": 8,
+    "get_404": 199,
+    "errors_after_retry": 0,
+    "future_editions": {
+      "694": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "695": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "696": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "697": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "698": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "699": {
+        "head_404": 17,
+        "get_404": 17
+      },
+      "700": {
+        "head_404": 17,
+        "get_404": 17
+      }
+    },
+    "probes": [
+      {
+        "filename": "bom-edicao-687-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-688-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-689-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-689-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-690-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-690-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-691-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-691-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-691-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-extra-versaoimpressao.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-692-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-692-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-1-versaoimpressao-1.pdf",
+        "HEAD": 200,
+        "GET": 200,
+        "pdf_magic": true
+      },
+      {
+        "filename": "bom-edicao-693-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-693-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-694-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-695-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-696-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-697-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-698-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-699-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-2-versaoimpressao-2.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-1-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-2-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-2-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-3-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-4-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-5-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-6-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-7-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-8-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-extra-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-suplementar-1-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-suplementar-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-versaoimpressao-1.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      },
+      {
+        "filename": "bom-edicao-700-versaoimpressao.pdf",
+        "HEAD": 404,
+        "GET": 404,
+        "pdf_magic": false
+      }
+    ],
+    "note": "404 does not establish permanent absence"
+  },
+  "documents": [
+    {
+      "name": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "extracted_pages": 55,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/459BG-WGZ9E-LWWAZ-R59LG",
+      "signature_manifest_date": "27/10/2026 16:35",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "extracted_pages": 2,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/CR6QD-Z655V-6MJGT-9ZXTH",
+      "signature_manifest_date": "26/10/2026 15:06",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "extracted_pages": 2,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/HGQGP-WS7B5-SZXFU-2A4QK",
+      "signature_manifest_date": "23/10/2026 16:04",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-690-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "extracted_pages": 179,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/3B2XC-TPLD2-4DJVL-B3RVP",
+      "signature_manifest_date": "22/10/2026 15:15",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-689-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "extracted_pages": 49,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/4V62E-ETQEY-UJNN5-XD2X4",
+      "signature_manifest_date": "20/10/2026 12:15",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "extracted_pages": 4,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/8NJDJ-MTDCM-M4FSA-PHDML",
+      "signature_manifest_date": "15/10/2026 16:27",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-688-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "extracted_pages": 43,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/HCTRU-78Z2H-57B8G-R665Y",
+      "signature_manifest_date": "15/10/2026 14:06",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "bom-edicao-687-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "extracted_pages": 43,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": "https://signer.techcert.com.br/validate/DH4D8-R545U-58B7Y-TNYD9",
+      "signature_manifest_date": "13/10/2026 15:47",
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "extracted_pages": 6,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": null,
+      "signature_manifest_date": null,
+      "signature_cryptographically_verified": false
+    },
+    {
+      "name": "convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "extracted_pages": 7,
+      "empty_pages": [],
+      "low_text_pages": [],
+      "signature_manifest_url": null,
+      "signature_manifest_date": null,
+      "signature_cryptographically_verified": false
+    }
+  ],
+  "total_extracted_pages": 390,
+  "classification": {
+    "registration": "29820",
+    "name": "Gabriel Veloso Menezes",
+    "rank_general_AC": 99,
+    "score": "43,00",
+    "source": "item 23 official final classification, page 5"
+  },
+  "last_atg_call": {
+    "date": "2026-10-27",
+    "general_rank": 65,
+    "name": "Henrique Alves Pieroni Dantas",
+    "source": "official convocation, page 2"
+  },
+  "nominal_distance": 34,
+  "confirmed_new_relevant_act": false,
+  "alert_sent": false,
+  "email_sent": false,
+  "independent_sources": {
+    "municipal_concurso": "items 1-31; pagination 40 empty",
+    "municipal_convocations": "latest 27/10/2026",
+    "ibam_web_native": "items 1-31; direct HTTP 403 Cloudflare"
+  },
+  "known_irrelevant_acts": [
+    "BOM 693 p21-22: effective ATG designations/secondments",
+    "BOM 693 p35: resignation of effective ATG Rafael Pereira Simões; no substitute call",
+    "BOM 693 p29: generic notice of possession extension decisions without disposition",
+    "BOM 689 p20: Caio Monticelli and Eduardo Poliselli Zanella; no result",
+    "BOM 692 extra: bidding only"
+  ],
+  "tools_used": [
+    "Composio Remote Bash",
+    "HTTP requests HEAD/GET",
+    "BeautifulSoup",
+    "PyMuPDF",
+    "SHA-256",
+    "web native",
+    "GitHub (persistence)"
+  ],
+  "errors_resolved": [
+    "initial index GET read timeout, retried HTTP 200",
+    "17 transient HEAD/GET timeouts, retried until 0 errors"
+  ],
+  "unresolved_limitations": [
+    "local container DNS failure",
+    "Chat On Steroids tunnel unavailable",
+    "Crawl4AI self-hosted endpoint not established (not connected)",
+    "Browserbase, Browser Use, Firecrawl, Tavily/Jina not used",
+    "no independent page-by-page visual review",
+    "signature manifests found but cryptographic verification not performed",
+    "no restricted RH/DIGP access"
+  ]
+}
