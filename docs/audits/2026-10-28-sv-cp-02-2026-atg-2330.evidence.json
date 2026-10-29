@@ -1,0 +1,115 @@
+{
+  "audit_date_local": "2026-10-28",
+  "audit_start_local": "23:30",
+  "scope": "São Vicente CP 02/2026 Assistente-Técnico de Gestão",
+  "result": "no_new_proven_relevant_act",
+  "bom_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1347513,
+    "unique_href_count": 20,
+    "latest_edition": 693,
+    "latest_internal_date": "2026-10-27"
+  },
+  "direct_http": {
+    "head": {
+      "total": 136,
+      "status_200": 21,
+      "status_404": 115
+    },
+    "get": {
+      "total": 81,
+      "status_200": 21,
+      "status_404": 60,
+      "pdf_valid": 20,
+      "html_false_positive": 1
+    },
+    "editions_694_to_698": {
+      "variants_per_edition": 12,
+      "head_status": 404,
+      "get_status": 404
+    },
+    "additional_variant_probes": {
+      "total": 65,
+      "head_status": 404,
+      "get_status": 404
+    },
+    "note": "404 is not definitive nonexistence"
+  },
+  "bom_pdf_pages": [
+    {
+      "edition": "687",
+      "pages": 43
+    },
+    {
+      "edition": "688",
+      "pages": 43
+    },
+    {
+      "edition": "688-supplemental",
+      "pages": 4
+    },
+    {
+      "edition": "689",
+      "pages": 49,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1"
+    },
+    {
+      "edition": "690",
+      "pages": 179,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b"
+    },
+    {
+      "edition": "691-extra-1",
+      "pages": 2,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "edition": "692-extra",
+      "pages": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "edition": "693",
+      "pages": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    }
+  ],
+  "bom_pages_text_extracted": 377,
+  "convocation": {
+    "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "http": 200,
+    "pages": 7,
+    "bytes": 186290,
+    "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+    "last_general_rank": 65
+  },
+  "ranking": {
+    "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+    "http": 200,
+    "pages": 6,
+    "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+    "candidate_page": 5,
+    "registration": 29820,
+    "general_rank": 99,
+    "score": 43
+  },
+  "gap_nominal": 34,
+  "independent_sources": {
+    "municipal_documents_last_item": 31,
+    "ibam_last_item": 31,
+    "convocations_last_document_date": "2026-10-27"
+  },
+  "limitations": [
+    "No independent visual inspection of all PDF pages",
+    "Electronic signatures not cryptographically verified",
+    "No restricted RH/DIGP access",
+    "Crawl4AI endpoint not confirmed",
+    "Chat On Steroids tunnel disconnected",
+    "Container DNS failed"
+  ],
+  "notification_sent": false,
+  "email_sent": false,
+  "next_edition": 694,
+  "checkpoint_textual": 693
+}
