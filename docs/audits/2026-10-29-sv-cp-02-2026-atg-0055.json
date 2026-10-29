@@ -1,0 +1,116 @@
+{
+  "checked_at": "2026-10-29T01:03:15.747988-03:00",
+  "docs": [
+    {
+      "name": "bom-edicao-687-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "bytes": 9696910,
+      "pages": 43,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-688-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "bytes": 9529895,
+      "pages": 43,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "bytes": 910321,
+      "pages": 4,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-689-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "bytes": 5538184,
+      "pages": 49,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-690-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "bytes": 6899976,
+      "pages": 179,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "bytes": 857200,
+      "pages": 2,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "bytes": 853711,
+      "pages": 2,
+      "empty_pages": []
+    },
+    {
+      "name": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "bytes": 9376703,
+      "pages": 55,
+      "empty_pages": []
+    },
+    {
+      "name": "convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "bytes": 186290,
+      "pages": 7,
+      "empty_pages": []
+    },
+    {
+      "name": "23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "bytes": 447650,
+      "pages": 6,
+      "empty_pages": []
+    }
+  ],
+  "probe_counts": {
+    "distinct_urls": 156,
+    "get_404": 147,
+    "get_pdf_200": 8,
+    "get_html_200": 1
+  },
+  "pages": {
+    "index_status": 200,
+    "index_bytes": 1347513,
+    "last_bom": "693 (27/10/2026)",
+    "municipal_items": "1-31",
+    "ibam_direct": "403 Cloudflare",
+    "ibam_web": "1-31",
+    "latest_convocation": "27/10/2026"
+  },
+  "method": "HTTP direto Composio Remote Bash; HEAD+GET 12 variantes por edição 687-699; 22 HEAD repetidos após timeout; PyMuPDF integral; SHA256; HTML/links oficiais; IBAM corroborado web nativa",
+  "checkpoint": "BOM 693; próxima edição 694",
+  "candidate": {
+    "registration": "29820",
+    "rank_AC": 99,
+    "score": 43,
+    "latest_general_rank": 65,
+    "nominal_distance": 34
+  },
+  "limitations": [
+    "Sem inspeção visual independente página a página",
+    "Sem validação criptográfica das assinaturas",
+    "Sem acesso RH/DIGP restrito",
+    "Crawl4AI sem endpoint confirmado; Browserbase e Firecrawl não utilizados",
+    "HTTP 404 não comprova inexistência futura"
+  ]
+}
