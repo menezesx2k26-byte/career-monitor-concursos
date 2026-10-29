@@ -1,0 +1,195 @@
+{
+  "audit_date_brt": "2026-10-29 01:42–01:47",
+  "scope": "São Vicente CP 02/2026 ATG",
+  "last_index_edition": 693,
+  "next_edition": 694,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1347513,
+    "sha256": "442ef99bda62a430c76d0cf14eaed5697a73d3ddf275e8adbf20bf2e8fb6fa24",
+    "pdf_links": 8
+  },
+  "variant_discovery": {
+    "editions": "689-699",
+    "patterns_per_edition": 12,
+    "head": {
+      "total": 135,
+      "http200": 9,
+      "http404": 126
+    },
+    "get_range": {
+      "total": 124,
+      "http206_pdf": 8,
+      "http200_html": 1,
+      "http404": 114,
+      "timeout": 1
+    },
+    "timeout_revalidated": {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-extra-3-versaoimpressao.pdf",
+      "get_status": 404
+    },
+    "future_editions": [
+      {
+        "edition": 694,
+        "head_404": 12,
+        "get_404": 12
+      },
+      {
+        "edition": 695,
+        "head_404": 12,
+        "get_404": 12
+      },
+      {
+        "edition": 696,
+        "head_404": 12,
+        "get_404": 12
+      },
+      {
+        "edition": 697,
+        "head_404": 12,
+        "get_404": 12
+      },
+      {
+        "edition": 698,
+        "head_404": 12,
+        "get_404": 12
+      },
+      {
+        "edition": 699,
+        "head_404": 12,
+        "get_404": 12
+      }
+    ],
+    "note": "HTTP 404 does not prove permanent absence"
+  },
+  "documents": [
+    {
+      "name": "bom-edicao-687-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 43,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-688-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 43,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 4,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-689-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 49,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-690-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 179,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 2,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "pages": 2,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "pages": 55,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "pages": 7,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    },
+    {
+      "name": "77a4a4c5-274e-4efe-bb06-acf1ef0ba31e.pdf",
+      "url": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/77a4a4c5-274e-4efe-bb06-acf1ef0ba31e.pdf",
+      "http": 200,
+      "pages": 6,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "text_extracted_all_pages": true,
+      "empty_text_pages": 0
+    }
+  ],
+  "total_pages": 390,
+  "classification": {
+    "registration": "29820",
+    "rank": 99,
+    "modality": "AC",
+    "score": "43,00",
+    "source_page": 5
+  },
+  "last_general_atg_call": {
+    "rank": 65,
+    "source_date": "2026-10-27",
+    "source_page": 2
+  },
+  "distance_nominal": 34,
+  "confirmed_new_relevant_act": false,
+  "alert_sent": false,
+  "email_sent": false,
+  "limits": [
+    "No independent visual inspection of all pages",
+    "No independent cryptographic signature validation",
+    "No access to restricted RH/DIGP"
+  ],
+  "raw_evidence_in_composio_sandbox": {
+    "discovery_json_sha256": "e38edacde501f8cc3698f2f143e4bd3339a2a678ee8561c25bdd31ae0b04d98e",
+    "pdf_evidence_json_sha256": "97e9320c5649cde858caa32989f9d48cb4cfa634a5870f67154dd5f00c9cf6f4",
+    "pages_json_sha256": "4cf01e437f7419a923f8eebd6cd38032c515c28cdeb428bdef051f2e824887a3"
+  }
+}
