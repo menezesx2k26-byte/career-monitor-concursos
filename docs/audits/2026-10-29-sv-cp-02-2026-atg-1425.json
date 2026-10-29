@@ -1,0 +1,219 @@
+{
+  "run": "sv-atg-20261029-1425-brt",
+  "audited_at": "2026-10-29T14:29:53-03:00",
+  "checkpoint_before": 693,
+  "checkpoint_after": 693,
+  "next_edition": 694,
+  "source_index": "https://www.saovicente.sp.gov.br/transparencia/bom",
+  "source_index_http": 200,
+  "last_index_edition": 693,
+  "last_index_date": "2026-10-27",
+  "probe_definition": {
+    "base": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-{N}{suffix}-versaoimpressao.pdf",
+    "N_min": 689,
+    "N_max": 725,
+    "suffixes": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-extra-6",
+      "-extra-7",
+      "-extra-8",
+      "-suplementar",
+      "-1",
+      "-extra-suplementar",
+      "-suplementar-1"
+    ],
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "additional_real_href_urls": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf"
+    ]
+  },
+  "probes_total": 522,
+  "default_status": {
+    "HEAD": 404,
+    "GET": 404
+  },
+  "default_count": 513,
+  "exceptions": [
+    {
+      "N": 689,
+      "suffix": "",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1"
+    },
+    {
+      "N": 690,
+      "suffix": "",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b"
+    },
+    {
+      "N": 691,
+      "suffix": "-extra-1",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "N": 692,
+      "suffix": "-extra",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "N": 693,
+      "suffix": "-1",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": false,
+      "content_type": "text/html;charset=utf-8",
+      "final_url": "https://www.saovicente.sp.gov.br/insufficient-privileges",
+      "bytes": 1313241
+    },
+    {
+      "N": 693,
+      "suffix": "INDEX",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "N": 688,
+      "suffix": "INDEX",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2"
+    },
+    {
+      "N": 688,
+      "suffix": "INDEX",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3"
+    },
+    {
+      "N": 687,
+      "suffix": "INDEX",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "HEAD": 200,
+      "GET": 200,
+      "pdf": true,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164"
+    }
+  ],
+  "errors": [],
+  "new_editions_tested": "694-725",
+  "new_edition_variant_count": 448,
+  "new_edition_status": "all 404/404",
+  "pdf_text_audit": {
+    "extractor": "pypdf 6.21.2",
+    "total_pdfs": 10,
+    "total_pages": 390,
+    "empty_pages": 0,
+    "pages_under_50_chars": 0,
+    "documents": [
+      {
+        "name": "BOM 687",
+        "pages": 43
+      },
+      {
+        "name": "BOM 688 normal",
+        "pages": 43
+      },
+      {
+        "name": "BOM 688 suplementar",
+        "pages": 4
+      },
+      {
+        "name": "BOM 689",
+        "pages": 49
+      },
+      {
+        "name": "BOM 690",
+        "pages": 179
+      },
+      {
+        "name": "BOM 691 extra-1",
+        "pages": 2
+      },
+      {
+        "name": "BOM 692 extra",
+        "pages": 2
+      },
+      {
+        "name": "BOM 693",
+        "pages": 55
+      },
+      {
+        "name": "Classificação final item 23",
+        "pages": 6,
+        "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+      },
+      {
+        "name": "Convocação 27/10",
+        "pages": 7,
+        "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+      }
+    ]
+  },
+  "other_sources": {
+    "concurso_main": 200,
+    "concurso_page2": 200,
+    "concursos_index": 200,
+    "convocacoes_2026": 200,
+    "ibam_direct": 403,
+    "ibam_web_native": "1-31 only",
+    "municipal_concurso_documents": "1-31",
+    "latest_convocation": "27/10/2026 for 03-06/11/2026"
+  },
+  "result": {
+    "new_pertinent_act": false,
+    "latest_general_position": 65,
+    "candidate_position": 99,
+    "nominal_gap": 34,
+    "confirmed_new_withdrawals": 0,
+    "alert": false,
+    "email": false
+  },
+  "limitations": [
+    "No independent page-by-page visual inspection",
+    "No cryptographic signature validation",
+    "No access to restricted RH/DIGP systems",
+    "Crawl4AI endpoint not connected",
+    "Browserbase available but not used to conserve free quota",
+    "No Firecrawl used",
+    "One direct HTTP 200 was HTML insufficient-privileges rather than PDF"
+  ]
+}
