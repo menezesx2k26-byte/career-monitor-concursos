@@ -1,0 +1,1260 @@
+{
+  "audited_at_brt": "2026-10-28T22:32:35.838227-03:00",
+  "scope": "São Vicente CP 02/2026 ATG; posição 99 AC inscrição 29820",
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1347513,
+    "max_edition": 693,
+    "real_pdf_hrefs": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf"
+    ]
+  },
+  "probes": [
+    {
+      "url": "bom-edicao-689-versaoimpressao.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": true,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-689-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-versaoimpressao.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": true,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-690-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": true,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-691-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": true,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-692-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-extra-3-versaoimpressao.pdf",
+      "head": null,
+      "get": null,
+      "pdf": false,
+      "error": "HTTPSConnectionPool(host='www.saovicente.sp.gov.br', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "bom-edicao-693-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-1-versaoimpressao.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "head": 200,
+      "get": 200,
+      "pdf": true,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-694-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-695-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-696-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-extra-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-extra-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-extra-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-extra-3-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-extra-4-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-suplementar-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-suplementar-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-suplementar-2-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-1-versaoimpressao.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    },
+    {
+      "url": "bom-edicao-697-1-versaoimpressao-1.pdf",
+      "head": 404,
+      "get": 404,
+      "pdf": false,
+      "error": null
+    }
+  ],
+  "pdfs": [
+    {
+      "edition": 693,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "per_page_text_chars": [
+        7961,
+        8388,
+        12279,
+        7319,
+        9944,
+        10215,
+        8678,
+        6292,
+        9217,
+        9310,
+        8766,
+        6336,
+        5489,
+        6218,
+        8918,
+        9211,
+        8547,
+        9156,
+        10995,
+        9281,
+        9259,
+        8347,
+        10713,
+        10634,
+        7671,
+        11054,
+        9073,
+        9928,
+        11612,
+        8893,
+        8102,
+        12836,
+        12301,
+        11212,
+        10381,
+        9510,
+        8154,
+        8649,
+        11111,
+        10185,
+        10727,
+        8231,
+        8599,
+        8604,
+        8245,
+        11229,
+        8304,
+        10970,
+        8652,
+        8392,
+        8653,
+        7573,
+        7458,
+        9168,
+        1169
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "459BG-WGZ9E-LWWAZ-R59LG",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1169
+    },
+    {
+      "edition": 692,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "per_page_text_chars": [
+        7487,
+        1172
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "CR6QD-Z655V-6MJGT-9ZXTH",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1172
+    },
+    {
+      "edition": 691,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "per_page_text_chars": [
+        7715,
+        1169
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "HGQGP-WS7B5-SZXFU-2A4QK",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1169
+    },
+    {
+      "edition": 690,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "per_page_text_chars": [
+        7402,
+        8706,
+        12279,
+        6280,
+        6325,
+        9898,
+        9511,
+        4600,
+        9028,
+        9920,
+        7438,
+        9756,
+        8576,
+        10865,
+        6215,
+        6243,
+        7403,
+        16342,
+        21633,
+        22428,
+        18431,
+        22931,
+        20742,
+        14242,
+        22669,
+        18607,
+        22555,
+        14001,
+        24717,
+        24142,
+        25584,
+        25332,
+        20232,
+        25095,
+        22025,
+        25641,
+        20964,
+        21977,
+        24364,
+        17807,
+        14184,
+        17845,
+        20072,
+        21236,
+        18993,
+        22051,
+        21532,
+        19889,
+        24122,
+        23262,
+        23635,
+        22897,
+        26329,
+        21317,
+        17953,
+        21939,
+        25448,
+        24182,
+        18055,
+        20500,
+        24042,
+        22282,
+        19787,
+        19321,
+        22451,
+        20651,
+        12287,
+        9478,
+        21826,
+        19191,
+        23291,
+        20788,
+        9906,
+        19121,
+        18645,
+        10551,
+        25618,
+        14584,
+        21140,
+        19947,
+        18887,
+        19326,
+        9884,
+        18539,
+        10982,
+        22781,
+        12275,
+        20392,
+        11539,
+        19210,
+        19535,
+        10197,
+        18391,
+        18540,
+        13827,
+        8644,
+        8536,
+        22498,
+        23577,
+        19966,
+        24081,
+        19487,
+        19514,
+        22620,
+        19173,
+        16847,
+        18792,
+        22258,
+        18564,
+        24654,
+        26582,
+        17897,
+        20834,
+        22695,
+        17249,
+        21469,
+        16516,
+        13855,
+        24739,
+        21339,
+        23653,
+        23554,
+        25735,
+        14053,
+        15625,
+        19701,
+        16642,
+        19269,
+        17227,
+        22250,
+        14546,
+        24470,
+        25287,
+        22038,
+        21173,
+        17882,
+        24405,
+        20127,
+        19951,
+        18666,
+        23623,
+        21001,
+        17198,
+        8526,
+        7383,
+        6879,
+        8244,
+        8590,
+        7899,
+        6976,
+        8866,
+        12412,
+        10367,
+        22188,
+        20129,
+        10452,
+        8343,
+        11252,
+        11553,
+        11489,
+        11826,
+        12278,
+        11610,
+        8735,
+        10823,
+        10465,
+        9183,
+        8691,
+        8352,
+        11028,
+        7265,
+        8503,
+        8350,
+        8145,
+        8206,
+        8808,
+        6649,
+        7710,
+        1172
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "3B2XC-TPLD2-4DJVL-B3RVP",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1172
+    },
+    {
+      "edition": 689,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "per_page_text_chars": [
+        7908,
+        8692,
+        12279,
+        6642,
+        8165,
+        5250,
+        6263,
+        6162,
+        10030,
+        7939,
+        4979,
+        5628,
+        9236,
+        7736,
+        10826,
+        8410,
+        9806,
+        9630,
+        8942,
+        10961,
+        10327,
+        10253,
+        11298,
+        8451,
+        7238,
+        9534,
+        10780,
+        12325,
+        8183,
+        8670,
+        13517,
+        12688,
+        14012,
+        12940,
+        10264,
+        8374,
+        8268,
+        9223,
+        12059,
+        9044,
+        12133,
+        8793,
+        11005,
+        8685,
+        7471,
+        7575,
+        6426,
+        8273,
+        1172
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "4V62E-ETQEY-UJNN5-XD2X4",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1172
+    },
+    {
+      "edition": 688,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "per_page_text_chars": [
+        10104,
+        8391,
+        10563,
+        1169
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "8NJDJ-MTDCM-M4FSA-PHDML",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1169
+    },
+    {
+      "edition": 688,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "per_page_text_chars": [
+        7003,
+        8695,
+        12279,
+        6316,
+        6187,
+        6295,
+        7266,
+        6563,
+        8198,
+        6976,
+        7392,
+        7881,
+        9753,
+        9451,
+        8942,
+        6757,
+        7225,
+        6585,
+        7021,
+        9820,
+        10286,
+        10722,
+        8696,
+        8365,
+        12150,
+        13630,
+        12849,
+        8980,
+        7611,
+        28761,
+        29231,
+        8459,
+        7231,
+        10451,
+        8507,
+        9212,
+        9927,
+        9426,
+        7435,
+        8783,
+        7764,
+        6937,
+        1171
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "HCTRU-78Z2H-57B8G-R665Y",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1171
+    },
+    {
+      "edition": 687,
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "per_page_text_chars": [
+        7730,
+        8387,
+        12279,
+        9026,
+        6193,
+        6900,
+        8816,
+        5804,
+        5402,
+        6304,
+        8615,
+        7078,
+        9105,
+        10607,
+        8905,
+        8537,
+        7889,
+        10628,
+        7565,
+        10511,
+        13493,
+        10788,
+        10284,
+        10483,
+        10933,
+        8053,
+        10813,
+        7339,
+        10644,
+        8789,
+        8604,
+        8167,
+        10908,
+        7361,
+        8805,
+        8827,
+        11155,
+        8698,
+        7545,
+        8001,
+        7729,
+        8506,
+        1171
+      ],
+      "empty_text_pages": [],
+      "signature_manifest_code": "DH4D8-R545U-58B7Y-TNYD9",
+      "signature_cryptographically_verified": false,
+      "min_page_chars": 1171
+    }
+  ],
+  "convocation": {
+    "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "http": 200,
+    "bytes": 186290,
+    "pages": 7,
+    "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+    "last_general_ATG_position": 65,
+    "last_general_ATG_name": "Henrique Alves Pieroni Dantas",
+    "page": 2
+  },
+  "official_pages": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "http": 200,
+      "error": null
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "http": 200,
+      "error": null
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=40",
+      "http": 200,
+      "error": null
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "http": 200,
+      "error": null
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "http": 200,
+      "error": null
+    }
+  ],
+  "ibam": {
+    "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+    "source": "web nativa",
+    "last_item": 31
+  },
+  "relevant_review": {
+    "693_page_21": "cessões de ATG efetivos, não novo concurso",
+    "693_page_22": "cessão de ATG efetivo, não novo concurso",
+    "693_page_29": "prorrogações de posse sem decisão expressa",
+    "693_page_35": "exoneração a pedido de ATG efetivo Rafael Pereira Simões, reg. 65277, não desistência de candidato",
+    "693_page_37": "cadastro reserva de comércio, não ATG",
+    "689_page_20": "Caio Monticelli e Eduardo Poliselli Zanella: despachos sem decisão expressa"
+  },
+  "limitations": [
+    "sem inspeção visual independente de todas as páginas",
+    "sem validação criptográfica de assinaturas",
+    "sem acesso RH/DIGP restritos",
+    "Crawl4AI não conectado",
+    "Chat On Steroids Windows indisponível nesta rodada: tunnel-client did not poll",
+    "Composio remote bash usado para HTTP/PyMuPDF; 693 extra-3 timeout transitório e rechecagem HEAD/GET 404",
+    "uma tentativa de GET convocação retornou 404 transitório; retentativa HTTP 200 PDF válido"
+  ],
+  "notification": false,
+  "email": false,
+  "checkpoint": "BOM 693; next 694"
+}
