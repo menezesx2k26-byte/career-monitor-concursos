@@ -1,0 +1,72 @@
+{
+  "audit_id": "sv-atg-20261030-1634-brt",
+  "run_local_start": "2026-10-30T16:34:14-03:00",
+  "result": "NO_NEW_VERIFIED_RELEVANT_ACT",
+  "checkpoint_before": "BOM 695 EXTRA",
+  "checkpoint_after": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "nominal_candidate": {
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": 43,
+    "latest_general_called_rank": 65,
+    "nominal_gap": 34
+  },
+  "official_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "latest_listed": "BOM 695 EXTRA, 2026-10-30",
+    "real_href_exceptions": [
+      "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bom-edicao-693-1-versaoimpressao-1.pdf"
+    ]
+  },
+  "probes": {
+    "head": {
+      "total": 164,
+      "http_200": 9,
+      "http_404": 155
+    },
+    "get_range_corrected": {
+      "total": 88,
+      "http_206": 1,
+      "http_404": 87
+    },
+    "initial_get_attempt": "INVALID_LOCAL_SCRIPT_DUPLICATE_HEADERS_DISCARDED",
+    "new_edition_696_plus_found": false
+  },
+  "pdfs": {
+    "official_bom_count": 10,
+    "bom_pages": 443,
+    "classification_pages": 6,
+    "convocation_pages": 7,
+    "total_documents": 12,
+    "total_pages_examined_text": 456,
+    "empty_pages": 0,
+    "independent_visual_review": false,
+    "signature_crypto_validation": false,
+    "known_bom_695_sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+    "classification_sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+    "convocation_sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+  },
+  "sources": {
+    "classification": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+    "convocation": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "bom695": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+    "ibam": "https://www.ibamsp-concursos.org.br/informacoes/134/"
+  },
+  "ibam_direct_http": 403,
+  "ibam_web_documents_through": 31,
+  "prefeitura_documents_through": 31,
+  "unverified_dismissals": 0,
+  "new_email_sent": false,
+  "new_alert_sent": false,
+  "limitations": [
+    "no independent visual review",
+    "no cryptographic signature validation",
+    "no restricted RH/DIGP access",
+    "Crawl4AI not connected",
+    "Browserbase not used"
+  ],
+  "remote_manifest": "/tmp/sv1634_manifest.json"
+}
