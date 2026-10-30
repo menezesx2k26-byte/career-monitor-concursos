@@ -1,0 +1,87 @@
+{
+  "audit": "sv-atg-20261030-0643-brt",
+  "date_local": "2026-10-30",
+  "start_local": "06:43",
+  "end_local": "06:47",
+  "official_index_latest": 694,
+  "certified_checkpoint": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "head": {
+    "total": 402,
+    "pdf_200": 21,
+    "http_404": 381,
+    "errors": 0,
+    "editions": "687-725",
+    "variants": [
+      "normal",
+      "extra",
+      "extra-1",
+      "extra-2",
+      "extra-3",
+      "extra-4",
+      "extra-5",
+      "suplementar",
+      "suplementar-1",
+      "suplementar-2"
+    ],
+    "includes_real_index_hrefs": true
+  },
+  "get_range": {
+    "total": 80,
+    "http_404": 80,
+    "errors": 0,
+    "editions": "696-701 and late extras 691-695"
+  },
+  "pdf_pages_extracted": 136,
+  "all_pages_text_extractable": true,
+  "independent_visual_review": false,
+  "cryptographic_signature_validation": false,
+  "pdfs": {
+    "693": {
+      "pages": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    "694": {
+      "pages": 62,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    "695-extra": {
+      "pages": 4,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    "692-extra": {
+      "pages": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    "classificacao": {
+      "pages": 6,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    "convocacao": {
+      "pages": 7,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  },
+  "classification": {
+    "registration": "29820",
+    "position_AC": 99,
+    "score": "43,00",
+    "last_general_called": 65,
+    "nominal_gap": 34
+  },
+  "new_relevant_act": false,
+  "already_notified": "Portaria 1.157/SEGES/2026 BOM 695 EXTRA",
+  "notification": false,
+  "email_sent": false,
+  "ibam_direct_http": 403,
+  "ibam_web_items": "1-31",
+  "raw_remote_audit_path": "/tmp/sv_atg_20261030_0643/audit.json",
+  "raw_remote_audit_sha256": "e6d13ef1e8c60761a3f9e71192e13ab0cc3ed3f86953e4f3b9b814d9d2fb29d7",
+  "raw_probe_data_committed": false,
+  "limitations": [
+    "No independent visual review",
+    "No independent signature validation",
+    "Crawl4AI endpoint not connected",
+    "No access to restricted RH/DIGP systems"
+  ]
+}
