@@ -1,0 +1,135 @@
+{
+  "audit_id": "sv-atg-20261030-0920-brt",
+  "local_date": "2026-10-30",
+  "local_window": "09:20-09:25 America/Sao_Paulo",
+  "scope": "Sao Vicente CP 02/2026 ATG",
+  "previous_checkpoint": "sv-atg-20261030-0850-brt",
+  "previous_checkpoint_inspected": true,
+  "result": {
+    "new_relevant_act": false,
+    "new_alert": false,
+    "email_sent": false,
+    "classification": {
+      "name": "Gabriel Veloso Menezes",
+      "registration": "29820",
+      "position_general": 99,
+      "modality": "AC",
+      "score": "43,00"
+    },
+    "last_general_called": 65,
+    "nominal_distance": 34,
+    "confirmed_new_withdrawals": 0,
+    "certified_bom": "695 EXTRA",
+    "next_edition": 696
+  },
+  "official_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "last_visible_edition": 694,
+    "last_visible_internal_date": "2026-10-29",
+    "href_693": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+    "bom_695_not_indexed": true
+  },
+  "probes": {
+    "head_total": 392,
+    "head_200": 22,
+    "head_200_pdf": 21,
+    "head_200_html": 1,
+    "head_404": 370,
+    "get_range_total": 40,
+    "get_range_404": 40,
+    "edition_range": [
+      687,
+      730
+    ],
+    "targeted_get_editions": [
+      696,
+      697,
+      698,
+      699
+    ],
+    "new_edition_696_or_later_found": false,
+    "remote_raw_path": "/tmp/sv_atg_20261030_0920_probes.json",
+    "remote_raw_sha256": "cb3eb827c9ff3ebccd10632003a56a16644f8ae0407879a583b5bd2293de1804"
+  },
+  "pdfs": [
+    {
+      "edition": "691 EXTRA-1",
+      "pages": 2,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "edition": "692 EXTRA",
+      "pages": 2,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "edition": "693",
+      "pages": 55,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "edition": "694",
+      "pages": 62,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    {
+      "edition": "695 EXTRA",
+      "pages": 4,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    {
+      "edition": "classificacao item 23",
+      "pages": 6,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    {
+      "edition": "convocacao 03-06 novembro",
+      "pages": 7,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  ],
+  "pages_extracted_total": 138,
+  "all_pages_text_extracted": true,
+  "visual_inspection_all_pages": false,
+  "signature_cryptographic_validation": false,
+  "legal_triage": [
+    "BOM 695 EXTRA p1 Portaria 1157/SEGES/2026 already notified, same 17 ATG",
+    "BOM 694 promotion 01/2025 not CP 02/2026",
+    "BOM 693 p35 resignation of already employed ATG not new CP appointment"
+  ],
+  "sources": {
+    "prefeitura_competition_items": 31,
+    "ibam_items": 31,
+    "ibam_direct_http": 403,
+    "ibam_web_corrob": true,
+    "convocacoes_page_http": 200
+  },
+  "tools_used": [
+    "Composio Remote Bash",
+    "requests HTTP",
+    "BeautifulSoup",
+    "PyMuPDF",
+    "SHA-256",
+    "web native",
+    "GitHub",
+    "PersistFlow inspect"
+  ],
+  "tools_not_used": [
+    "Browserbase",
+    "Browser Use",
+    "Firecrawl",
+    "Tavily",
+    "Jina"
+  ],
+  "crawl4ai": "not connected (no confirmed endpoint)",
+  "rh_digp_internal_access": false,
+  "report": "docs/audits/2026-10-30-sv-cp-02-2026-atg-0920.md"
+}
