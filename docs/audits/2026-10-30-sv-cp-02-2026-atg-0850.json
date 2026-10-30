@@ -1,0 +1,144 @@
+{
+  "run": "2026-10-30 08h50–08h54 BRT",
+  "source_index": "https://www.saovicente.sp.gov.br/transparencia/bom",
+  "index_http": 200,
+  "index_last_visible": 694,
+  "index_last_date": "2026-10-29",
+  "last_direct_pdf": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "capture": {
+    "method": "Composio Remote Bash, Python requests HEAD and Range GET, BeautifulSoup, PyMuPDF",
+    "head_primary": {
+      "range": "687–730",
+      "variants": [
+        "normal",
+        "extra",
+        "extra-1",
+        "extra-2",
+        "extra-3",
+        "suplementar",
+        "suplementar-1",
+        "extra-4"
+      ],
+      "total": 352,
+      "http_200": 9,
+      "http_404": 343
+    },
+    "head_alternative": {
+      "range": "693–705",
+      "variants": [
+        "-1-versaoimpressao-1",
+        "-1-versaoimpressao",
+        "-versaoimpressao-1",
+        "-extra-versaoimpressao-1",
+        "-extra-1-versaoimpressao-1",
+        "-extra-2-versaoimpressao-1",
+        "-suplementar-versaoimpressao-1",
+        "-extra-5-versaoimpressao",
+        "-extra-6-versaoimpressao"
+      ],
+      "total": 117,
+      "http_200": 2,
+      "http_404": 115,
+      "note": "One HTTP 200 is text/html, not PDF; only 693-1-versaoimpressao-1.pdf is a PDF."
+    },
+    "get_range": {
+      "range": "696–700",
+      "variants": "same 8 as head_primary",
+      "total": 40,
+      "http_404": 40
+    },
+    "remote_raw": {
+      "path": "/tmp/sv_atg_audit_0850.json",
+      "bytes": 300539,
+      "sha256": "ab8e06639392aa4cf6b0e44b31633bfee8ede95152b34386bb82dddd3b9def01",
+      "durable_in_repo": false
+    }
+  },
+  "pdfs": [
+    {
+      "name": "BOM 691 EXTRA-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bytes": 857200,
+      "pages": 2,
+      "extracted": 2,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "name": "BOM 692 EXTRA",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "bytes": 853711,
+      "pages": 2,
+      "extracted": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "name": "BOM 693",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "bytes": 9376703,
+      "pages": 55,
+      "extracted": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "name": "BOM 694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "bytes": 9625543,
+      "pages": 62,
+      "extracted": 62,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    {
+      "name": "BOM 695 EXTRA",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "bytes": 899337,
+      "pages": 4,
+      "extracted": 4,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    {
+      "name": "Classificação final 23",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "bytes": 447650,
+      "pages": 6,
+      "extracted": 6,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    {
+      "name": "Convocação novembro",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "bytes": 186290,
+      "pages": 7,
+      "extracted": 7,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  ],
+  "summary": {
+    "total_pages_extracted": 138,
+    "blank_pages": 0,
+    "classification": "Gabriel Veloso Menezes, inscrição 29820, 99º AC, 43,00 (classificação final p. 5)",
+    "last_general_convoked": 65,
+    "nominal_distance": 34,
+    "new_formal_relevant_act": false,
+    "last_known_act": "Portaria 1.157/SEGES/2026, BOM 695 EXTRA p. 1–2, 17 ATG já comunicados",
+    "ibam": "item 31 último",
+    "prefeitura": "item 31 último",
+    "email_sent": false,
+    "notification": false
+  },
+  "limitations": [
+    "Extração textual completa sem revisão visual independente de todas as páginas",
+    "Assinaturas eletrônicas não verificadas criptograficamente",
+    "RH/DIGP restritos não acessados",
+    "Crawl4AI não conectado; Browserbase e Firecrawl não utilizados",
+    "HTTP 404 não comprova inexistência definitiva de edição/variante tardia",
+    "Bruto de 300539 bytes apenas no sandbox remoto; manifesto é persistido no repositório"
+  ],
+  "source_pages": [
+    "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+    "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+    "https://www.saovicente.sp.gov.br/institucional/concursos",
+    "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+    "https://www.ibamsp-concursos.org.br/informacoes/134/"
+  ]
+}
