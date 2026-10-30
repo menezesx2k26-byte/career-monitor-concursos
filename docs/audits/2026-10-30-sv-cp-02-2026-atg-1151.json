@@ -1,0 +1,64 @@
+{
+  "audit": "2026-10-30T11:51:00-03:00",
+  "scope": "São Vicente CP 02/2026 ATG",
+  "new_relevant_act_confirmed": false,
+  "alert": false,
+  "email_sent": false,
+  "index": {
+    "http": 200,
+    "last": "695 EXTRA",
+    "date": "2026-10-30"
+  },
+  "head": {
+    "checked": 534,
+    "http_200": 21,
+    "http_404": 513,
+    "errors": 0,
+    "edition_696_plus_pdf_found": false
+  },
+  "get_range": {
+    "checked": 51,
+    "http_404": 50,
+    "http_206": 1
+  },
+  "pdf": {
+    "documents": 7,
+    "pages_inspected": 138,
+    "pages_total": 138,
+    "zero_text_pages": 0,
+    "all_hashes_match_prior": true,
+    "visual_independent": false,
+    "signature_crypto_verified": false
+  },
+  "classification": {
+    "registration": "29820",
+    "position_ac": 99,
+    "score": 43,
+    "last_general_convocation_position": 65,
+    "nominal_gap": 34,
+    "confirmed_new_withdrawals": 0
+  },
+  "official_concurso_last_item": 31,
+  "ibam_last_item": 31,
+  "ibam_direct_http": 403,
+  "checkpoint": "695 EXTRA",
+  "next_edition": 696,
+  "raw_evidence": [
+    {
+      "path": "/mnt/files/sv-atg/20261030-1151-discovery.json",
+      "sha256": "9f3c0cf73efc6eefacd359f7b80d80492c49dc7cc7d1df29d515bf68fdf1e4eb"
+    },
+    {
+      "path": "/mnt/files/sv-atg/20261030-1151-pdfs.json",
+      "sha256": "c58a0c61cf0515dccc2f82b84165d4ff00985370fbcb2a998cd6ad37b8a54972"
+    }
+  ],
+  "limitations": [
+    "Crawl4AI endpoint not connected",
+    "No independent visual inspection",
+    "No cryptographic signature validation",
+    "Restricted HR/DIGP not accessed",
+    "Browserbase not used",
+    "HTTP 404 does not prove nonexistence"
+  ]
+}
