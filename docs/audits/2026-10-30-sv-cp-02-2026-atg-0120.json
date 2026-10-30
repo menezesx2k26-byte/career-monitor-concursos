@@ -1,0 +1,70 @@
+{
+  "audit": "2026-10-30T01:20-03:00",
+  "last_checkpoint": "695-extra",
+  "next_edition": 696,
+  "has_new_relevant_act": false,
+  "index_latest": 694,
+  "head": {
+    "tested": 281,
+    "http_200": 8,
+    "http_404": 273,
+    "range": "689-716",
+    "variants": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-suplementar",
+      "-suplementar-1",
+      "-1"
+    ],
+    "extra_href": "bom-edicao-693-1-versaoimpressao-1.pdf"
+  },
+  "get_range": {
+    "tested": 30,
+    "http_206": 1,
+    "http_404": 29,
+    "range": "695-697"
+  },
+  "pdfs": [
+    {
+      "edition": "695-extra",
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "inspected_text_pages": 4
+    },
+    {
+      "edition": "classificacao-item-23",
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "inspected_text_pages": 6
+    },
+    {
+      "edition": "convocacao-03-06-nov",
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "inspected_text_pages": 7
+    }
+  ],
+  "position": {
+    "inscricao": 29820,
+    "ac": 99,
+    "score": 43,
+    "last_called_general": 65,
+    "nominal_gap": 34
+  },
+  "gaps": [
+    "página inicial concurso timeout; paginada acessível",
+    "sem inspeção visual independente",
+    "sem validação criptográfica assinatura",
+    "sem RH/DIGP interno"
+  ],
+  "notification": false,
+  "email": false
+}
