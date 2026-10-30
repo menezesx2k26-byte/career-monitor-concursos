@@ -232,107 +232,7 @@
   "pdf_total": 12,
   "pages_read_total": 456,
   "pages_empty_total": 0,
-  "hashes_changed": [
-    {
-      "label": "BOM 687",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 9696910,
-      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
-      "pages": 43,
-      "empty_pages": [],
-      "creation_date": "D:20261013153805-03'00'",
-      "title": "BOM Edição 687.indd"
-    },
-    {
-      "label": "BOM 688",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 9529895,
-      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
-      "pages": 43,
-      "empty_pages": [],
-      "creation_date": "D:20261015124546-03'00'",
-      "title": "BOM Edição 688.indd"
-    },
-    {
-      "label": "BOM 688 suplemento",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 910321,
-      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
-      "pages": 4,
-      "empty_pages": [],
-      "creation_date": "D:20261015162425-03'00'",
-      "title": "BOM Edição 688 - suplementar.indd"
-    },
-    {
-      "label": "BOM 689",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 5538184,
-      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
-      "pages": 49,
-      "empty_pages": [],
-      "creation_date": "D:20261020120827-03'00'",
-      "title": "BOM Edição 689.indd"
-    },
-    {
-      "label": "BOM 690",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 6899976,
-      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
-      "pages": 179,
-      "empty_pages": [],
-      "creation_date": "D:20261022150630-03'00'",
-      "title": "BOM Edição 690.indd"
-    },
-    {
-      "label": "BOM 693",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
-      "http": 200,
-      "bytes": 9376703,
-      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
-      "pages": 55,
-      "empty_pages": [],
-      "creation_date": "D:20261027163222-03'00'",
-      "title": "BOM Edição 693.indd"
-    },
-    {
-      "label": "BOM 694",
-      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
-      "http": 200,
-      "bytes": 9625543,
-      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
-      "pages": 62,
-      "empty_pages": [],
-      "creation_date": "D:20261029145950-03'00'",
-      "title": "BOM Edição 694.indd"
-    },
-    {
-      "label": "ATG classificação item 23",
-      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
-      "http": 200,
-      "bytes": 447650,
-      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
-      "pages": 6,
-      "empty_pages": [],
-      "creation_date": "D:20260817103735-03'00'",
-      "title": null
-    },
-    {
-      "label": "Convocação 03-06/11",
-      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
-      "http": 200,
-      "bytes": 186290,
-      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
-      "pages": 7,
-      "empty_pages": [],
-      "creation_date": "D:20261027151517-03'00'",
-      "title": "ATOS DO EXECUTIVO MUNICIPAL"
-    }
-  ],
+  "hashes_changed": [],
   "material_events": [
     "BOM 695 EXTRA p.1: Portaria 1.157/SEGES/2026 nomeia 17 ATG já comunicados, com efeitos a partir de 06/11/2026; sem alteração",
     "Convocação 03–06/11/2026: ATG AC até 65º, com 54º e 61º indicados como vagas NNA; não constituem desistências",
@@ -363,5 +263,7 @@
     "404 não prova ausência definitiva de edições/variantes"
   ],
   "email_sent": false,
-  "alert_sent": false
+  "alert_sent": false,
+  "hash_comparison_method": "canonical PDF URL, not descriptive label",
+  "documentation_correction": "Initial manifest compared display labels; corrected to URL keys, eliminating false differences"
 }
