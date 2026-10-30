@@ -1,0 +1,93 @@
+{
+  "audit_date": "2026-10-30",
+  "local_start": "05:39 America/Sao_Paulo",
+  "scope": "São Vicente CP 02/2026 ATG",
+  "outcome": "no_new_relevant_act",
+  "notification": false,
+  "email_sent": false,
+  "checkpoint": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1352073,
+    "last_listed": 694,
+    "hrefs_count": 20
+  },
+  "probes": {
+    "head": {
+      "total": 412,
+      "http_200_pdf": 21,
+      "http_404": 391,
+      "errors": 0,
+      "editions": "687-726",
+      "variants": [
+        "normal",
+        "extra",
+        "extra-1",
+        "extra-2",
+        "extra-3",
+        "extra-4",
+        "extra-5",
+        "suplementar",
+        "suplementar-1",
+        "suplementar-2"
+      ]
+    },
+    "get_range": {
+      "total": 61,
+      "http_206": 1,
+      "http_404": 60,
+      "errors": 0,
+      "editions": "696-701 plus 695 EXTRA"
+    },
+    "raw_remote_path": "/home/user/sv_atg_20261030_0539_scan.json",
+    "raw_sha256": "1f7d2e7fb205a3aa279c6d782393031f893dd726126ce2aae09e734caa576446"
+  },
+  "pdfs": {
+    "bom695": {
+      "pages": 4,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    "bom694": {
+      "pages": 62,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    "classification": {
+      "pages": 6,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    "summons": {
+      "pages": 7,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  },
+  "candidate": {
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": 43,
+    "last_summoned_general_rank": 65,
+    "nominal_gap": 34,
+    "new_withdrawals_confirmed": 0
+  },
+  "source_checks": {
+    "city_concurso": 200,
+    "city_concurso_page2": 200,
+    "city_index": 200,
+    "city_summons": 200,
+    "ibam_direct": 403,
+    "ibam_web": "items 1-31"
+  },
+  "limitations": [
+    "No independent visual inspection of all pages",
+    "No cryptographic validation of signatures",
+    "No internal HR/DIGP access",
+    "Crawl4AI not connected",
+    "Browserbase and Firecrawl unused"
+  ],
+  "raw_manifest_in_repo": false
+}
