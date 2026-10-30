@@ -1,0 +1,201 @@
+{
+  "audit_date_brt": "2026-10-30",
+  "start_local": "04:31",
+  "scan_completed_utc": "2026-10-30T07:33:10.713275+00:00",
+  "repo": "menezesx2k26-byte/career-monitor-concursos",
+  "checkpoint_before": "BOM 695 EXTRA",
+  "checkpoint_after": "BOM 695 EXTRA",
+  "next": "696",
+  "official_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom/",
+    "status": 200,
+    "bytes": 1352081,
+    "latest_href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+    "latest_date": "2026-10-29"
+  },
+  "deterministic_http": {
+    "method": "HEAD",
+    "editions_from": 687,
+    "editions_through": 723,
+    "variants": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-suplementar",
+      "-suplementar-1",
+      "-suplementar-2"
+    ],
+    "extra_actual_href_urls": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-686-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-685-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-684-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-683-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-682-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-681-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-680-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-679-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-678-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-677-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-676-1-versaoimpressao.pdf"
+    ],
+    "requests": 382,
+    "status_counts": {
+      "200": 21,
+      "404": 361
+    },
+    "unresolved_errors": 0,
+    "positive_urls": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-686-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-685-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-684-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-683-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-682-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-681-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-680-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-679-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-678-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-677-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-676-1-versaoimpressao.pdf"
+    ],
+    "all_other_tested_urls_404": true
+  },
+  "get_range": {
+    "editions_from": 696,
+    "editions_through": 699,
+    "variants": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-suplementar",
+      "-suplementar-1",
+      "-suplementar-2"
+    ],
+    "requests": 40,
+    "status_counts": {
+      "404": 40
+    },
+    "unresolved_errors": 0
+  },
+  "pdfs": [
+    {
+      "edition": "695 EXTRA",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "read_pages": 4,
+      "blank_text_pages": 0,
+      "date_internal": "2026-10-30",
+      "signature_flags": 3,
+      "signature_cryptographic_validation": false,
+      "findings": "Portaria 1.157/SEGES/2026, nomeação dos mesmos 17 ATG, já alertada; efeito 2026-11-06"
+    },
+    {
+      "edition": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "read_pages": 62,
+      "blank_text_pages": 0,
+      "date_internal": "2026-10-29",
+      "signature_flags": 3,
+      "signature_cryptographic_validation": false,
+      "findings": "Menções ATG nas páginas 39–50 referentes a promoção interna e servidores efetivos; sem ato novo do CP 02/2026"
+    },
+    {
+      "edition": "classificacao_final",
+      "url": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/77a4a4c5-274e-4efe-bb06-acf1ef0ba31e.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "read_pages": 6,
+      "blank_text_pages": 0,
+      "findings": "Página 5: inscrição 29820, Gabriel Veloso Menezes, 99º AC, nota 43,00"
+    },
+    {
+      "edition": "convocacao_vigente",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "read_pages": 7,
+      "blank_text_pages": 0,
+      "findings": "Último geral 65º, Henrique Alves Pieroni Dantas; distância nominal até 99º: 34"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "status": 200,
+      "items": "1–31"
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "status": "200 on retry",
+      "items": "21–31, no 32+"
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "status": "200 on retry"
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "status": 200,
+      "latest": "Convocação dias 03, 04, 05 e 06/11/2026"
+    },
+    {
+      "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      "status": "HTTP 403 direct; web-native public crawl accessible",
+      "items": "1–31"
+    }
+  ],
+  "result": {
+    "new_relevant_legal_act": false,
+    "new_disconfirmed": false,
+    "already_alerted": "Portaria 1.157/SEGES/2026 in BOM 695 EXTRA",
+    "email_sent": false,
+    "notification": false
+  },
+  "limits": [
+    "Nenhuma inspeção visual independente de todas as páginas",
+    "Sem validação criptográfica das assinaturas",
+    "Sem acesso a sistemas internos restritos RH/DIGP",
+    "Crawl4AI sem endpoint confirmado; não conectado",
+    "Browserbase e Firecrawl não utilizados; não necessários para PDFs acessíveis"
+  ],
+  "raw_scan_local": "/home/user/sv_atg_20261030_0431_scan.json",
+  "raw_scan_sha256": "c6a7fb20c3c7e104f47fae245d6be717bcc90dcf337375719a16c779c2be2822",
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "PyMuPDF",
+    "SHA-256",
+    "web nativa",
+    "GitHub"
+  ]
+}
