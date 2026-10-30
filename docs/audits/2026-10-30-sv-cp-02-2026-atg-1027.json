@@ -1,0 +1,131 @@
+{
+  "run_id": "sv-atg-20261030-1027-brt",
+  "date_local": "2026-10-30",
+  "window_local": "10:27–10:34",
+  "timezone": "America/Sao_Paulo",
+  "competition": "São Vicente 02/2026",
+  "role": "Assistente-Técnico de Gestão",
+  "registration": "29820",
+  "ranking_ac": 99,
+  "score": "43,00",
+  "last_general_called": 65,
+  "nominal_gap": 34,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "latest_listed": 695,
+    "latest_variant": "extra",
+    "previous_latest_listed": 694,
+    "changed_only_index": true
+  },
+  "http": {
+    "head_total": 441,
+    "head_200": 23,
+    "head_404": 413,
+    "head_errors": 5,
+    "head_pdf_200": 7,
+    "head_html_200": 16,
+    "head_errors_scope": "Older /view URLs",
+    "get_range_total": 50,
+    "get_range_404": 50,
+    "range_editions": "696–700",
+    "revalidated_695_range_http": 206
+  },
+  "pdfs": [
+    [
+      "691-extra-1",
+      2,
+      857200,
+      "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    ],
+    [
+      "692-extra",
+      2,
+      853711,
+      "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    ],
+    [
+      "693",
+      55,
+      9376703,
+      "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    ],
+    [
+      "694",
+      62,
+      9625543,
+      "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    ],
+    [
+      "695-extra",
+      4,
+      899337,
+      "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    ],
+    [
+      "classification-final-item-23",
+      6,
+      447650,
+      "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    ],
+    [
+      "convocation-november",
+      7,
+      186290,
+      "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    ]
+  ],
+  "pdf_pages_text_extracted": 138,
+  "all_pages_text_extractable": true,
+  "visual_review_independent": false,
+  "signature_crypto_verified": false,
+  "source_checks": {
+    "contest_http": 200,
+    "contest_pagination_http": 200,
+    "contest_latest_item": 31,
+    "ibam_direct_http": 403,
+    "ibam_web_latest_item": 31,
+    "calls_http_initial": "timeout",
+    "calls_http_retry": 200,
+    "latest_convocation": "03–06/11/2026"
+  },
+  "known_act": {
+    "bom": "695 EXTRA",
+    "page": 1,
+    "portaria": "1.157/SEGES/2026",
+    "date_internal": "2026-10-27",
+    "published": "2026-10-30",
+    "effective": "2026-11-06",
+    "atg_count": 17,
+    "previously_alerted": true,
+    "new_candidates": false
+  },
+  "new_relevant_act": false,
+  "email_sent": false,
+  "alert_sent": false,
+  "checkpoint": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "tool_usage": [
+    "Composio Remote Bash",
+    "requests",
+    "BeautifulSoup",
+    "PyMuPDF",
+    "SHA-256",
+    "web native",
+    "GitHub",
+    "PersistFlow"
+  ],
+  "not_used": [
+    "Browserbase",
+    "Firecrawl",
+    "Tavily",
+    "Jina",
+    "Crawl4AI self-hosted (not connected)"
+  ],
+  "restricted_systems_accessed": false,
+  "remote_raw_evidence_sha256": {
+    "head": "41332031bbb435300ea56a8397f80b51e21955d6b455c640e30e4718dc576c3f",
+    "pdfs": "53e9691e304b68037392b770de0a9d6916dd04a0beff981f79d101304d1357b0",
+    "get": "dcb3e1a30cd05898ef58302b0f7b642ef445cb2f8012fe75244a68a290aa3d99"
+  }
+}
