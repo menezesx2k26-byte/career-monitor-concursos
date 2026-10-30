@@ -1,0 +1,728 @@
+{
+  "started": "2026-10-29T23:25:43.238855-03:00",
+  "finished": "2026-10-29T23:26:21.349931-03:00",
+  "index": {
+    "status": 200,
+    "bytes": 1352073,
+    "hrefs": [
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 694 - 29/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 693 - 27/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 692 - Extra - 26/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 691 - Extra - 23/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 690 - 22/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 689 - 20/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 688 - 15/10/2026 - Suplementar",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 688 - 15/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf/view"
+      },
+      {
+        "title": "Boletim Oficial do Município - Edição 687 - 13/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf/view"
+      }
+    ],
+    "highest": 694
+  },
+  "variants": [
+    "",
+    "-extra",
+    "-suplementar",
+    "-extra-1",
+    "-extra-2",
+    "-extra-3",
+    "-extra-4",
+    "-extra-5",
+    "-extra-6",
+    "-1",
+    "-1-versaoimpressao-1"
+  ],
+  "status_matrix": {
+    "689": {
+      "normal": "NOT_TESTED",
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "690": {
+      "normal": "NOT_TESTED",
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "691": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": "NOT_TESTED",
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "692": {
+      "normal": 404,
+      "-extra": "NOT_TESTED",
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "693": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 200,
+      "-1-versaoimpressao-1": 404
+    },
+    "694": {
+      "normal": "NOT_TESTED",
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "695": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "696": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "697": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "698": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "699": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "700": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "701": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "702": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "703": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "704": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "705": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "706": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "707": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "708": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "709": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "710": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "711": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "712": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "713": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "714": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "715": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "716": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    },
+    "717": {
+      "normal": 404,
+      "-extra": 404,
+      "-suplementar": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-extra-5": 404,
+      "-extra-6": 404,
+      "-1": 404,
+      "-1-versaoimpressao-1": 404
+    }
+  },
+  "real_hrefs": {
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "5538184",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "6899976",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "857200",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "853711",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "9625543",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "9376703",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "910321",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "9529895",
+      "edition": "index",
+      "variant": "real_href"
+    },
+    "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf": {
+      "status": 200,
+      "type": "application/pdf",
+      "bytes": "9696910",
+      "edition": "index",
+      "variant": "real_href"
+    }
+  },
+  "head_total": 323,
+  "get_695_697": {
+    "count": 33,
+    "statuses": {
+      "bom-edicao-695-1-versaoimpressao-1-versaoimpressao.pdf": 404,
+      "bom-edicao-695-1-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-1-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-2-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-3-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-4-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-5-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-6-versaoimpressao.pdf": 404,
+      "bom-edicao-695-extra-versaoimpressao.pdf": 404,
+      "bom-edicao-695-suplementar-versaoimpressao.pdf": 404,
+      "bom-edicao-695-versaoimpressao.pdf": 404,
+      "bom-edicao-696-1-versaoimpressao-1-versaoimpressao.pdf": 404,
+      "bom-edicao-696-1-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-1-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-2-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-3-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-4-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-5-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-6-versaoimpressao.pdf": 404,
+      "bom-edicao-696-extra-versaoimpressao.pdf": 404,
+      "bom-edicao-696-suplementar-versaoimpressao.pdf": 404,
+      "bom-edicao-696-versaoimpressao.pdf": 404,
+      "bom-edicao-697-1-versaoimpressao-1-versaoimpressao.pdf": 404,
+      "bom-edicao-697-1-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-1-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-2-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-3-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-4-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-5-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-6-versaoimpressao.pdf": 404,
+      "bom-edicao-697-extra-versaoimpressao.pdf": 404,
+      "bom-edicao-697-suplementar-versaoimpressao.pdf": 404,
+      "bom-edicao-697-versaoimpressao.pdf": 404
+    }
+  },
+  "bom694": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+    "status": 200,
+    "bytes": 9625543,
+    "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+    "pages": 62,
+    "pages_examined": 62,
+    "min_chars": 559,
+    "pages_under_50_chars": [],
+    "mentions": [
+      [
+        3,
+        [
+          "SEGES"
+        ]
+      ],
+      [
+        7,
+        [
+          "17 assistentes"
+        ]
+      ],
+      [
+        39,
+        [
+          "assistente técnico de gestão"
+        ]
+      ],
+      [
+        40,
+        [
+          "assistente técnico de gestão"
+        ]
+      ],
+      [
+        41,
+        [
+          "assistente técnico de gestão"
+        ]
+      ],
+      [
+        46,
+        [
+          "assistente técnico de gestão"
+        ]
+      ],
+      [
+        48,
+        [
+          "SEGES",
+          "DIGP"
+        ]
+      ],
+      [
+        49,
+        [
+          "SEGES",
+          "DIGP"
+        ]
+      ],
+      [
+        50,
+        [
+          "SEGES",
+          "DIGP"
+        ]
+      ],
+      [
+        51,
+        [
+          "SEGES"
+        ]
+      ],
+      [
+        52,
+        [
+          "SEGES"
+        ]
+      ],
+      [
+        59,
+        [
+          "SEGES"
+        ]
+      ]
+    ]
+  },
+  "pages": {
+    "concurso": {
+      "status": 200,
+      "bytes": 1354180,
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": false,
+      "text_snippet": "Concurso nº 02/2026 — Prefeitura de São Vicente Ir para o Conteúdo 1 Ir para a Página Inicial 2 Ir para o menu de Navegação 3 Ir para a Busca 4 Ir para o Mapa do site 5 Estado de São Paulo Acesso Rápido Institucional Transparência Notícias Serviços Mapa do Site Funcionalidades do Sistema Contraste A"
+    },
+    "concurso_paginado": {
+      "status": 200,
+      "bytes": 1340061,
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": false,
+      "text_snippet": "Concurso nº 02/2026 — Prefeitura de São Vicente Ir para o Conteúdo 1 Ir para a Página Inicial 2 Ir para o menu de Navegação 3 Ir para a Busca 4 Ir para o Mapa do site 5 Estado de São Paulo Acesso Rápido Institucional Transparência Notícias Serviços Mapa do Site Funcionalidades do Sistema Contraste A"
+    },
+    "concursos": {
+      "status": 200,
+      "bytes": 1331351,
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": false,
+      "text_snippet": "Concursos e Estágio — Prefeitura de São Vicente Ir para o Conteúdo 1 Ir para a Página Inicial 2 Ir para o menu de Navegação 3 Ir para a Busca 4 Ir para o Mapa do site 5 Estado de São Paulo Acesso Rápido Institucional Transparência Notícias Serviços Mapa do Site Funcionalidades do Sistema Contraste A"
+    },
+    "convocacoes_2026": {
+      "status": 200,
+      "bytes": 1329171,
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": false,
+      "text_snippet": "CONVOCAÇÃO - Concursos de 2026 — Prefeitura de São Vicente Ir para o Conteúdo 1 Ir para a Página Inicial 2 Ir para o menu de Navegação 3 Ir para a Busca 4 Ir para o Mapa do site 5 Estado de São Paulo Acesso Rápido Institucional Transparência Notícias Serviços Mapa do Site Funcionalidades do Sistema "
+    },
+    "ibam": {
+      "status": 403,
+      "bytes": 5569,
+      "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": false,
+      "text_snippet": "Just a moment... Enable JavaScript and cookies to continue"
+    },
+    "materno_infantil": {
+      "status": 200,
+      "bytes": 1329209,
+      "url": "https://www.saovicente.sp.gov.br/informacao/sao-vicente-vai-convocar-81-profissionais-para-atuar-no-novo-complexo-materno-infantil",
+      "contains_item_32": false,
+      "contains_29820": false,
+      "contains_17_ATG": true,
+      "text_snippet": "São Vicente vai convocar 81 profissionais para atuar no novo Complexo Materno-Infantil — Prefeitura de São Vicente Ir para o Conteúdo 1 Ir para a Página Inicial 2 Ir para o menu de Navegação 3 Ir para a Busca 4 Ir para o Mapa do site 5 Estado de São Paulo Acesso Rápido Institucional Transparência No"
+    }
+  },
+  "errors": [],
+  "notes": [
+    "HEAD HTTP 200 can be HTML: 693-1-versaoimpressao.pdf returned 200 text/html; excluded as PDF",
+    "IBAM direct HTTP 403 Cloudflare; native web showed items 1-31",
+    "No independent visual page-by-page or cryptographic signature validation"
+  ]
+}
