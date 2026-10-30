@@ -1,0 +1,176 @@
+{
+  "audit_started_local": "2026-10-30T12:31:38-03:00",
+  "audit_finished_local": "2026-10-30T12:36:46-03:00",
+  "scope": "São Vicente — Concurso Público 02/2026 — Assistente-Técnico de Gestão",
+  "new_relevant_act_confirmed": false,
+  "alert": false,
+  "email_sent": false,
+  "official_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "latest": "695 EXTRA",
+    "internal_date": "2026-10-30",
+    "actual_href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view"
+  },
+  "discovery": {
+    "head": {
+      "range": "689–730",
+      "variants": [
+        "normal",
+        "extra",
+        "extra-1",
+        "extra-2",
+        "extra-3",
+        "extra-4",
+        "suplementar"
+      ],
+      "checked": 294,
+      "http_200": 6,
+      "http_404": 288,
+      "errors": 0
+    },
+    "get_range": {
+      "range": "696–702",
+      "variants": 7,
+      "checked": 49,
+      "http_404": 49,
+      "errors": 0
+    },
+    "edition_696_plus_found": false,
+    "exception_693": "bom-edicao-693-1-versaoimpressao-1.pdf",
+    "notes": [
+      "HTTP 404 não prova inexistência definitiva",
+      "URLs da listagem obtidas por HREFs reais; sondagens adicionais determinísticas"
+    ]
+  },
+  "official_pages": {
+    "concurso_page_http": 200,
+    "concurso_pagination_20_http": 200,
+    "latest_document": 31,
+    "convocacoes_2026_http": 200,
+    "latest_ATG_convocation": "03/11/2026",
+    "general_concurso_index_http": 200,
+    "ibam_direct_http": 403,
+    "ibam_web_accessible": true,
+    "ibam_latest_document": 31
+  },
+  "pdfs": [
+    {
+      "name": "BOM 691 EXTRA-1",
+      "pages": 2,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "name": "BOM 692 EXTRA",
+      "pages": 2,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "name": "BOM 693 (nome excepcional)",
+      "pages": 55,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "name": "BOM 694",
+      "pages": 62,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    {
+      "name": "BOM 695 EXTRA",
+      "pages": 4,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    {
+      "name": "Classificação ATG edital 23",
+      "pages": 6,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    {
+      "name": "Classificação edital 30 (outro cargo)",
+      "pages": 4,
+      "bytes": 421674,
+      "sha256": "bb0a4d0ee95dcf296a3bba6f22d7f90125f72b0fbd8f7ff19e5bb43ea6ce33d7"
+    },
+    {
+      "name": "Convocação 03–06/11",
+      "pages": 7,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  ],
+  "pdf_pages_extracted": 142,
+  "pdf_pages_total": 142,
+  "zero_text_pages": 0,
+  "independent_visual_inspection": false,
+  "signature_cryptographic_validation": false,
+  "classification": {
+    "registration": "29820",
+    "position_ac": 99,
+    "score": 43,
+    "source": "Edital 23, p.5",
+    "last_general_convocation": 65,
+    "nominal_gap": 34,
+    "additional_withdrawals_confirmed": 0
+  },
+  "already_communicated_act": {
+    "edition": "695 EXTRA",
+    "page": 1,
+    "act": "Portaria 1.157/SEGES/2026",
+    "internal_act_date": "2026-10-27",
+    "publication": "2026-10-30",
+    "effect_date": "2026-11-06",
+    "appointed_ATG": 17,
+    "not_new": true
+  },
+  "checkpoint_retained": "695 EXTRA",
+  "next_edition": 696,
+  "evidence_files": [
+    {
+      "remote_path": "/mnt/files/sv-atg/20261030-1231-pages.json",
+      "sha256": "f7d0ddd07fdd06663d05c72a16b59edb054905cd2a696d224c0adf9b3ee33a86"
+    },
+    {
+      "remote_path": "/mnt/files/sv-atg/20261030-1231-probes.json",
+      "sha256": "266f006554a7790fa265da530a069bf68545afc1fc7b867c4724651c058066d2"
+    },
+    {
+      "remote_path": "/mnt/files/sv-atg/20261030-1231-pdfs.json",
+      "sha256": "c1797308fccdabb38dec24c4aa1b801021128b12e4ce8fcd517bc9f20fa55aa9"
+    }
+  ],
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "PyMuPDF/fitz",
+    "SHA-256",
+    "web nativa",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Browserbase (sem necessidade de JS; conexão ativa, nenhuma sessão aberta)",
+    "Crawl4AI (endpoint não identificado/conectado)",
+    "Firecrawl",
+    "Tavily/Jina"
+  ],
+  "limitations": [
+    "Sem inspeção visual independente de todas as páginas",
+    "Sem validação criptográfica das assinaturas (sigflags não equivale a validação)",
+    "Sem acesso a RH/DIGP restritos",
+    "Índice BOM e variantes sondadas não excluem publicação tardia futura",
+    "IBAM HTTP direto 403; leitura web nativa corroborou lista até 31"
+  ],
+  "primary_sources": [
+    "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+    "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+    "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "https://www.ibamsp-concursos.org.br/informacoes/134/"
+  ]
+}
