@@ -1,0 +1,136 @@
+{
+  "audit_local": "2026-10-30T16:14:19-03:00",
+  "scope": "São Vicente Concurso Público 02/2026 ATG",
+  "candidate": {
+    "name": "Gabriel Veloso Menezes",
+    "inscricao": "29820",
+    "classification_ac": 99,
+    "score": "43,00",
+    "source_item": 23,
+    "page": 5
+  },
+  "checkpoint_previous": "BOM 695 EXTRA 2026-10-30",
+  "checkpoint_current": "BOM 695 EXTRA 2026-10-30",
+  "next_edition": 696,
+  "new_relevant_act_confirmed": false,
+  "last_general_called": 65,
+  "distance_nominal": 34,
+  "new_confirmed_withdrawals": 0,
+  "email_sent": false,
+  "notification_sent": false,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "latest": "695 EXTRA 30/10/2026",
+    "latest_href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view",
+    "exception_691": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+    "exception_693": "bom-edicao-693-1-versaoimpressao-1.pdf"
+  },
+  "probes": {
+    "head_total": 262,
+    "head_http_200": 11,
+    "head_http_404": 251,
+    "head_200_html_not_pdf": 1,
+    "head_range": "687-720 seven variants plus exceptional names",
+    "get_total": 56,
+    "get_http_404": 56,
+    "get_range": "696-702 eight variants",
+    "other_pdfs_new": 0
+  },
+  "sources": {
+    "prefeitura_concurso_http": 200,
+    "prefeitura_page20_http": 200,
+    "prefeitura_page40_http": 200,
+    "prefeitura_last_item": 31,
+    "ibam_direct_http": 403,
+    "ibam_web_last_item": 31,
+    "convocacao_novembro_http": 200
+  },
+  "pdfs": [
+    [
+      "687",
+      43,
+      "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164"
+    ],
+    [
+      "688",
+      43,
+      "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3"
+    ],
+    [
+      "688-sup",
+      4,
+      "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2"
+    ],
+    [
+      "689",
+      49,
+      "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1"
+    ],
+    [
+      "690",
+      179,
+      "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b"
+    ],
+    [
+      "691-extra-1",
+      2,
+      "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    ],
+    [
+      "692-extra",
+      2,
+      "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    ],
+    [
+      "693-special",
+      55,
+      "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    ],
+    [
+      "694",
+      62,
+      "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    ],
+    [
+      "695-extra",
+      4,
+      "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    ],
+    [
+      "classification-item23",
+      6,
+      "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    ],
+    [
+      "convocacao-novembro",
+      7,
+      "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    ]
+  ],
+  "total_pdf_pages_extracted": 456,
+  "blank_pages": 0,
+  "tools_used": [
+    "Composio Remote Bash",
+    "requests",
+    "BeautifulSoup",
+    "PyMuPDF",
+    "SHA256",
+    "web native",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Browserbase",
+    "Tavily",
+    "Jina",
+    "Firecrawl"
+  ],
+  "crawl4ai": "not connected",
+  "limitations": [
+    "no independent page-by-page visual inspection",
+    "no cryptographic validation of PDF signatures",
+    "no restricted HR/DIGP access"
+  ],
+  "raw_probe_files": "Composio remote sandbox /tmp/sv_discovery.json and /tmp/sv_getprobes.json",
+  "report": "docs/audits/2026-10-30-sv-cp-02-2026-atg-1614.md"
+}
