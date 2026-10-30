@@ -1,0 +1,70 @@
+{
+  "audit_date": "2026-10-30",
+  "window_brt": "07:21–07:25",
+  "scope": "São Vicente CP 02/2026 ATG",
+  "last_checkpoint": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "index_latest": 694,
+  "head": {
+    "total": 434,
+    "status_200": 10,
+    "status_404": 423,
+    "status_302": 1,
+    "errors": 0,
+    "deterministic": 308,
+    "unusual": 126
+  },
+  "get_range": {
+    "total": 18,
+    "status_404": 18
+  },
+  "pdfs": [
+    {
+      "bom": "692-extra",
+      "pages": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "bom": "693",
+      "pages": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "bom": "694",
+      "pages": 62,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    {
+      "bom": "695-extra",
+      "pages": 4,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    {
+      "type": "classification",
+      "pages": 6,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    {
+      "type": "convocation",
+      "pages": 7,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  ],
+  "total_pdf_pages": 136,
+  "classification": {
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": 43,
+    "last_general_called": 65,
+    "nominal_gap": 34
+  },
+  "new_relevant_act": false,
+  "alert": false,
+  "email_sent": false,
+  "visual_review": false,
+  "cryptographic_signature_validation": false,
+  "ibam_http": 403,
+  "ibam_web_items": "1-31",
+  "raw_remote_path": "/home/user/sv_atg_20261030_0721/",
+  "raw_head_sha256": "fb055d1c9a4bd32046ef7e8068508543cd7ba030ba340979a1592b95ced622b1"
+}
