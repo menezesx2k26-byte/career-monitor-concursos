@@ -1,0 +1,630 @@
+{
+  "audit_start_brt": "2026-10-30 03:39 BRT",
+  "index": {
+    "http": 200,
+    "size": 1352081
+  },
+  "index_links": [
+    {
+      "title": "Boletim Oficial do Município - Edição 694 - 29/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view"
+    },
+    {
+      "title": "Boletim Oficial do Município - Edição 693 - 27/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view"
+    },
+    {
+      "title": "Boletim Oficial do Município - Edição 692 - Extra - 26/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view"
+    },
+    {
+      "title": "Boletim Oficial do Município - Edição 691 - Extra - 23/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view"
+    },
+    {
+      "title": "Boletim Oficial do Município - Edição 690 - 22/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view"
+    },
+    {
+      "title": "Boletim Oficial do Município - Edição 689 - 20/10/2026",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view"
+    }
+  ],
+  "head_checks": {
+    "687": {
+      "normal": 200,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "688": {
+      "normal": 200,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 200,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "689": {
+      "normal": 200,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "690": {
+      "normal": 200,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "691": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 200,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "692": {
+      "normal": 404,
+      "-extra": 200,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "693": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404,
+      "-1-versaoimpressao-1": 200
+    },
+    "694": {
+      "normal": 200,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "695": {
+      "normal": 404,
+      "-extra": 200,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "696": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "697": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "698": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "699": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "700": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "701": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "702": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "703": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "704": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "705": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "706": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "707": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "708": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "709": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "710": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "711": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "712": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "713": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "714": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "715": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "716": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "717": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "718": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "719": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "720": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    },
+    "721": {
+      "normal": 404,
+      "-extra": 404,
+      "-extra-1": 404,
+      "-extra-2": 404,
+      "-extra-3": 404,
+      "-extra-4": 404,
+      "-suplementar": 404,
+      "-suplementar-1": 404,
+      "-suplementar-2": 404
+    }
+  },
+  "head_total": 316,
+  "head_http_200": 10,
+  "head_http_404": 306,
+  "head_errors": [],
+  "get_checks": [
+    [
+      696,
+      "",
+      404
+    ],
+    [
+      696,
+      "-extra",
+      404
+    ],
+    [
+      696,
+      "-extra-1",
+      404
+    ],
+    [
+      696,
+      "-extra-2",
+      404
+    ],
+    [
+      696,
+      "-extra-3",
+      404
+    ],
+    [
+      696,
+      "-extra-4",
+      404
+    ],
+    [
+      696,
+      "-suplementar",
+      404
+    ],
+    [
+      696,
+      "-suplementar-1",
+      404
+    ],
+    [
+      696,
+      "-suplementar-2",
+      404
+    ],
+    [
+      697,
+      "",
+      404
+    ],
+    [
+      697,
+      "-extra",
+      404
+    ],
+    [
+      697,
+      "-extra-1",
+      404
+    ],
+    [
+      697,
+      "-extra-2",
+      404
+    ],
+    [
+      697,
+      "-extra-3",
+      404
+    ],
+    [
+      697,
+      "-extra-4",
+      404
+    ],
+    [
+      697,
+      "-suplementar",
+      404
+    ],
+    [
+      697,
+      "-suplementar-1",
+      404
+    ],
+    [
+      697,
+      "-suplementar-2",
+      404
+    ],
+    [
+      698,
+      "",
+      404
+    ],
+    [
+      698,
+      "-extra",
+      404
+    ],
+    [
+      698,
+      "-extra-1",
+      404
+    ],
+    [
+      698,
+      "-extra-2",
+      404
+    ],
+    [
+      698,
+      "-extra-3",
+      404
+    ],
+    [
+      698,
+      "-extra-4",
+      404
+    ],
+    [
+      698,
+      "-suplementar",
+      404
+    ],
+    [
+      698,
+      "-suplementar-1",
+      404
+    ],
+    [
+      698,
+      "-suplementar-2",
+      404
+    ]
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "content_type": "application/pdf",
+      "pages": 4,
+      "total_chars": 28245,
+      "blank_pages": [],
+      "full_extraction": true
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "blank_pages": [],
+      "full_extraction": true,
+      "recheck": "historical"
+    }
+  ],
+  "sources": {
+    "contest": {
+      "http": 200,
+      "error": null,
+      "latest_links": []
+    },
+    "contest_page20": {
+      "http": 200,
+      "error": null,
+      "latest_links": [
+        {
+          "text": "31 - Despacho de Homologação.pdf",
+          "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf/view"
+        }
+      ]
+    },
+    "contests": {
+      "http": 200,
+      "error": null,
+      "latest_links": []
+    },
+    "convocations": {
+      "http": 200,
+      "error": null,
+      "latest_links": [
+        {
+          "text": "Convocação dias 03, 04, 05 e 06 de novembro de 2026.pdf",
+          "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf/view"
+        }
+      ]
+    },
+    "ibam": {
+      "http": 403,
+      "error": null,
+      "latest_links": []
+    }
+  },
+  "method": "HEAD 687-721 normal/extra/extra-1..4/suplementar/suplementar-1..2; exact index href 693; GET range 696-698; PDF 695-extra and 693 full extraction",
+  "limits": [
+    "No independent visual inspection all pages",
+    "No cryptographic signature validation",
+    "No restricted HR/DIGP access",
+    "Crawl4AI not connected",
+    "Browserbase/Firecrawl not used"
+  ]
+}
