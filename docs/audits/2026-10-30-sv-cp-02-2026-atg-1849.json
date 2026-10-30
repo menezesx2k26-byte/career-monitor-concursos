@@ -1,6 +1,6 @@
 {
   "audit_id": "sv-atg-20261030-1849-brt",
-  "discovery_timestamp_utc": "2026-10-30T21:49:33+00:00 (run initiated; completion later)",
+  "discovery_timestamp_utc": "2026-10-30T21:49:33+00:00",
   "result": "NO_NEW_VERIFIED_RELEVANT_ACT",
   "checkpoint_before": "BOM 695 EXTRA",
   "checkpoint_after": "BOM 695 EXTRA",
@@ -244,5 +244,6 @@
     "No direct HTTP access to IBAM (403); web corroboration used"
   ],
   "email_sent": false,
-  "alert_sent": false
+  "alert_sent": false,
+  "checkpoint_verified_utc": "2026-10-30T21:56:38.110Z"
 }
