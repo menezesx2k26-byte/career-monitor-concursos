@@ -1,0 +1,144 @@
+{
+  "audited_at_utc": "2026-10-30T05:48:35.420267+00:00",
+  "timezone": "America/Sao_Paulo",
+  "scope": "São Vicente CP 02/2026 ATG",
+  "result": "no new pertinent unreported act",
+  "last_index_hrefs_edition": 694,
+  "certified_pdf_checkpoint": "695 EXTRA",
+  "next_edition": 696,
+  "head_probe": {
+    "edition_range_inclusive": [
+      689,
+      720
+    ],
+    "variants": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-suplementar",
+      "-suplementar-1",
+      "-suplementar-2"
+    ],
+    "additional_index_hrefs_included": true,
+    "distinct_urls": 303,
+    "http_200": 21,
+    "http_404": 282,
+    "transport_errors": 0,
+    "http_200_pdf_filenames": [
+      "bom-edicao-676-1-versaoimpressao.pdf",
+      "bom-edicao-677-versaoimpressao.pdf",
+      "bom-edicao-678-versaoimpressao.pdf",
+      "bom-edicao-679-versaoimpressao.pdf",
+      "bom-edicao-680-versaoimpressao.pdf",
+      "bom-edicao-681-versaoimpressao.pdf",
+      "bom-edicao-682-versaoimpressao.pdf",
+      "bom-edicao-683-extra-versaoimpressao.pdf",
+      "bom-edicao-684-versaoimpressao.pdf",
+      "bom-edicao-685-versaoimpressao.pdf",
+      "bom-edicao-686-versaoimpressao.pdf",
+      "bom-edicao-687-versaoimpressao.pdf",
+      "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "bom-edicao-688-versaoimpressao.pdf",
+      "bom-edicao-689-versaoimpressao.pdf",
+      "bom-edicao-690-versaoimpressao.pdf",
+      "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bom-edicao-692-extra-versaoimpressao.pdf",
+      "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "bom-edicao-694-versaoimpressao.pdf",
+      "bom-edicao-695-extra-versaoimpressao.pdf"
+    ],
+    "all_other_tested_urls_http_404": true
+  },
+  "get_probe": {
+    "edition_range_inclusive": [
+      695,
+      698
+    ],
+    "variants": [
+      "",
+      "-extra",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-suplementar",
+      "-suplementar-1",
+      "-suplementar-2"
+    ],
+    "total": 36,
+    "http_206": 1,
+    "http_404": 35,
+    "transport_errors": 0,
+    "http_206_filename": "bom-edicao-695-extra-versaoimpressao.pdf",
+    "pdf_header_hex": "255044462d312e330a25"
+  },
+  "documents": {
+    "bom_695_extra": {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages_text_extracted": 4,
+      "pages_total": 4,
+      "pdf_signature_flags": 3,
+      "internal_date": "2026-10-30",
+      "portaria": "1157/SEGES/2026",
+      "portaria_date": "2026-10-27",
+      "effect_from": "2026-11-06",
+      "already_alerted": true
+    },
+    "bom_694": {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages_text_extracted": 62,
+      "pages_total": 62
+    },
+    "classification": {
+      "url": "https://anexos-r2.selecao.net.br/uploads/810/concursos/134/anexos/77a4a4c5-274e-4efe-bb06-acf1ef0ba31e.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages_text_extracted": 6,
+      "pages_total": 6,
+      "position": 99,
+      "registration": "29820",
+      "score": "43,00",
+      "modality": "AC",
+      "page": 5
+    },
+    "convocation": {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages_text_extracted": 7,
+      "pages_total": 7,
+      "last_general_rank": 65,
+      "last_general_name": "Henrique Alves Pieroni Dantas",
+      "nominal_distance": 34
+    }
+  },
+  "independent_pages": {
+    "municipal_concurso_root": "timeout 22s",
+    "municipal_concurso_page2": "HTTP 200, items 21-31, no item 32",
+    "municipal_concursos_index": "HTTP 200",
+    "municipal_convocations": "HTTP 200, latest listed 03-06 Nov 2026",
+    "ibam": "web native, items 01-31"
+  },
+  "limitations": [
+    "no independent visual inspection of all pages",
+    "no cryptographic signature validation",
+    "no restricted SEGES/RH/DIGP system access",
+    "Crawl4AI endpoint not connected",
+    "Browserbase not needed; not used",
+    "Firecrawl not used"
+  ],
+  "email_sent": false,
+  "alert_sent": false,
+  "checkpoint_advanced": false
+}
