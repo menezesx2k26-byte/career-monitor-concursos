@@ -1,0 +1,1286 @@
+{
+  "completed_at": "2026-10-31T04:47:30.847679-03:00",
+  "index": {
+    "status": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "links": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf"
+    ]
+  },
+  "official_pages": [
+    [
+      "https://www.saovicente.sp.gov.br/transparencia/bom",
+      200,
+      1353057,
+      null
+    ],
+    [
+      "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      200,
+      1355148,
+      null
+    ],
+    [
+      "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      200,
+      1341029,
+      null
+    ],
+    [
+      "https://www.saovicente.sp.gov.br/institucional/concursos",
+      null,
+      null,
+      "ReadTimeout(ReadTimeoutError(\"HTTPSConnectionPool(host='www.saovicente.sp.gov.br', port=443): Read timed out. (read timeout=22)\"))"
+    ],
+    [
+      "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      200,
+      1330139,
+      null
+    ],
+    [
+      "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      403,
+      5484,
+      null
+    ]
+  ],
+  "probe_url_template": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-{n}{variant}-versaoimpressao.pdf",
+  "probes": [
+    [
+      689,
+      "normal",
+      200,
+      null
+    ],
+    [
+      689,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      689,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      690,
+      "normal",
+      200,
+      null
+    ],
+    [
+      690,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      690,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      691,
+      "normal",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-1",
+      200,
+      null
+    ],
+    [
+      691,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      691,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      692,
+      "normal",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra",
+      200,
+      null
+    ],
+    [
+      692,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      692,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      693,
+      "normal",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      693,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      694,
+      "normal",
+      200,
+      null
+    ],
+    [
+      694,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      694,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      695,
+      "normal",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra",
+      200,
+      null
+    ],
+    [
+      695,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      695,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      696,
+      "normal",
+      404,
+      404
+    ],
+    [
+      696,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      696,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      696,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      696,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      696,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      696,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      697,
+      "normal",
+      404,
+      404
+    ],
+    [
+      697,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      697,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      697,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      697,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      697,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      697,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      698,
+      "normal",
+      404,
+      404
+    ],
+    [
+      698,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      698,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      698,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      698,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      698,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      698,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      699,
+      "normal",
+      404,
+      404
+    ],
+    [
+      699,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      699,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      699,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      699,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      699,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      699,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      700,
+      "normal",
+      404,
+      404
+    ],
+    [
+      700,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      700,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      700,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      700,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      700,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      700,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      701,
+      "normal",
+      404,
+      404
+    ],
+    [
+      701,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      701,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      701,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      701,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      701,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      701,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      702,
+      "normal",
+      404,
+      404
+    ],
+    [
+      702,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      702,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      702,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      702,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      702,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      702,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      703,
+      "normal",
+      404,
+      404
+    ],
+    [
+      703,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      703,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      703,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      703,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      703,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      703,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      704,
+      "normal",
+      404,
+      404
+    ],
+    [
+      704,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      704,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      704,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      704,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      704,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      704,
+      "-extra-4",
+      404,
+      404
+    ],
+    [
+      705,
+      "normal",
+      404,
+      404
+    ],
+    [
+      705,
+      "-extra",
+      404,
+      404
+    ],
+    [
+      705,
+      "-extra-1",
+      404,
+      404
+    ],
+    [
+      705,
+      "-extra-2",
+      404,
+      404
+    ],
+    [
+      705,
+      "-extra-3",
+      404,
+      404
+    ],
+    [
+      705,
+      "-suplementar",
+      404,
+      404
+    ],
+    [
+      705,
+      "-extra-4",
+      404,
+      404
+    ]
+  ],
+  "odd_url_template": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-{n}-{k}-versaoimpressao-{k}.pdf",
+  "odd_probes": [
+    [
+      689,
+      1,
+      404
+    ],
+    [
+      689,
+      2,
+      404
+    ],
+    [
+      689,
+      3,
+      404
+    ],
+    [
+      690,
+      1,
+      404
+    ],
+    [
+      690,
+      2,
+      404
+    ],
+    [
+      690,
+      3,
+      404
+    ],
+    [
+      691,
+      1,
+      404
+    ],
+    [
+      691,
+      2,
+      404
+    ],
+    [
+      691,
+      3,
+      404
+    ],
+    [
+      692,
+      1,
+      404
+    ],
+    [
+      692,
+      2,
+      404
+    ],
+    [
+      692,
+      3,
+      404
+    ],
+    [
+      693,
+      1,
+      200
+    ],
+    [
+      693,
+      2,
+      404
+    ],
+    [
+      693,
+      3,
+      404
+    ],
+    [
+      694,
+      1,
+      404
+    ],
+    [
+      694,
+      2,
+      404
+    ],
+    [
+      694,
+      3,
+      404
+    ],
+    [
+      695,
+      1,
+      404
+    ],
+    [
+      695,
+      2,
+      404
+    ],
+    [
+      695,
+      3,
+      404
+    ],
+    [
+      696,
+      1,
+      404
+    ],
+    [
+      696,
+      2,
+      404
+    ],
+    [
+      696,
+      3,
+      404
+    ],
+    [
+      697,
+      1,
+      404
+    ],
+    [
+      697,
+      2,
+      404
+    ],
+    [
+      697,
+      3,
+      404
+    ],
+    [
+      698,
+      1,
+      404
+    ],
+    [
+      698,
+      2,
+      404
+    ],
+    [
+      698,
+      3,
+      404
+    ],
+    [
+      699,
+      1,
+      404
+    ],
+    [
+      699,
+      2,
+      404
+    ],
+    [
+      699,
+      3,
+      404
+    ],
+    [
+      700,
+      1,
+      404
+    ],
+    [
+      700,
+      2,
+      404
+    ],
+    [
+      700,
+      3,
+      404
+    ],
+    [
+      701,
+      1,
+      404
+    ],
+    [
+      701,
+      2,
+      404
+    ],
+    [
+      701,
+      3,
+      404
+    ],
+    [
+      702,
+      1,
+      404
+    ],
+    [
+      702,
+      2,
+      404
+    ],
+    [
+      702,
+      3,
+      404
+    ],
+    [
+      703,
+      1,
+      404
+    ],
+    [
+      703,
+      2,
+      404
+    ],
+    [
+      703,
+      3,
+      404
+    ],
+    [
+      704,
+      1,
+      404
+    ],
+    [
+      704,
+      2,
+      404
+    ],
+    [
+      704,
+      3,
+      404
+    ],
+    [
+      705,
+      1,
+      404
+    ],
+    [
+      705,
+      2,
+      404
+    ],
+    [
+      705,
+      3,
+      404
+    ]
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 421674,
+      "sha256": "bb0a4d0ee95dcf296a3bba6f22d7f90125f72b0fbd8f7ff19e5bb43ea6ce33d7",
+      "pages": 4,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 177575,
+      "sha256": "62cf73911497c7ad33366a7deff9a7e40b66a6079662ff22c1e7cc2eb211e891",
+      "pages": 6,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "blank_pages": [],
+      "extraction_errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "blank_pages": [],
+      "extraction_errors": []
+    }
+  ],
+  "audit_id": "sv-atg-20261031-0441-brt",
+  "result": "NO_NEW_VERIFIED_RELEVANT_ACT",
+  "checkpoint_before": "BOM 695 EXTRA",
+  "checkpoint_after": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "subject": {
+    "contest": "02/2026",
+    "role": "Assistente-Técnico de Gestão",
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": 43,
+    "last_called_general_rank": 65,
+    "nominal_gap": 34,
+    "new_confirmed_withdrawals": 0
+  },
+  "previous_sha256_comparison": [
+    {
+      "file": "23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-687-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-688-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-689-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-690-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-692-extra-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-693-1-versaoimpressao-1.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-694-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    },
+    {
+      "file": "bom-edicao-695-extra-versaoimpressao.pdf",
+      "sha256_same": true,
+      "pages_same": true
+    }
+  ],
+  "probe_summary": {
+    "head": 119,
+    "head_200": 6,
+    "head_404": 113,
+    "get_404": 70,
+    "odd_head": 51,
+    "odd_head_200": 1,
+    "odd_head_404": 50
+  },
+  "total_pdfs": 14,
+  "total_pages": 466,
+  "all_pages_extracted": true,
+  "independent_sources": {
+    "municipal_contest": "items 1-31, no 32",
+    "municipal_convocations": "03-06 November PDF, last ATG AC 65",
+    "ibam": "items 1-31 verified native web, direct HTTP 403",
+    "municipal_contests_index": "HTTP 200 on retry"
+  },
+  "legal_review": {
+    "bom_693_page_35": "Exoneration of existing ATG employee, not contest withdrawal",
+    "bom_694_pages_39_46": "Internal promotion, unrelated to CP 02/2026",
+    "bom_695_page_1": "Portaria 1.157/SEGES/2026 for 17 ATG, effective 06 Nov, already reported",
+    "bom_689_page_20": "Caio Monticelli and Eduardo Poliselli Zanella: possession-extension notices only, no outcome"
+  },
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf 6.21.2",
+    "SHA-256",
+    "native web search",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Crawl4AI: no connected endpoint",
+    "Browserbase: connected, not used to conserve quota",
+    "Browser Use",
+    "Tavily/Jina",
+    "Firecrawl"
+  ],
+  "limitations": [
+    "No independent visual inspection of every page",
+    "No cryptographic signature validation",
+    "No restricted RH/DIGP access",
+    "404 not definitive proof of nonexistence",
+    "IBAM direct HTTP 403, native web corroborated",
+    "Municipal contests index transient timeout, retried 200"
+  ]
+}
