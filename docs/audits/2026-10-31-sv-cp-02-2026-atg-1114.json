@@ -23,7 +23,7 @@
     ]
   },
   "deterministic": {
-    "range": "687-705",
+    "range": "677-705: 677-686 from real index HREFs, 687-705 deterministic variants and exceptional filename checks",
     "variants": [
       "normal",
       "extra",
