@@ -1,0 +1,613 @@
+{
+  "audit_at": "2026-10-31T09:47:23.152645-03:00",
+  "result": "no_new_pertinent_unreported_act",
+  "checkpoint_bom": 695,
+  "checkpoint_variant": "extra",
+  "next_bom": 696,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "unchanged_from_prior": true,
+    "real_hrefs": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf"
+    ]
+  },
+  "deterministic": {
+    "range_head": "689-705",
+    "variants": [
+      "normal",
+      "extra",
+      "suplementar",
+      "extra-1",
+      "extra-2",
+      "extra-3",
+      "extra-4"
+    ],
+    "head_count": 119,
+    "head_200": 6,
+    "head_404": 113,
+    "get_count": 70,
+    "get_404": 70,
+    "range_get": "696-705",
+    "recheck_696_get_404": 7,
+    "exceptions": [
+      "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bom-edicao-693-1-versaoimpressao-1.pdf"
+    ],
+    "note": "HTTP 404 does not establish permanent nonexistence"
+  },
+  "pdfs": [
+    {
+      "key": "bom695_695_extra_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG",
+            "Henrique",
+            "portaria"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bom694_694_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "pages_extracted": 62,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 39,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 40,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 41,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 46,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 50,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 51,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 52,
+          "tags": [
+            "ATG"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bom693_693_1_versaoimpressao_1_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "pages_extracted": 55,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 21,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 22,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 27,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 28,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 35,
+          "tags": [
+            "ATG"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bom692_692_extra_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "pages_extracted": 2,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "bom691_691_extra_1_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "pages_extracted": 2,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "bom690_690_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "pages_extracted": 179,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "bom689_689_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "pages_extracted": 49,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 19,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 20,
+          "tags": [
+            "Caio",
+            "Eduardo",
+            "personnel"
+          ]
+        },
+        {
+          "page": 35,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 38,
+          "tags": [
+            "ATG"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bom688_688_suplementar_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "bom688_688_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "pages_extracted": 43,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 27,
+          "tags": [
+            "ATG"
+          ]
+        },
+        {
+          "page": 28,
+          "tags": [
+            "ATG"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bom687_687_versaoimpressao_pdf_view",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "pages_extracted": 43,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "conv_convocacao_dias_03_04_05_e_06_de_novembro_de_2026_pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "pages_extracted": 7,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 2,
+          "tags": [
+            "ATG",
+            "Henrique",
+            "personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "conv_convocacao_dias_18_21_22_e_24_de_setembro_de_2026_pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 177575,
+      "sha256": "62cf73911497c7ad33366a7deff9a7e40b66a6079662ff22c1e7cc2eb211e891",
+      "pages": 6,
+      "pages_extracted": 6,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 2,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 3,
+          "tags": [
+            "ATG",
+            "personnel"
+          ]
+        },
+        {
+          "page": 4,
+          "tags": [
+            "ATG",
+            "Eduardo",
+            "personnel"
+          ]
+        },
+        {
+          "page": 5,
+          "tags": [
+            "ATG",
+            "Caio",
+            "personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "conv_convocacao_17_e_18_de_agosto_de_2026_pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-17-e-18-de-agosto-de-2026.pdf",
+      "http": 200,
+      "bytes": 172038,
+      "sha256": "1e3f3d7adc1fa5ba137ad10f9e74686891b462ebc5aba60797175a2e1335ad2f",
+      "pages": 5,
+      "pages_extracted": 5,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "conv_convocacao_23_e_24_de_julho_de_2026_pdf",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-23-e-24-de-julho-de-2026.pdf",
+      "http": 200,
+      "bytes": 175273,
+      "sha256": "008dc61fb37358e311014a34f1faa6c21dd9451dad1b6c653a664d883db2ccf2",
+      "pages": 6,
+      "pages_extracted": 6,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp21",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/21-edital-de-divulgacao-dos-resultados-do-teste-de-aptidao-fisica.pdf",
+      "http": 200,
+      "bytes": 503754,
+      "sha256": "1b4bc17dd7ee12761e1664f709be7e8b500e9cb3e37c6cef89fb364ae4ba0bc8",
+      "pages": 6,
+      "pages_extracted": 6,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp22",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/22-edital-de-resultado-de-recurso-da-classificacao-preliminar-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 326396,
+      "sha256": "ab88b05a0fd0f933b8d8b72d44ea17c1d0f97ea3729d962aa045ec83fcb5ef46",
+      "pages": 1,
+      "pages_extracted": 1,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG",
+            "02_2026"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cp23",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "pages_extracted": 6,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG",
+            "02_2026"
+          ]
+        },
+        {
+          "page": 2,
+          "tags": [
+            "ATG",
+            "02_2026"
+          ]
+        },
+        {
+          "page": 4,
+          "tags": [
+            "ATG",
+            "Caio",
+            "Eduardo"
+          ]
+        },
+        {
+          "page": 5,
+          "tags": [
+            "Gabriel",
+            "Henrique"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cp24",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/24-homologacao-parcial.pdf",
+      "http": 200,
+      "bytes": 50131,
+      "sha256": "1c724b9aa7ee2568074cd5f5b5f76f5837cef030d98146c68f59a464ac2265c1",
+      "pages": 1,
+      "pages_extracted": 1,
+      "empty_pages": 0,
+      "hits": [
+        {
+          "page": 1,
+          "tags": [
+            "ATG"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cp25",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/25-edital-de-resultado-de-recurso-do-resultado-do-taf-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 296391,
+      "sha256": "6e800d4e606d49302e67262ecf0a3d07adce3ab3db53ee7e610731460a142a37",
+      "pages": 1,
+      "pages_extracted": 1,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp26",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/26-edital-de-divulgacao-da-classificacao-preliminar-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 444121,
+      "sha256": "50546dd4a232b585349ae99df617e18c0b034cad63143176cc3e0ec6b94f61bc",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp27",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/27-edital-de-convocacao-para-o-procedimento-de-heteroidentificacao-agente-de-transito.pdf",
+      "http": 200,
+      "bytes": 418130,
+      "sha256": "11c96ea248ce0e6d6b9314952110c066f0f67e7098e026ae477878de89e2fccb",
+      "pages": 3,
+      "pages_extracted": 3,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp28",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/28-republicacao-do-edital-da-classificacao-preliminar-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 403412,
+      "sha256": "4856b7842dd9ee1ab4dd9cb7ff88db9d24d8620732e90a9146542eb53485c36f",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp29",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/29-edital-de-resultado-de-heteroidentificacao-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 408868,
+      "sha256": "1fe42520b55c3c767dd7106c47f9da4c7558dd50577efcd22091c6cd6d02d198",
+      "pages": 1,
+      "pages_extracted": 1,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp30",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 421674,
+      "sha256": "bb0a4d0ee95dcf296a3bba6f22d7f90125f72b0fbd8f7ff19e5bb43ea6ce33d7",
+      "pages": 4,
+      "pages_extracted": 4,
+      "empty_pages": 0,
+      "hits": []
+    },
+    {
+      "key": "cp31",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf",
+      "http": 200,
+      "bytes": 38769,
+      "sha256": "6b099ddbed17d19ae2a9e0096db88fe040cab55bfb50d4ad9c0973b67b90f5f3",
+      "pages": 1,
+      "pages_extracted": 1,
+      "empty_pages": 0,
+      "hits": []
+    }
+  ],
+  "pdf_count": 25,
+  "pages_textually_extracted": 499,
+  "pages_empty": 0,
+  "comparison": {
+    "previous_manifest": "2026-10-31-sv-cp-02-2026-atg-0845.json",
+    "previous_pdfs": 18,
+    "common_pdfs": 18,
+    "changed_pdfs": 0,
+    "additional_older_known_contest_pdfs": 7
+  },
+  "classification": {
+    "name": "Gabriel Veloso Menezes",
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": "43,00",
+    "source": "CP 02/2026 item 23, p.5"
+  },
+  "last_convocation": {
+    "rank_general": 65,
+    "name": "Henrique Alves Pieroni Dantas",
+    "source": "Convocação 03-06/11/2026, p.2",
+    "distance_nominal": 34,
+    "confirmed_new_withdrawals": 0
+  },
+  "known_not_new": [
+    "BOM 695 EXTRA Portaria 1.157/SEGES/2026, 17 ATG, effects from 06/11/2026",
+    "BOM 693 p35 exoneração de servidor efetivo ATG (não prova desistência de candidato)",
+    "BOM 689 p20 despachos de prorrogação de posse Caio Monticelli e Eduardo Poliselli Zanella, sem decisão conhecida",
+    "BOM 694 concursos internos de progressão de ATG efetivos"
+  ],
+  "official_pages": {
+    "bom": 200,
+    "cp": 200,
+    "cp20": 200,
+    "concursos": 200,
+    "convoc": 200,
+    "ibam": 403,
+    "cp20_items": "21-31",
+    "cp_first_items": "1-20",
+    "ibam_web_items": "1-31",
+    "ibam_http": "403 Cloudflare",
+    "latest_convocation": "03-06/11/2026"
+  },
+  "tools_used": [
+    "Composio Remote Bash HTTP requests HEAD/GET",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf full-page text extraction",
+    "SHA-256",
+    "web native",
+    "GitHub read/write"
+  ],
+  "limitations": [
+    "No independent visual inspection of all 499 pages",
+    "No cryptographic validation of signatures",
+    "No access to restricted RH/DIGP",
+    "Crawl4AI self-hosted endpoint not verified (not connected)",
+    "Browserbase and Browser Use not used to preserve free quota",
+    "Tavily/Jina/Firecrawl not used",
+    "HTTP 404 is not proof of permanent absence"
+  ],
+  "email_sent": false,
+  "alert_sent": false
+}
