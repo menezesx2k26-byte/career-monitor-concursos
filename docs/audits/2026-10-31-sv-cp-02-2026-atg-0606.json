@@ -1,0 +1,1532 @@
+{
+  "completed_at": "2026-10-31T06:10:37.941677-03:00",
+  "index": {
+    "status": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "hrefs": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-677-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-678-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-679-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-680-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-681-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-682-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-683-extra-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-684-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-685-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-686-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view"
+    ]
+  },
+  "official_pages": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "status": 200,
+      "error": null,
+      "sha256": "6297282f9f33d4bce9663dfc5ae35f3a80a578bf96d76bf6503f5810a7556c44",
+      "links_count": 54,
+      "latest_items": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "status": 200,
+      "error": null,
+      "sha256": "733a0a311f682360c1e8a4d1ac121a6caa25249df8ac706d3ff3a8fed50bacf7",
+      "links_count": 36,
+      "latest_items": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "status": 200,
+      "error": null,
+      "sha256": "241dfc3735ef6405161e5088e355282f56fb910d92dda1596adca2d47988b92c",
+      "links_count": 3,
+      "latest_items": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "status": 200,
+      "error": null,
+      "sha256": "354a2c77fadfcc0733b82e0b2ff494d6ac894ec957b19535300fbcc84601c5de",
+      "links_count": 20,
+      "latest_items": []
+    }
+  ],
+  "ibam_direct_http": 403,
+  "ibam_web_document_last": 31,
+  "head_probes": [
+    [
+      689,
+      "",
+      200,
+      null
+    ],
+    [
+      689,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      689,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      689,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      690,
+      "",
+      200,
+      null
+    ],
+    [
+      690,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      690,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      690,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      691,
+      "",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-1",
+      200,
+      null
+    ],
+    [
+      691,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      691,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      691,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      692,
+      "",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra",
+      200,
+      null
+    ],
+    [
+      692,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      692,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      692,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      693,
+      "",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      693,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      693,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      694,
+      "",
+      200,
+      null
+    ],
+    [
+      694,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      694,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      694,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      695,
+      "",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra",
+      200,
+      null
+    ],
+    [
+      695,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      695,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      695,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      696,
+      "",
+      404,
+      null
+    ],
+    [
+      696,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      696,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      696,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      696,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      696,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      696,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      697,
+      "",
+      404,
+      null
+    ],
+    [
+      697,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      697,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      697,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      697,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      697,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      697,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      698,
+      "",
+      404,
+      null
+    ],
+    [
+      698,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      698,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      698,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      698,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      698,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      698,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      699,
+      "",
+      404,
+      null
+    ],
+    [
+      699,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      699,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      699,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      699,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      699,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      699,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      700,
+      "",
+      404,
+      null
+    ],
+    [
+      700,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      700,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      700,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      700,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      700,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      700,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      701,
+      "",
+      404,
+      null
+    ],
+    [
+      701,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      701,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      701,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      701,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      701,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      701,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      702,
+      "",
+      404,
+      null
+    ],
+    [
+      702,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      702,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      702,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      702,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      702,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      702,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      703,
+      "",
+      404,
+      null
+    ],
+    [
+      703,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      703,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      703,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      703,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      703,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      703,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      704,
+      "",
+      404,
+      null
+    ],
+    [
+      704,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      704,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      704,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      704,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      704,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      704,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      705,
+      "",
+      404,
+      null
+    ],
+    [
+      705,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      705,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      705,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      705,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      705,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      705,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      706,
+      "",
+      404,
+      null
+    ],
+    [
+      706,
+      "-extra",
+      404,
+      null
+    ],
+    [
+      706,
+      "-extra-1",
+      404,
+      null
+    ],
+    [
+      706,
+      "-extra-2",
+      404,
+      null
+    ],
+    [
+      706,
+      "-extra-3",
+      404,
+      null
+    ],
+    [
+      706,
+      "-extra-4",
+      404,
+      null
+    ],
+    [
+      706,
+      "-suplementar",
+      404,
+      null
+    ],
+    [
+      693,
+      "odd",
+      200,
+      null
+    ]
+  ],
+  "get_probes": [
+    [
+      696,
+      "",
+      404
+    ],
+    [
+      696,
+      "-extra",
+      404
+    ],
+    [
+      696,
+      "-extra-1",
+      404
+    ],
+    [
+      696,
+      "-extra-2",
+      404
+    ],
+    [
+      696,
+      "-extra-3",
+      404
+    ],
+    [
+      696,
+      "-extra-4",
+      404
+    ],
+    [
+      696,
+      "-suplementar",
+      404
+    ],
+    [
+      697,
+      "",
+      404
+    ],
+    [
+      697,
+      "-extra",
+      404
+    ],
+    [
+      697,
+      "-extra-1",
+      404
+    ],
+    [
+      697,
+      "-extra-2",
+      404
+    ],
+    [
+      697,
+      "-extra-3",
+      404
+    ],
+    [
+      697,
+      "-extra-4",
+      404
+    ],
+    [
+      697,
+      "-suplementar",
+      404
+    ],
+    [
+      698,
+      "",
+      404
+    ],
+    [
+      698,
+      "-extra",
+      404
+    ],
+    [
+      698,
+      "-extra-1",
+      404
+    ],
+    [
+      698,
+      "-extra-2",
+      404
+    ],
+    [
+      698,
+      "-extra-3",
+      404
+    ],
+    [
+      698,
+      "-extra-4",
+      404
+    ],
+    [
+      698,
+      "-suplementar",
+      404
+    ],
+    [
+      699,
+      "",
+      404
+    ],
+    [
+      699,
+      "-extra",
+      404
+    ],
+    [
+      699,
+      "-extra-1",
+      404
+    ],
+    [
+      699,
+      "-extra-2",
+      404
+    ],
+    [
+      699,
+      "-extra-3",
+      404
+    ],
+    [
+      699,
+      "-extra-4",
+      404
+    ],
+    [
+      699,
+      "-suplementar",
+      404
+    ],
+    [
+      700,
+      "",
+      404
+    ],
+    [
+      700,
+      "-extra",
+      404
+    ],
+    [
+      700,
+      "-extra-1",
+      404
+    ],
+    [
+      700,
+      "-extra-2",
+      404
+    ],
+    [
+      700,
+      "-extra-3",
+      404
+    ],
+    [
+      700,
+      "-extra-4",
+      404
+    ],
+    [
+      700,
+      "-suplementar",
+      404
+    ],
+    [
+      701,
+      "",
+      404
+    ],
+    [
+      701,
+      "-extra",
+      404
+    ],
+    [
+      701,
+      "-extra-1",
+      404
+    ],
+    [
+      701,
+      "-extra-2",
+      404
+    ],
+    [
+      701,
+      "-extra-3",
+      404
+    ],
+    [
+      701,
+      "-extra-4",
+      404
+    ],
+    [
+      701,
+      "-suplementar",
+      404
+    ],
+    [
+      702,
+      "",
+      404
+    ],
+    [
+      702,
+      "-extra",
+      404
+    ],
+    [
+      702,
+      "-extra-1",
+      404
+    ],
+    [
+      702,
+      "-extra-2",
+      404
+    ],
+    [
+      702,
+      "-extra-3",
+      404
+    ],
+    [
+      702,
+      "-extra-4",
+      404
+    ],
+    [
+      702,
+      "-suplementar",
+      404
+    ],
+    [
+      703,
+      "",
+      404
+    ],
+    [
+      703,
+      "-extra",
+      404
+    ],
+    [
+      703,
+      "-extra-1",
+      404
+    ],
+    [
+      703,
+      "-extra-2",
+      404
+    ],
+    [
+      703,
+      "-extra-3",
+      404
+    ],
+    [
+      703,
+      "-extra-4",
+      404
+    ],
+    [
+      703,
+      "-suplementar",
+      404
+    ],
+    [
+      704,
+      "",
+      404
+    ],
+    [
+      704,
+      "-extra",
+      404
+    ],
+    [
+      704,
+      "-extra-1",
+      404
+    ],
+    [
+      704,
+      "-extra-2",
+      404
+    ],
+    [
+      704,
+      "-extra-3",
+      404
+    ],
+    [
+      704,
+      "-extra-4",
+      404
+    ],
+    [
+      704,
+      "-suplementar",
+      404
+    ],
+    [
+      705,
+      "",
+      404
+    ],
+    [
+      705,
+      "-extra",
+      404
+    ],
+    [
+      705,
+      "-extra-1",
+      404
+    ],
+    [
+      705,
+      "-extra-2",
+      404
+    ],
+    [
+      705,
+      "-extra-3",
+      404
+    ],
+    [
+      705,
+      "-extra-4",
+      404
+    ],
+    [
+      705,
+      "-suplementar",
+      404
+    ]
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "read_pages": 43,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "13/10/2026",
+      "signature_notice": true,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "read_pages": 4,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "15/10/2026",
+      "signature_notice": true,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "read_pages": 43,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "15/10/2026",
+      "signature_notice": true,
+      "hits": [
+        [
+          27,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "read_pages": 49,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "20/10/2026",
+      "signature_notice": true,
+      "hits": [
+        [
+          20,
+          [
+            "caio monticelli",
+            "eduardo poliselli zanella"
+          ]
+        ],
+        [
+          35,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          38,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "read_pages": 179,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "22/10/2026",
+      "signature_notice": true,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "read_pages": 2,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "23/10/2026",
+      "signature_notice": true,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "read_pages": 2,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "26/10/2026",
+      "signature_notice": true,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "read_pages": 55,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "27/10/2026",
+      "signature_notice": true,
+      "hits": [
+        [
+          21,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          35,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "read_pages": 62,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "29/10/2026",
+      "signature_notice": true,
+      "hits": [
+        [
+          39,
+          [
+            "assistente tecnico de gestao"
+          ]
+        ],
+        [
+          40,
+          [
+            "assistente tecnico de gestao"
+          ]
+        ],
+        [
+          41,
+          [
+            "assistente tecnico de gestao"
+          ]
+        ],
+        [
+          46,
+          [
+            "assistente tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "read_pages": 4,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": "30/10/2026",
+      "signature_notice": true,
+      "hits": [
+        [
+          1,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "read_pages": 6,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": null,
+      "signature_notice": false,
+      "hits": [
+        [
+          4,
+          [
+            "caio monticelli",
+            "eduardo poliselli zanella"
+          ]
+        ],
+        [
+          5,
+          [
+            "gabriel veloso menezes",
+            "29820"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/30-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 421674,
+      "sha256": "bb0a4d0ee95dcf296a3bba6f22d7f90125f72b0fbd8f7ff19e5bb43ea6ce33d7",
+      "pages": 4,
+      "read_pages": 4,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": null,
+      "signature_notice": false,
+      "hits": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "read_pages": 7,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": null,
+      "signature_notice": false,
+      "hits": [
+        [
+          1,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          2,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ]
+      ]
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 177575,
+      "sha256": "62cf73911497c7ad33366a7deff9a7e40b66a6079662ff22c1e7cc2eb211e891",
+      "pages": 6,
+      "read_pages": 6,
+      "blank_pages": [],
+      "errors": [],
+      "date_internal": null,
+      "signature_notice": false,
+      "hits": [
+        [
+          1,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          2,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          3,
+          [
+            "assistente-tecnico de gestao"
+          ]
+        ],
+        [
+          4,
+          [
+            "assistente-tecnico de gestao",
+            "eduardo poliselli zanella"
+          ]
+        ],
+        [
+          5,
+          [
+            "assistente-tecnico de gestao",
+            "caio monticelli"
+          ]
+        ]
+      ]
+    }
+  ],
+  "all_pages_read": 466,
+  "total_pages": 466,
+  "no_new_act": true,
+  "checkpoint_before": "695 EXTRA",
+  "checkpoint_after": "695 EXTRA",
+  "next_edition": 696,
+  "previous_sha256_comparison": {
+    "matched": 14,
+    "compared": 14,
+    "changed": []
+  },
+  "audit_id": "sv-atg-20261031-0606-brt",
+  "tools_used": [
+    "HTTP direto via Composio Remote Bash/Python requests",
+    "BeautifulSoup",
+    "pypdf",
+    "hashlib SHA-256",
+    "web nativa",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Browserbase (conexão ativa confirmada; cota preservada)",
+    "Crawl4AI (endpoint não conhecido/conectado)",
+    "Tavily (sem conexão ativa)",
+    "Jina (não utilizado)",
+    "Firecrawl (não utilizado)"
+  ],
+  "limitations": [
+    "Extração textual integral, sem inspeção visual independente de cada página",
+    "Assinaturas não validadas criptograficamente",
+    "Sem acesso a sistemas internos restritos de RH/DIGP",
+    "GET 404 não prova inexistência definitiva"
+  ]
+}
