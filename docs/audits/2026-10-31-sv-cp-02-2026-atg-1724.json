@@ -1,0 +1,188 @@
+{
+  "audit_window_brt": "2026-10-31 17:24-17:27",
+  "status": "no_new_pertinent_unreported_act_proven",
+  "checkpoint": {
+    "edition": 695,
+    "variant": "extra",
+    "next_edition": 696,
+    "advanced": false
+  },
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "latest": "695 EXTRA 2026-10-30",
+    "real_hrefs_checked": true
+  },
+  "deterministic": {
+    "edition_range": "689-705",
+    "variants": [
+      "normal",
+      "extra",
+      "extra-1",
+      "extra-2",
+      "extra-3",
+      "extra-4",
+      "extra-5",
+      "suplementar",
+      "suplementar-1"
+    ],
+    "head_total": 159,
+    "head_200": 12,
+    "head_404": 147,
+    "head_200_pdf": 6,
+    "head_200_html_view": 6,
+    "range_get_total": 153,
+    "range_get_206_pdf": 6,
+    "range_get_404": 147,
+    "editions_696_705": {
+      "head": 90,
+      "head_404": 90,
+      "get": 90,
+      "get_404": 90
+    },
+    "exceptional_href_693": "bom-edicao-693-1-versaoimpressao-1.pdf",
+    "nonpublication_not_definitive": true
+  },
+  "pdf_summary": {
+    "documents": 12,
+    "bom_documents": 10,
+    "bom_pages": 443,
+    "other_documents": 2,
+    "other_pages": 13,
+    "total_pages": 456,
+    "text_extracted_pages": 456,
+    "empty_pages": 0,
+    "extraction_errors": 0,
+    "hashes_match_previous": true,
+    "extractor": "pypdf",
+    "visual_review_all_pages": false,
+    "signature_cryptographic_verification": false
+  },
+  "documents": [
+    {
+      "id": "687",
+      "pages": 43,
+      "pages_extracted": 43,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164"
+    },
+    {
+      "id": "688",
+      "pages": 43,
+      "pages_extracted": 43,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3"
+    },
+    {
+      "id": "688-suplementar",
+      "pages": 4,
+      "pages_extracted": 4,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2"
+    },
+    {
+      "id": "689",
+      "pages": 49,
+      "pages_extracted": 49,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1"
+    },
+    {
+      "id": "690",
+      "pages": 179,
+      "pages_extracted": 179,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b"
+    },
+    {
+      "id": "691-extra-1",
+      "pages": 2,
+      "pages_extracted": 2,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891"
+    },
+    {
+      "id": "692-extra",
+      "pages": 2,
+      "pages_extracted": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670"
+    },
+    {
+      "id": "693-1",
+      "pages": 55,
+      "pages_extracted": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82"
+    },
+    {
+      "id": "694",
+      "pages": 62,
+      "pages_extracted": 62,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c"
+    },
+    {
+      "id": "695-extra",
+      "pages": 4,
+      "pages_extracted": 4,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7"
+    },
+    {
+      "id": "classificacao-23",
+      "pages": 6,
+      "pages_extracted": 6,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d"
+    },
+    {
+      "id": "convocacao-nov",
+      "pages": 7,
+      "pages_extracted": 7,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030"
+    }
+  ],
+  "contest": {
+    "prefeitura_items": "1-31",
+    "offset0_http": 200,
+    "offset20_http": 200,
+    "offset40_http": 200,
+    "ibam_items": "1-31",
+    "ibam_web_verified": true
+  },
+  "candidate": {
+    "registration": 29820,
+    "rank_ac": 99,
+    "score": 43,
+    "rank_pdf_page": 5,
+    "last_general_rank_called": 65,
+    "nominal_distance": 34,
+    "new_withdrawals_proven": 0,
+    "convocation_pdf_page": 2
+  },
+  "known_act": {
+    "number": "Portaria 1.157/SEGES/2026",
+    "edition": "695 EXTRA",
+    "page": 1,
+    "internal_date": "2026-10-27",
+    "effect_date": "2026-11-06",
+    "atg_named": 17,
+    "previously_reported": true
+  },
+  "limitations": [
+    "No independent page-by-page visual inspection",
+    "No cryptographic validation of PDF signature",
+    "No access to restricted RH/DIGP",
+    "Crawl4AI endpoint not verified"
+  ],
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf",
+    "SHA-256",
+    "web native",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Browserbase",
+    "Browser Use",
+    "Crawl4AI",
+    "Tavily/Jina",
+    "Firecrawl"
+  ],
+  "alert_sent": false,
+  "email_sent": false
+}
