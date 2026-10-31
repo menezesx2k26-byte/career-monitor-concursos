@@ -1,0 +1,412 @@
+{
+  "audit_started_at": "2026-10-31T13:22:15.228702-03:00",
+  "pdf_audit_at": "2026-10-31T13:23:26.664732-03:00",
+  "result": "no_new_pertinent_unreported_act_proven",
+  "checkpoint_bom": 695,
+  "checkpoint_variant": "extra",
+  "next_bom": 696,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "real_pdf_hrefs": [
+      {
+        "label": "Boletim Oficial do Município - Edição 695 - Extra - 30/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 694 - 29/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 693 - 27/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 692 - Extra - 26/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 691 - Extra - 23/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 690 - 22/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 689 - 20/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 688 - 15/10/2026 - Suplementar",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 688 - 15/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf/view"
+      },
+      {
+        "label": "Boletim Oficial do Município - Edição 687 - 13/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf/view"
+      }
+    ]
+  },
+  "deterministic": {
+    "head_range": "689-705; normal, extra, extra-1, extra-2, extra-3, suplementar, extra-4; exceptional 693-1",
+    "total": 120,
+    "statuses": {
+      "200": 7,
+      "404": 113
+    },
+    "positive": [
+      {
+        "n": 689,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+        "http": 200,
+        "len": "5538184"
+      },
+      {
+        "n": 690,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+        "http": 200,
+        "len": "6899976"
+      },
+      {
+        "n": 691,
+        "v": "-extra-1",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "http": 200,
+        "len": "857200"
+      },
+      {
+        "n": 692,
+        "v": "-extra",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+        "http": 200,
+        "len": "853711"
+      },
+      {
+        "n": 694,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+        "http": 200,
+        "len": "9625543"
+      },
+      {
+        "n": 695,
+        "v": "-extra",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+        "http": 200,
+        "len": "899337"
+      },
+      {
+        "n": 693,
+        "v": "-1-special",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+        "http": 200,
+        "len": "9376703"
+      }
+    ],
+    "get_range": "696-705 all seven variants; absent variants 689-695",
+    "get_total": 113,
+    "get_statuses": {
+      "404": 113
+    },
+    "get_positive": [],
+    "http_errors": [],
+    "warning": "404 is not permanent proof of absence"
+  },
+  "official_pages": {
+    "/institucional/concursos/concurso-no-02-2026": {
+      "http": 200,
+      "bytes": 1355148
+    },
+    "/institucional/concursos/concurso-no-02-2026?b_start:int=20": {
+      "http": 200,
+      "bytes": 1341029
+    },
+    "/institucional/concursos/concurso-no-02-2026?b_start:int=40": {
+      "http": 200,
+      "bytes": 1323123
+    },
+    "/institucional/concursos": {
+      "http": 200,
+      "bytes": 1332319
+    },
+    "/institucional/concursos/convocacoes/convocacao-concursos-de-2026": {
+      "http": 200,
+      "bytes": 1330139
+    }
+  },
+  "pdfs": [
+    {
+      "id": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "sha_match": true,
+      "pdf_pages": 43,
+      "pages_read": 43,
+      "text_pages": 43,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "13/10/2026"
+      ]
+    },
+    {
+      "id": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "sha_match": true,
+      "pdf_pages": 43,
+      "pages_read": 43,
+      "text_pages": 43,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "15/10/2026"
+      ]
+    },
+    {
+      "id": "688-sup",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "sha_match": true,
+      "pdf_pages": 4,
+      "pages_read": 4,
+      "text_pages": 4,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "15/10/2026"
+      ]
+    },
+    {
+      "id": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "sha_match": true,
+      "pdf_pages": 49,
+      "pages_read": 49,
+      "text_pages": 49,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "20/10/2026"
+      ]
+    },
+    {
+      "id": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "sha_match": true,
+      "pdf_pages": 179,
+      "pages_read": 179,
+      "text_pages": 179,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "22/10/2026"
+      ]
+    },
+    {
+      "id": "691",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "sha_match": true,
+      "pdf_pages": 2,
+      "pages_read": 2,
+      "text_pages": 2,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "23/10/2026",
+        "23/10/2026"
+      ]
+    },
+    {
+      "id": "692",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "sha_match": true,
+      "pdf_pages": 2,
+      "pages_read": 2,
+      "text_pages": 2,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "26/10/2026",
+        "26/10/2026"
+      ]
+    },
+    {
+      "id": "693",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "sha_match": true,
+      "pdf_pages": 55,
+      "pages_read": 55,
+      "text_pages": 55,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "27/10/2026"
+      ]
+    },
+    {
+      "id": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "sha_match": true,
+      "pdf_pages": 62,
+      "pages_read": 62,
+      "text_pages": 62,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "29/10/2026"
+      ]
+    },
+    {
+      "id": "695",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "sha_match": true,
+      "pdf_pages": 4,
+      "pages_read": 4,
+      "text_pages": 4,
+      "empty_pages": [],
+      "short_pages": [],
+      "replacement_chars": 0,
+      "date_first_page": [
+        "30/10/2026"
+      ]
+    }
+  ],
+  "extraction_method": "pypdf",
+  "pdf_pages_total": 443,
+  "pdf_text_pages_total": 443,
+  "pdf_errors": [],
+  "classification": {
+    "29820": [
+      {
+        "page": 5,
+        "excerpt": "7 PAULO EDUARDO DA SILVA PESSOA 43,00 10,00 8,00 01/05/2005 Nªo AC 97” 28208 BRENO DA SILVA NETO ALMEIDA CUNHA 43,00 10,00 7,00 20/03/1983 Nªo AC 98” 21320 LETICIA OLIVEIRA DA SILVA 43,00 10,00 7,00 11/11/1998 Nªo AC 99” 29820 GABRIEL VELOSO MENEZES 43,00 10,00 7,00 02/06/2002 Nªo AC 100” 24567 AMANDA PINTO GUIMARˆES 43,00 10,00 7,00 07/08/2003 Nªo AC 101” 37512 JOVINO OLIVEIRA SANTOS 43,00 10,00 6,00 09/08"
+      }
+    ],
+    "registration": "29820",
+    "name": "Gabriel Veloso Menezes",
+    "position": 99,
+    "category": "AC",
+    "score": "43,00",
+    "pdf_url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+    "http": 200,
+    "bytes": 447650,
+    "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+    "pages": 6,
+    "text_pages": 6,
+    "GABRIEL VELOSO MENEZES": [
+      {
+        "page": 5,
+        "excerpt": "O EDUARDO DA SILVA PESSOA 43,00 10,00 8,00 01/05/2005 Nªo AC 97” 28208 BRENO DA SILVA NETO ALMEIDA CUNHA 43,00 10,00 7,00 20/03/1983 Nªo AC 98” 21320 LETICIA OLIVEIRA DA SILVA 43,00 10,00 7,00 11/11/1998 Nªo AC 99” 29820 GABRIEL VELOSO MENEZES 43,00 10,00 7,00 02/06/2002 Nªo AC 100” 24567 AMANDA PINTO GUIMARˆES 43,00 10,00 7,00 07/08/2003 Nªo AC 101” 37512 JOVINO OLIVEIRA SANTOS 43,00 10,00 6,00 09/08/1979 Nªo AC 102” 2934"
+      }
+    ],
+    "HENRIQUE ALVES PIERONI DANTAS": [
+      {
+        "page": 5,
+        "excerpt": "0 7,00 24/11/1999 Nªo AC 63” 32878 RAISSA AYUME NASCIMENTO HIGA 44,00 10,00 7,00 30/05/2000 Nªo AC 64” 20736 L˝VIA DANIELLI DO PRADO SANTOS 44,00 10,00 7,00 22/06/2001 Nªo AC 65” 34454 HENRIQUE ALVES PIERONI DANTAS 44,00 10,00 7,00 20/03/2002 Nªo AC 66” 35148 AMANDA SOUZA DOS SANTOS 44,00 10,00 7,00 26/08/2002 Nªo AC 67” 26197 EVELYN MELO GOMES 44,00 10,00 7,00 10/03/2006 Nªo PCD 68” 36165 RENAN MOREIRA LEITE 44,00 10,00 7,00 11/"
+      }
+    ],
+    "page": 5
+  },
+  "latest_general_convocation": {
+    "29820": [],
+    "position": 65,
+    "name": "Henrique Alves Pieroni Dantas",
+    "nominal_distance": 34,
+    "confirmed_new_withdrawals": 0,
+    "pdf_url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "http": 200,
+    "bytes": 186290,
+    "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+    "pages": 7,
+    "text_pages": 7,
+    "GABRIEL VELOSO MENEZES": [],
+    "HENRIQUE ALVES PIERONI DANTAS": [
+      {
+        "page": 2,
+        "excerpt": "IA DANIELLI DO PRADO SANTOS 397XXXXXXXX 1157/2026 CONVOCAÇÃO DIA 03/11/2026 ÀS 14H40 CARGO ConcursoPúblico n.º CL. NOME DOCUMENTO PORTARIA Assistente-Técnico de Gestão 02/2026 65º HENRIQUE ALVES PIERONI DANTAS 478XXXXXXXX 1157/2026 Técnico de Radiologia 01/2026 1º TAMARA DA SILVA NEMETH 378XXXXXXXX 1157/2026 Técnico de Radiologia 01/2026 2º THIAGO SILVEIRA SIMÕES 467XXXXXXXX 1157/2026 Técnico de Radiologia 01/2026 1º NNA EVANDRO SA TEL"
+      }
+    ],
+    "page": 2
+  },
+  "ibam": {
+    "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+    "direct_http": 403,
+    "web_checked": true,
+    "latest_item": 31
+  },
+  "relevance": {
+    "already_reported": "Portaria 1.157/SEGES/2026, 17 ATG, effective 06/11/2026",
+    "no_new_ATG_acts": true,
+    "previous_caio_eduardo_extensions": "No decision or withdrawal confirmed",
+    "bom_693_694": "Historical ATG incumbent exoneration and internal promotions are not CP 02/2026 candidate withdrawals"
+  },
+  "tools_used": [
+    "Composio Remote Bash (direct official HTTP)",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf full text extraction",
+    "SHA-256",
+    "web native",
+    "GitHub"
+  ],
+  "tools_not_used": [
+    "Browserbase (quota conservation)",
+    "Browser Use",
+    "Crawl4AI (no verified endpoint)",
+    "Tavily/Jina",
+    "Firecrawl"
+  ],
+  "limitations": [
+    "No independent visual inspection of every page",
+    "No cryptographic validation of PDF signatures",
+    "No access to restricted HR/DIGP records",
+    "All checked PDFs have matching prior SHA-256, full text pages and no empty/short pages"
+  ],
+  "email_sent": false,
+  "alert_sent": false
+}
