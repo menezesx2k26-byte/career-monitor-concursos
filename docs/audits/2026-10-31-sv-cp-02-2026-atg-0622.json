@@ -266,7 +266,9 @@
     "pypdf",
     "hashlib SHA-256",
     "web nativa",
-    "GitHub"
+    "GitHub",
+    "Engram append_messages and get_conversation verification",
+    "PersistFlow via Gabriel MCP Remote start/checkpoint/inspect"
   ],
   "tools_not_used": [
     "Browserbase",
@@ -954,5 +956,27 @@
       "act": "Portaria 1.157/SEGES/2026, 17 ATG, efeitos 06/11/2026, já comunicada"
     }
   ],
-  "no_new_act": true
+  "no_new_act": true,
+  "persistence": {
+    "github": {
+      "manifest_created_commit": "c2931fca8b5b2f1319afe1347f94e8aedd06b2cc",
+      "report_created_commit": "1c3c3b74ec0844e8ef7cea085efb05a39a50789d",
+      "read_back_verified": true
+    },
+    "engram": {
+      "conversation_id": "conv_DVVTbW1zM1aD0QqdpPByb",
+      "message_id": "msg_izcibe49A5W5ZneIaGfaZ",
+      "append_confirmed": true,
+      "get_conversation_confirmed": true,
+      "search_index_not_yet_returned": true
+    },
+    "persistflow": {
+      "runId": "sv-atg-20261031-0622-brt",
+      "generation": 1,
+      "checkpoint_confirmed": true,
+      "inspect_confirmed": true,
+      "route": "Gabriel MCP Remote",
+      "direct_route_error": "The tool failed internally."
+    }
+  }
 }
