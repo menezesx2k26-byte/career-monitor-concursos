@@ -1,0 +1,282 @@
+{
+  "audit_at": "2026-10-31T12:19:54-03:00",
+  "result": "no_new_pertinent_unreported_act",
+  "checkpoint_bom": 695,
+  "checkpoint_variant": "extra",
+  "next_bom": 696,
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "latest": 695,
+    "real_href_count": 20,
+    "real_href_special": [
+      "bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "bom-edicao-693-1-versaoimpressao-1.pdf"
+    ],
+    "unchanged_from_previous_audit": true
+  },
+  "deterministic": {
+    "head_range": "687-705, seven variants per edition, plus exceptional 693-1 filename",
+    "head_total": 134,
+    "head_statuses": {
+      "200": 10,
+      "404": 124
+    },
+    "older_index_677_686_head": {
+      "total": 10,
+      "http_200": 10
+    },
+    "get_range": "696-705 seven variants, plus 691-695 late variants",
+    "get_total": 95,
+    "get_statuses": {
+      "206": 1,
+      "404": 94
+    },
+    "no_696_plus_located": true,
+    "note": "404 does not prove permanent absence; no checkpoint beyond 695"
+  },
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "13/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/DH4D8-R545U-58B7Y-TNYD9",
+      "signature_cryptographically_verified": false,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "pages_text_extracted": 43,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "15/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/HCTRU-78Z2H-57B8G-R665Y",
+      "signature_cryptographically_verified": false,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "pages_text_extracted": 43,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "15/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/8NJDJ-MTDCM-M4FSA-PHDML",
+      "signature_cryptographically_verified": false,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "pages_text_extracted": 4,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "20/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/4V62E-ETQEY-UJNN5-XD2X4",
+      "signature_cryptographically_verified": false,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "pages_text_extracted": 49,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "22/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/3B2XC-TPLD2-4DJVL-B3RVP",
+      "signature_cryptographically_verified": false,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "pages_text_extracted": 179,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "23/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/HGQGP-WS7B5-SZXFU-2A4QK",
+      "signature_cryptographically_verified": false,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "pages_text_extracted": 2,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "26/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/CR6QD-Z655V-6MJGT-9ZXTH",
+      "signature_cryptographically_verified": false,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "pages_text_extracted": 2,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "date_internal": "27/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/459BG-WGZ9E-LWWAZ-R59LG",
+      "signature_cryptographically_verified": false,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "pages_text_extracted": 55,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "29/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/AZFHV-DL8UF-W6X8J-UEVTL",
+      "signature_cryptographically_verified": false,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "pages_text_extracted": 62,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "date_internal": "30/10/2026",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/RQ7DJ-YH59A-XGL8Y-P85RW",
+      "signature_cryptographically_verified": false,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "pages_text_extracted": 4,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "pages_text_extracted": 6,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/24-homologacao-parcial.pdf",
+      "http": 200,
+      "bytes": 50131,
+      "sha256": "1c724b9aa7ee2568074cd5f5b5f76f5837cef030d98146c68f59a464ac2265c1",
+      "pages": 1,
+      "pages_text_extracted": 1,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/31-despacho-de-homologacao.pdf",
+      "http": 200,
+      "bytes": 38769,
+      "sha256": "6b099ddbed17d19ae2a9e0096db88fe040cab55bfb50d4ad9c0973b67b90f5f3",
+      "pages": 1,
+      "pages_text_extracted": 1,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "pages_text_extracted": 7,
+      "empty_pages": [],
+      "errors": []
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-18-21-22-e-24-de-setembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 177575,
+      "sha256": "62cf73911497c7ad33366a7deff9a7e40b66a6079662ff22c1e7cc2eb211e891",
+      "pages": 6,
+      "pages_text_extracted": 6,
+      "empty_pages": [],
+      "errors": []
+    }
+  ],
+  "pdfs_fully_text_extracted": 15,
+  "pages_fully_text_extracted": 464,
+  "classification": {
+    "name": "Gabriel Veloso Menezes",
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": "43,00",
+    "source": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+    "page": 5
+  },
+  "last_convocation": {
+    "source": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+    "page": 2,
+    "last_general_rank": 65,
+    "last_name": "Henrique Alves Pieroni Dantas",
+    "nominal_distance_to_99": 34,
+    "confirmed_new_withdrawals": 0
+  },
+  "existing_act": {
+    "bom": 695,
+    "variant": "extra",
+    "page": 1,
+    "act": "Portaria 1.157/SEGES/2026",
+    "internal_act_date": "27/10/2026",
+    "publication_date": "30/10/2026",
+    "effect_date": "06/11/2026",
+    "atg_appointments": 17,
+    "already_reported": true
+  },
+  "pages": {
+    "municipal_competition": "1-31, no 32+",
+    "municipal_convocations": "November 03-06 latest",
+    "ibam": "1-31, no 32+"
+  },
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf",
+    "SHA-256",
+    "GitHub connector read",
+    "web native search",
+    "IBAM web native"
+  ],
+  "not_used": [
+    "Browserbase (connected; quota preserved)",
+    "Browser Use",
+    "Crawl4AI (no verified endpoint)",
+    "Tavily/Jina",
+    "Firecrawl (paid instant tool; not authorized)"
+  ],
+  "errors_and_limits": [
+    "Local container DNS unavailable; Composio remote HTTP succeeded",
+    "IBAM direct HTTP 403 Cloudflare; checked via web native",
+    "No independent page-by-page visual inspection",
+    "No cryptographic signature validation",
+    "No access to restricted RH/DIGP",
+    "HEAD/GET 404 does not prove permanent nonexistence"
+  ],
+  "email_sent": false,
+  "alert_sent": false
+}
