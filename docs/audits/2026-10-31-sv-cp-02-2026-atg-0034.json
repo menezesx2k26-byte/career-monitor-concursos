@@ -1,0 +1,272 @@
+{
+  "audit_id": "sv-atg-20261031-0034-brt",
+  "observed_at_utc": "2026-10-31T03:39:10Z",
+  "result": "NO_NEW_VERIFIED_RELEVANT_ACT",
+  "checkpoint_before": "BOM 695 EXTRA",
+  "checkpoint_after": "BOM 695 EXTRA",
+  "next_edition": 696,
+  "subject": {
+    "contest": "02/2026",
+    "role": "Assistente-Técnico de Gestão",
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": 43,
+    "last_called_general_rank": 65,
+    "nominal_gap": 34,
+    "new_confirmed_withdrawals": 0
+  },
+  "bom_index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "latest": "695 EXTRA - 30/10/2026",
+    "href_special_cases": [
+      "691-extra-1",
+      "693-1-versaoimpressao-1"
+    ]
+  },
+  "probes": {
+    "head_total": 192,
+    "head_status": {
+      "200": 6,
+      "404": 186
+    },
+    "get_total": 48,
+    "get_status": {
+      "404": 48
+    },
+    "head_positive": [
+      {
+        "n": 689,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "5538184",
+        "err": null
+      },
+      {
+        "n": 690,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "6899976",
+        "err": null
+      },
+      {
+        "n": 691,
+        "v": "-extra-1",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "857200",
+        "err": null
+      },
+      {
+        "n": 692,
+        "v": "-extra",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "853711",
+        "err": null
+      },
+      {
+        "n": 694,
+        "v": "",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "9625543",
+        "err": null
+      },
+      {
+        "n": 695,
+        "v": "-extra",
+        "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+        "http": 200,
+        "type": "application/pdf",
+        "length": "899337",
+        "err": null
+      }
+    ],
+    "head_errors": [],
+    "get_non404": [],
+    "range": "HEAD 689-720 x normal/extra/extra-1/extra-2/extra-3/suplementar; GET partial 696-703 x same",
+    "missing_696_plus": "No accessible PDF at tested paths; 404 not proof of nonexistence"
+  },
+  "pdfs": [
+    {
+      "name": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "size": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 43
+    },
+    {
+      "name": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "size": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 43
+    },
+    {
+      "name": "688-suplementar",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "size": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 4
+    },
+    {
+      "name": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "size": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 49
+    },
+    {
+      "name": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "size": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 179
+    },
+    {
+      "name": "691-extra-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "size": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 2
+    },
+    {
+      "name": "692-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "size": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 2
+    },
+    {
+      "name": "693-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "size": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 55
+    },
+    {
+      "name": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "size": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 62
+    },
+    {
+      "name": "695-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "size": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 4
+    },
+    {
+      "name": "CLASSIFICACAO",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "size": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 6
+    },
+    {
+      "name": "NOVEMBRO",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "size": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "blank": [],
+      "sha_matches_prior": true,
+      "read_pages": 7
+    }
+  ],
+  "total_pdfs": 12,
+  "total_pages": 456,
+  "total_blank_pages": 0,
+  "official_pages": {
+    "contest_initial": "HTTP 200; items 1-20",
+    "contest_page20": "HTTP 200; items 21-31",
+    "contest_page40": "HTTP 200; 0 items",
+    "convocations": "HTTP 200; latest 03-06 November 2026",
+    "ibam": "Direct HTTP 403; web search result crawled today shows items 1-31"
+  },
+  "known_acts": [
+    "BOM 695 EXTRA Portaria 1.157/SEGES/2026 already communicated, 17 ATG, effects 06/11/2026",
+    "BOM 689 p20 Caio Monticelli and Eduardo Poliselli Zanella posse-extension dispatch notices, no result proven",
+    "BOM 693 p35 resignation of existing employee, not ATG CP 02/2026",
+    "BOM 694 internal promotion process 01/2025, not CP 02/2026"
+  ],
+  "tools_used": [
+    "Composio remote bash",
+    "requests",
+    "BeautifulSoup",
+    "pypdf 6.21.2",
+    "SHA-256",
+    "GitHub connector",
+    "web native search"
+  ],
+  "not_used": [
+    "Browserbase (connection active, no JS obstacle)",
+    "Crawl4AI (no verified endpoint)",
+    "Browser Use",
+    "Tavily/Jina",
+    "Firecrawl"
+  ],
+  "limitations": [
+    "No independent page-by-page visual inspection",
+    "No cryptographic signature verification",
+    "No access to restricted RH/DIGP systems",
+    "Full PDF text extracted; only targeted term review and known collective acts cross-checked; identical hashes to previous audited versions"
+  ],
+  "email_sent": false,
+  "notification": false
+}
