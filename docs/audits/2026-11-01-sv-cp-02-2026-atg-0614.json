@@ -99,8 +99,8 @@
     },
     "ibam": {
       "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
-      "http": null,
-      "error": null,
+      "http": 403,
+      "error": "Cloudflare challenge: Just a moment... Enable JavaScript and cookies to continue",
       "bytes": 5484,
       "sha256": "1dd0c8e9dd263e0cd897ddbb53be7607fad4e25b378497c7ef33cd3ab5ee721b",
       "modified": null,
