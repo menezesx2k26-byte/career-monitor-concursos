@@ -1,0 +1,349 @@
+{
+  "audit_id": "sv-atg-20261101-0741-brt",
+  "checked_local": "2026-11-01T07:46:05.756333-03:00",
+  "scope": "São Vicente CP 02/2026 — Assistente-Técnico de Gestão",
+  "result": "no_new_pertinent_unreported_act_proven",
+  "prior_audit": "docs/audits/2026-11-01-sv-cp-02-2026-atg-0631.json",
+  "checkpoint": {
+    "edition": 695,
+    "variant": "extra",
+    "internal_date": "2026-10-30",
+    "advanced": false,
+    "next_edition": 696
+  },
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "hrefs_real": [
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf"
+    ]
+  },
+  "probe_summary": {
+    "urls": 242,
+    "head": {
+      "200": 10,
+      "404": 232
+    },
+    "get": {
+      "206": 10,
+      "404": 232
+    },
+    "errors_unresolved": 0,
+    "edition_696_to_705": {
+      "variant_count": 140,
+      "all_head_get_404": true
+    },
+    "transient_timeouts_retried": 7
+  },
+  "probe_data_gzip_base64": "H4sIAG0Y52oC/83c22oaURSA4XeZa0dnnfbBVwm9mJhpIhiV0cRC6bvXlEJDCiWUNvu/CMxFhB8d97fGi3XztXuad926ezifj6f1anW5XJan8fC83Uz787Q8HZf3h+fl7bw6z+P+dBznab/Zjqvbw+PLXz/dbTfjoU8l98/TfH3h9vE4T6frxfJ497lbdA/TeNetdRgW3f10frlKi26a58PcrfdPu923xb8qKP3p6bibHq+vGmdATeuC2k9frv/Syx9LfPCfJT+u/m/JgElRTIlhShxTEpiShCnJmJKCKamYkvYdr/ETWE/7msYY14GC8a+SAZOimBLDlDimJDAlCVOSMSUFU1IxJe07UBi/6Wlf0xpjeRfGH1rSHmPBYCwYjAWDsWAwFgzGgsFYMBgLBmOBYCwwjAWFcfv3QzFPxsrBWDEYKwZjxWCsGIwVg7FiMFYMxorBWN+B8Uc87ygMY0Vh3P60t98/k14+/C4xzEhgnJHAMCOBYUYCw4wEhhkJDDMSGGYkMMxIYJiRwCDP5wYbCQw1ErQ/Yx2DsXMwdgzGjsHYMRg7BmPHYOwYjB2DsWMwdgjGDsPYURh7899PAoNxcDAODMaBwTgwGAcG48BgHBiMA4NxYDAOyI/lAcM4UBi3P08SBuPEwThhME4YjBMG44TBOGEwThiMEwbjhME4QZ6MEwzjhMK4/bc4YzDOHIwzBuOMwThjMM4YjDMG44zBOGMwzhiMMwTjDMM4ozBu/90pGIwLB+OCwbhgMC4YjAsG44LBuGAwLhiMCwbjAsG4wDAuKIzb37GYPWCVswesYvaAVcwesIrZA1Yxe8AqZg9YxewBq5g9YBWzB6xC9oBV2B6witoDVlvfJ3mg7AF7VTJgUhRTYpgSx5QEpiRhSjKmpGBKOIds+w4Sxm972te0LhAMxsLBWDAYCwZjwWAsGIwFg7FgMBYMxoLBWCAYCwxjQWHc/v1QDMbKwVgxGCsGY8VgrBiMFYOxYjBWDMaKwVghGCsMY0Vh3P60NwzGxsHYMBgbBmPDYGwYjA2DsWEwNgzGhsHYIBgbDGNDYdz+jHUMxs7B2DEYOwZjx2DsGIwdg7FjMHYMxo7B2CEYOwxjR2Hc/mQLDMbBwTgwGAcG48BgHBiMA4NxYDAODMaBwTggGAcM40Bh/NfnyafvOHitRnaCAAA=",
+  "probe_decode": "base64-decode + gzip-decompress + UTF-8 JSON: [{url,head,get,error}, ...]",
+  "official_pages": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "http": 200,
+      "sha256": "6297282f9f33d4bce9663dfc5ae35f3a80a578bf96d76bf6503f5810a7556c44",
+      "bytes": 1355148
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "http": 200,
+      "sha256": "733a0a311f682360c1e8a4d1ac121a6caa25249df8ac706d3ff3a8fed50bacf7",
+      "bytes": 1341029
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "http": 200,
+      "sha256": "241dfc3735ef6405161e5088e355282f56fb910d92dda1596adca2d47988b92c",
+      "bytes": 1332319
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "http": 200,
+      "sha256": "354a2c77fadfcc0733b82e0b2ff494d6ac894ec957b19535300fbcc84601c5de",
+      "bytes": 1330139
+    }
+  ],
+  "ibam_http_direct": {
+    "status": 403,
+    "bytes": 5569,
+    "sha256": "3c1d13d9994c6115454910dae6d2e55adb23f93ca780fdfacd8db6d3a589dc6a"
+  },
+  "ibam_web_native": {
+    "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+    "last_item": 31,
+    "source_ref": "turn289181view0"
+  },
+  "pdfs": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "extracted": 43,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-13",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/DH4D8-R545U-58B7Y-TNYD9",
+      "signature_crypto_verified": false,
+      "matches": {}
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "extracted": 4,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-15",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/8NJDJ-MTDCM-M4FSA-PHDML",
+      "signature_crypto_verified": false,
+      "matches": {}
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "extracted": 43,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-15",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/HCTRU-78Z2H-57B8G-R665Y",
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 3
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "extracted": 49,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-20",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/4V62E-ETQEY-UJNN5-XD2X4",
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 4,
+        "caio\\s+monticelli": 1,
+        "eduardo\\s+poliselli\\s+zanella": 1
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "extracted": 179,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-22",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/3B2XC-TPLD2-4DJVL-B3RVP",
+      "signature_crypto_verified": false,
+      "matches": {}
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "extracted": 2,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-23",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/HGQGP-WS7B5-SZXFU-2A4QK",
+      "signature_crypto_verified": false,
+      "matches": {}
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "extracted": 2,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-26",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/CR6QD-Z655V-6MJGT-9ZXTH",
+      "signature_crypto_verified": false,
+      "matches": {}
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "extracted": 55,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-27",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/459BG-WGZ9E-LWWAZ-R59LG",
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 6
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "extracted": 62,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-29",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/AZFHV-DL8UF-W6X8J-UEVTL",
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 15
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "extracted": 4,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": "2026-10-30",
+      "signature_validation_url": "https://signer.techcert.com.br/validate/RQ7DJ-YH59A-XGL8Y-P85RW",
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 1,
+        "1\\.157\\s*/\\s*SEGES": 1,
+        "henrique\\s+alves\\s+pieroni": 1
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "extracted": 6,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": null,
+      "signature_validation_url": null,
+      "signature_crypto_verified": false,
+      "matches": {
+        "29820": 1,
+        "caio\\s+monticelli": 1,
+        "eduardo\\s+poliselli\\s+zanella": 1,
+        "gabriel\\s+veloso\\s+menezes": 1,
+        "henrique\\s+alves\\s+pieroni": 1
+      }
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "extracted": 7,
+      "short_pages": [],
+      "errors": [],
+      "internal_date": null,
+      "signature_validation_url": null,
+      "signature_crypto_verified": false,
+      "matches": {
+        "assistente[\\s-]+t[eé]cnico\\s+de\\s+gest[aã]o": 8,
+        "henrique\\s+alves\\s+pieroni": 1
+      }
+    }
+  ],
+  "pdf_sha256_compared_to_prior": {
+    "count": 12,
+    "matching": 12,
+    "mismatching": 0
+  },
+  "candidate": {
+    "registration": "29820",
+    "rank_general": 99,
+    "score": "43,00",
+    "classification_primary_pdf_page": 5,
+    "last_general_convoked_rank": 65,
+    "last_general_convoked_name": "Henrique Alves Pieroni Dantas",
+    "convocation_primary_pdf_page": 2,
+    "nominal_distance": 34,
+    "new_confirmed_withdrawals": 0
+  },
+  "known_acts": [
+    {
+      "act": "Portaria 1.157/SEGES/2026",
+      "edition": "695 EXTRA",
+      "page": 1,
+      "date": "2026-10-30",
+      "effective": "2026-11-06",
+      "ATG_appointed": 17,
+      "previously_notified": true
+    },
+    {
+      "edition": 689,
+      "page": 20,
+      "people": [
+        "Caio Monticelli",
+        "Eduardo Poliselli Zanella"
+      ],
+      "possession_extension_outcome_known": false,
+      "withdrawal_inferred": false
+    },
+    {
+      "editions": [
+        693,
+        694
+      ],
+      "other_personnel_acts": true,
+      "new_ATG_call": false
+    }
+  ],
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf",
+    "hashlib SHA-256",
+    "web native search/open",
+    "GitHub fetch_file"
+  ],
+  "not_used": [
+    "Browserbase session (quota preservation)",
+    "Browser Use",
+    "Crawl4AI (no verified endpoint)",
+    "Firecrawl (metered)",
+    "Tavily/Jina (not verified connected)"
+  ],
+  "limitations": [
+    "No independent visual inspection of every page",
+    "Cryptographic signatures not independently validated",
+    "No access to restricted RH/DIGP systems",
+    "404 does not establish permanent nonexistence"
+  ],
+  "alert_sent": false,
+  "email_sent": false
+}
