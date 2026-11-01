@@ -1,0 +1,284 @@
+{
+  "run_brt": "2026-11-01T02:32-03:00_to_02:37-03:00",
+  "checked_utc": "2026-11-01T05:37:19.733791+00:00",
+  "scope": "Somente São Vicente CP 02/2026 ATG",
+  "result": "no_new_pertinent_unreported_act_proven",
+  "checkpoint": {
+    "edition": 695,
+    "variant": "extra",
+    "date_internal": "2026-10-30",
+    "advanced": false,
+    "next": 696
+  },
+  "index": {
+    "http": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom"
+  },
+  "deterministic": {
+    "editions": "687-705",
+    "suffixes": [
+      "",
+      "-extra",
+      "-suplementar",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-extra-6",
+      "-extra-7",
+      "-extra-8",
+      "-extra-9",
+      "-extra-10"
+    ],
+    "special": "bom-edicao-693-1-versaoimpressao-1.pdf",
+    "total": 248,
+    "head": {
+      "206": 10,
+      "404": 238
+    },
+    "get": {
+      "206": 10,
+      "404": 238
+    },
+    "editions_696_705": {
+      "variants": 130,
+      "head_404": 130,
+      "get_404": 130
+    },
+    "non404_edition_variants": [
+      "687 normal",
+      "688 normal",
+      "688 suplementar",
+      "689 normal",
+      "690 normal",
+      "691 extra-1",
+      "692 extra",
+      "693 special-1",
+      "694 normal",
+      "695 extra"
+    ],
+    "new_696_plus": 0,
+    "errors": [],
+    "warning": "404 is not definitive proof of nonexistence; recheck late supplements/extras"
+  },
+  "pdfs": [
+    {
+      "id": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "pages": 43,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "pages": 43,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "688-suplementar",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "pages": 4,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "pages": 49,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "pages": 179,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "691-extra-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "pages": 2,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "692-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "pages": 2,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "pages": 62,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "695-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "pages": 4,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "693special-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "pages": 55,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "classification23",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "pages": 6,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    },
+    {
+      "id": "november",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "pages": 7,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "hash_matches_previous": true,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": []
+    }
+  ],
+  "pdf_summary": {
+    "files": 12,
+    "pages": 456,
+    "sha_matches": 12,
+    "extraction_errors": 0,
+    "blank_pages": 0,
+    "short_pages": 0
+  },
+  "candidate": {
+    "registration": "29820",
+    "rank_ac": 99,
+    "score": "43,00",
+    "last_general_called": 65,
+    "nominal_distance": 34,
+    "confirmed_new_withdrawals": 0
+  },
+  "known_acts": [
+    {
+      "act": "Portaria 1.157/SEGES/2026",
+      "bom": "695 extra",
+      "page": 1,
+      "effective": "2026-11-06",
+      "atg_named": 17,
+      "already_reported": true
+    },
+    {
+      "act": "Convocação 03-06/11/2026",
+      "last_general_rank": 65,
+      "document_page": 2,
+      "already_reported": true
+    }
+  ],
+  "sources": {
+    "index": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "contest": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+    "contest2": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+    "convocations": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+    "ibam": "https://www.ibamsp-concursos.org.br/informacoes/134/"
+  },
+  "source_checks": {
+    "contest_docs": "1-31",
+    "ibam_docs": "1-31",
+    "convocations_latest": "03-06/11/2026",
+    "ibam_direct_http": 403,
+    "ibam_web_confirmed": true,
+    "convocations_initial_timeout_then_retry_200": true
+  },
+  "tools_used": [
+    "Composio Remote Bash",
+    "Python requests",
+    "BeautifulSoup",
+    "pypdf",
+    "hashlib SHA256",
+    "web native",
+    "Parallel Search",
+    "GitHub"
+  ],
+  "not_used": [
+    "Browserbase/Browser Use (quota preservation)",
+    "Crawl4AI (no endpoint verified)",
+    "Firecrawl",
+    "Tavily/Jina (not required)"
+  ],
+  "limitations": [
+    "No independent visual inspection of all 456 pages",
+    "No cryptographic validation of PDF signatures; visible validation URLs present on BOM pages",
+    "No restricted RH/DIGP system access",
+    "IBAM direct HTTP 403, verified via web"
+  ],
+  "email_sent": false,
+  "alert_sent": false
+}
