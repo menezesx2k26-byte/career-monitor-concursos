@@ -1,0 +1,1666 @@
+{
+  "audit_brt": "2026-11-01T01:08:50.560710-03:00",
+  "scope": "Sao Vicente CP 02/2026 ATG only",
+  "result": "no_new_pertinent_unreported_act_proven",
+  "checkpoint": {
+    "edition": 695,
+    "variant": "extra",
+    "advanced": false,
+    "next": 696
+  },
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1353065,
+    "sha256": "d06b4184a05685da2f2e5cf1f9db7bf3aa3d86db12dbe972faee274a5f949299",
+    "sha_note": "Index HTML SHA varied within run (also ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a); BOM edition HREFs unchanged",
+    "real_hrefs": [
+      {
+        "text": "Boletim Oficial do Município - Edição 695 - Extra - 30/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 694 - 29/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 693 - 27/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 692 - Extra - 26/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 691 - Extra - 23/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 690 - 22/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view"
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 689 - 20/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view"
+      }
+    ]
+  },
+  "deterministic": {
+    "editions": "689-705",
+    "url_template": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-{N}{SUFFIX}-versaoimpressao.pdf",
+    "suffixes": [
+      "",
+      "-extra",
+      "-suplementar",
+      "-extra-1",
+      "-extra-2",
+      "-extra-3",
+      "-extra-4",
+      "-extra-5",
+      "-extra-6",
+      "-extra-7",
+      "-extra-8",
+      "-extra-9",
+      "-extra-10"
+    ],
+    "special_url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+    "checks_format": [
+      "edition",
+      "variant",
+      "HEAD",
+      "GET"
+    ],
+    "checks": [
+      [
+        689,
+        "normal",
+        200,
+        206
+      ],
+      [
+        689,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        689,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        689,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        690,
+        "normal",
+        200,
+        206
+      ],
+      [
+        690,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        690,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        690,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        691,
+        "normal",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        691,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-1",
+        200,
+        206
+      ],
+      [
+        691,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        691,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        692,
+        "normal",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra",
+        200,
+        206
+      ],
+      [
+        692,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        692,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        693,
+        "normal",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        693,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        693,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        694,
+        "normal",
+        200,
+        206
+      ],
+      [
+        694,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        694,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        694,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        695,
+        "normal",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra",
+        200,
+        206
+      ],
+      [
+        695,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        695,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        696,
+        "normal",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        696,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        696,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        697,
+        "normal",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        697,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        697,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        698,
+        "normal",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        698,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        698,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        699,
+        "normal",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        699,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        699,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        700,
+        "normal",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        700,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        700,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        701,
+        "normal",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        701,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        701,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        702,
+        "normal",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        702,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        702,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        703,
+        "normal",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        703,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        703,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        704,
+        "normal",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        704,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        704,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        705,
+        "normal",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra",
+        404,
+        404
+      ],
+      [
+        705,
+        "-suplementar",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-1",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-2",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-3",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-4",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-5",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-6",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-7",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-8",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-9",
+        404,
+        404
+      ],
+      [
+        705,
+        "-extra-10",
+        404,
+        404
+      ],
+      [
+        693,
+        "-1-special",
+        200,
+        206
+      ]
+    ],
+    "head_status": {
+      "200": 7,
+      "404": 215
+    },
+    "get_status": {
+      "206": 7,
+      "404": 215
+    },
+    "editions_696_705_all_404": true
+  },
+  "pdf_summary": {
+    "documents": 12,
+    "bom_documents": 10,
+    "bom_pages": 443,
+    "total_pages": 456,
+    "extracted_pages": 456,
+    "empty_pages": 0,
+    "extraction_errors": 0,
+    "sha256_match_previous": true,
+    "extractor": "pypdf 6.21.2",
+    "visual_review": false,
+    "cryptographic_signature_validation": false
+  },
+  "documents": [
+    {
+      "id": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "extracted_pages": 43,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "extracted_pages": 43,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "688-suplementar",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "extracted_pages": 4,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "extracted_pages": 49,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        20
+      ]
+    },
+    {
+      "id": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "extracted_pages": 179,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "691-extra-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "extracted_pages": 2,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "692-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "extracted_pages": 2,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": []
+    },
+    {
+      "id": "693-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "status": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "extracted_pages": 55,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "extracted_pages": 62,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        39,
+        40,
+        41,
+        46
+      ]
+    },
+    {
+      "id": "695-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "status": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "extracted_pages": 4,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        1
+      ]
+    },
+    {
+      "id": "classification23",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "status": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "extracted_pages": 6,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "november",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "status": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "extracted_pages": 7,
+      "blank_pages": [],
+      "short_pages": [],
+      "errors": [],
+      "hit_pages": [
+        2
+      ]
+    }
+  ],
+  "contest": {
+    "prefeitura_items": "1-31",
+    "offsets_checked": [
+      0,
+      20,
+      40,
+      60
+    ],
+    "ibam_items": "1-31",
+    "ibam_direct_http": 403,
+    "ibam_native_web_checked": true,
+    "convocation_latest": "03-06/11/2026"
+  },
+  "candidate": {
+    "registration": 29820,
+    "rank_general": 99,
+    "score": 43,
+    "last_general_called": 65,
+    "nominal_distance": 34,
+    "new_withdrawals_confirmed": 0
+  },
+  "known_act": {
+    "portaria": "1.157/SEGES/2026",
+    "bom": "695 EXTRA",
+    "internal_date": "2026-10-27",
+    "published": "2026-10-30",
+    "effect": "2026-11-06",
+    "atg_named": 17,
+    "previously_notified": true
+  },
+  "exclusions": [
+    "BOM 694 pp39-46 promotion process 01/2025, not CP 02/2026",
+    "BOM 693 existing ATG duties, not new call",
+    "BOM 689 p20 possession extension notices not outcomes"
+  ],
+  "sources": {
+    "bom": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "contest": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+    "convocations": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+    "ibam": "https://www.ibamsp-concursos.org.br/informacoes/134/"
+  },
+  "tools_used": [
+    "Composio Remote Bash: requests, BeautifulSoup, pypdf, hashlib",
+    "native web search",
+    "GitHub"
+  ],
+  "not_used": [
+    "Browserbase (active, quota conserved)",
+    "Browser Use",
+    "Crawl4AI (no verified endpoint)",
+    "Firecrawl",
+    "paid PDF.co"
+  ],
+  "limitations": [
+    "No independent visual review of all PDF pages",
+    "No cryptographic verification of signatures",
+    "No access to restricted SEGES/RH/DIGP systems",
+    "HTTP 404 not permanent proof of nonpublication"
+  ],
+  "email_sent": false,
+  "alert_sent": false
+}
