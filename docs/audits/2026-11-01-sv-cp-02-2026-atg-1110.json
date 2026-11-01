@@ -1,0 +1,585 @@
+{
+  "audit_id": "sv-atg-20261101-1110-brt",
+  "started_local": "2026-11-01 11:10:34 -03:00",
+  "finished_local": "2026-11-01T11:15:58.091189-03:00",
+  "scope": "São Vicente concurso público 02/2026 Assistente-Técnico de Gestão (ATG), inscrição 29820, 99º AC, nota 43,00",
+  "index": {
+    "url": "https://www.saovicente.sp.gov.br/transparencia/bom",
+    "http": 200,
+    "bytes": 1353057,
+    "sha256": "ec0b237bd7c076182a41199d52390e13f66d43c97c1d7227b33f8b0b2f24a73a",
+    "last_href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view",
+    "last_internal_date": "30/10/2026",
+    "hrefs_latest": [
+      {
+        "text": "Boletim Oficial do Município - Edição 695 - Extra - 30/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf/view",
+        "n": 695
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 694 - 29/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf/view",
+        "n": 694
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 693 - 27/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf/view",
+        "n": 693
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 692 - Extra - 26/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf/view",
+        "n": 692
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 691 - Extra - 23/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf/view",
+        "n": 691
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 690 - 22/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf/view",
+        "n": 690
+      },
+      {
+        "text": "Boletim Oficial do Município - Edição 689 - 20/10/2026",
+        "href": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf/view",
+        "n": 689
+      }
+    ]
+  },
+  "probes": {
+    "count": 314,
+    "head_statuses": {
+      "404": 300,
+      "200": 14
+    },
+    "get_statuses": {
+      "404": 300,
+      "206": 7,
+      "200": 7
+    },
+    "future_696_705": 180,
+    "future_non_404": [],
+    "raw_sha256": "2d0f10fdc381e26f25c8957aa55b7a20492945740414ba1ff2717cdd0d2c5319",
+    "raw_gzip_base64": "H4sIAAAAAAAC/+Xd62oiWRiF4VsZ6nfU+k774DBXMjTBmOpEMCpaSboZ5t6nusOQDumEZlDzFvMjIMTD2rqtPMsyfH/+1dzv1828ue373WE+mz0+Pk4Pi+3Datlt+m562E1vtg/Tq/2s3y82h91i322Wq8Xsanv37WfSXa+Wi+0klTrpvgxXmcjkodsPd7C62+27w3Bhurv+3Fw0t93iupl76xfNTdc/X7q8+tp3h2au6aJZboeH3PSXwyPddM18c79e/31x9IAtPiH/OVR8QsMndHzCoCfEb0P8LsRvQvweTPSAmR6w0ANWekBsvMP9bt3dDbda7Lkh3wumbft08bL/uhseu1nsduvhlv1qu5k9XfF7bG3Ti9gh+ip38/13v7WTEJlFWJHiT7d/685PvMrZw6p7fHup/bC5Zrf93fr35e1if+j6P+77z5PyvOT2xZLF1Ns2fvpyvVjlW/d7tNXWFl5GngO2+IT851DxCQ2f0PEJg54Qvw3xuxC/CfF7MNEDZnrAQg9Y6QGx8fhlpLYfU0aGflBrTmcqIz9f5b9l5DTd4oen8HjrkF+qGSd71Urk4b7P9aK9u9jjN0nNQmiSgi9qgi9qgi9qgi9qgi9qgi9qQi9qQi9qQi9qQi9qQi9qQi9qQi9qQi9qwi5qMoaihsWW0k99KF7Uihe14kWteFErXtSKF7XSRa10UStd1EoXtdJFrXRRK13UShe1/oKoT/gxsGWRc30M/M5ST/AhsBnhQ2AdQyPB/g22111kIq/fGv9t81fLKbfWnCHuCb4tVxDnOIxeGQ1fGQ1fGQ1fGQ1fGQ1fGQ1fGY1eGY1eGY1eGY1eGY1eGY1eGY1eGY1eGY19EsbGUHmwh2ini9rxona8qB0vaseL2vGidryonS5qp4va6aJ2uqidLmqni9rpona6qJ0tah+DqP1jTmHVpBFu5zqH5f+rf4YPehkJfBkJfBkJfBkJfBkJfBkJfBkJehkJehkJehkJehkJehkJehkJehkJehmJD/1GWK1m+VyajrN+I0wrw9QjKHPYA3SiN5KEbyQJ30gSvpEkfCNJ+EaS8I0k0RtJojeSRG8kid5IEr2RJHojSfRGkuiNJLFPj6QxiBr7/s10UWe8qDNe1Bkv6owXdcaLOuNFnemiznRRZ7qoM13UmS7qTBd1pos600Wd2aLOYxA19u1R6KIueFEXvKgLXtQFL+qCF3XBi7rQRV3ooi50URe6qAtd1IUu6kIXdaGLurBFXcYgauzuo0+IrvgJ0RU/IbriJ0RX/IToip8QXfEToit9QnSlT4iu9AnRlT4hutInRFf6hOhKnxBd6ROiK3tCdB3DhOgKfXFzCx9z/EPAFp+Q/xwqPqHhEzo+YdAT4rchfhfiNyF+DyZ6wEwPWOgB8ejCxsOL+ltIaDChi1rwoha8qAUvasGLWvCiFryohS5qoYta6KIWuqiFLmqhi1rooha6qIUtahmDqLHYUrqoFS9qxYta8aJWvKgVL2rFi1rpola6qJUuaqWLWumiVrqolS5qpYta2aLWMYga+zfE6KI2vKgNL2rDi9rwoja8qA0vaqOL2uiiNrqojS5qo4va6KI2uqiNLmpji9rGIGrsIdrpona8qB0vaseL2vGidryoHS9qp4va6aJ2uqidLmqni9rpona6qJ0uameL2scgauwRMOiiDryoAy/qwIs68KIOvKgDL+qgizroog66qIMu6qCLOuiiDrqogy7qYIs6xiDqYx9gPv0DUkB+V2HJAAA=",
+    "raw_format": "json list with url, HEAD and GET statuses, GET bytes and range"
+  },
+  "pdfs": [
+    {
+      "id": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "hash_matches_prior": true,
+      "pages": 43,
+      "pages_match_prior": true,
+      "extracted_pages": 43,
+      "min_chars": 355,
+      "short_pages": [],
+      "total_chars": 159060,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/DH4D8-R545U-58B7Y-TNYD9",
+      "internal_date_first_page": [
+        "13/10/2026"
+      ],
+      "relevant_page_hits": []
+    },
+    {
+      "id": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "hash_matches_prior": true,
+      "pages": 43,
+      "pages_match_prior": true,
+      "extracted_pages": 43,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 129661,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/HCTRU-78Z2H-57B8G-R665Y",
+      "internal_date_first_page": [
+        "15/10/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 27,
+          "hits": {
+            "atg": 1,
+            "portaria": 3,
+            "seg": 4
+          }
+        },
+        {
+          "p": 28,
+          "hits": {
+            "atg": 2,
+            "portaria": 4,
+            "seg": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "688_suplementar",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "hash_matches_prior": true,
+      "pages": 4,
+      "pages_match_prior": true,
+      "extracted_pages": 4,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 11068,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/8NJDJ-MTDCM-M4FSA-PHDML",
+      "internal_date_first_page": [
+        "15/10/2026"
+      ],
+      "relevant_page_hits": []
+    },
+    {
+      "id": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "hash_matches_prior": true,
+      "pages": 49,
+      "pages_match_prior": true,
+      "extracted_pages": 49,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 169858,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/4V62E-ETQEY-UJNN5-XD2X4",
+      "internal_date_first_page": [
+        "20/10/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 19,
+          "hits": {
+            "atg": 1,
+            "nomeacao": 1,
+            "prorrogacao": 1,
+            "portaria": 4
+          }
+        },
+        {
+          "p": 20,
+          "hits": {
+            "caio": 1,
+            "eduardo": 1,
+            "prorrogacao": 2
+          }
+        },
+        {
+          "p": 35,
+          "hits": {
+            "atg": 2,
+            "portaria": 5,
+            "seg": 6
+          }
+        },
+        {
+          "p": 38,
+          "hits": {
+            "atg": 1,
+            "portaria": 2,
+            "seg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "hash_matches_prior": true,
+      "pages": 179,
+      "pages_match_prior": true,
+      "extracted_pages": 179,
+      "min_chars": 512,
+      "short_pages": [],
+      "total_chars": 478679,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/3B2XC-TPLD2-4DJVL-B3RVP",
+      "internal_date_first_page": [
+        "22/10/2026"
+      ],
+      "relevant_page_hits": []
+    },
+    {
+      "id": "691",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "hash_matches_prior": true,
+      "pages": 2,
+      "pages_match_prior": true,
+      "extracted_pages": 2,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 3732,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/HGQGP-WS7B5-SZXFU-2A4QK",
+      "internal_date_first_page": [
+        "23/10/2026",
+        "23/10/2026"
+      ],
+      "relevant_page_hits": []
+    },
+    {
+      "id": "692",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "hash_matches_prior": true,
+      "pages": 2,
+      "pages_match_prior": true,
+      "extracted_pages": 2,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 3022,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/CR6QD-Z655V-6MJGT-9ZXTH",
+      "internal_date_first_page": [
+        "26/10/2026",
+        "26/10/2026"
+      ],
+      "relevant_page_hits": []
+    },
+    {
+      "id": "693",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "hash_matches_prior": true,
+      "pages": 55,
+      "pages_match_prior": true,
+      "extracted_pages": 55,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 217581,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/459BG-WGZ9E-LWWAZ-R59LG",
+      "internal_date_first_page": [
+        "27/10/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 21,
+          "hits": {
+            "atg": 2,
+            "prorrogacao": 2,
+            "portaria": 3
+          }
+        },
+        {
+          "p": 22,
+          "hits": {
+            "atg": 1,
+            "nomeacao": 2,
+            "prorrogacao": 1,
+            "portaria": 2,
+            "seg": 1
+          }
+        },
+        {
+          "p": 27,
+          "hits": {
+            "atg": 1,
+            "portaria": 3,
+            "seg": 3
+          }
+        },
+        {
+          "p": 28,
+          "hits": {
+            "atg": 1,
+            "portaria": 3
+          }
+        },
+        {
+          "p": 35,
+          "hits": {
+            "atg": 1,
+            "portaria": 3,
+            "seg": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "hash_matches_prior": true,
+      "pages": 62,
+      "pages_match_prior": true,
+      "extracted_pages": 62,
+      "min_chars": 531,
+      "short_pages": [],
+      "total_chars": 229068,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/AZFHV-DL8UF-W6X8J-UEVTL",
+      "internal_date_first_page": [
+        "29/10/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 39,
+          "hits": {
+            "atg": 2
+          }
+        },
+        {
+          "p": 40,
+          "hits": {
+            "atg": 1
+          }
+        },
+        {
+          "p": 41,
+          "hits": {
+            "atg": 1
+          }
+        },
+        {
+          "p": 46,
+          "hits": {
+            "atg": 2
+          }
+        },
+        {
+          "p": 50,
+          "hits": {
+            "atg": 4,
+            "seg": 3
+          }
+        },
+        {
+          "p": 51,
+          "hits": {
+            "atg": 5,
+            "nomeacao": 1,
+            "seg": 4
+          }
+        },
+        {
+          "p": 52,
+          "hits": {
+            "atg": 1,
+            "portaria": 3,
+            "seg": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "695",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "hash_matches_prior": true,
+      "pages": 4,
+      "pages_match_prior": true,
+      "extracted_pages": 4,
+      "min_chars": 764,
+      "short_pages": [],
+      "total_chars": 8334,
+      "errors": [],
+      "signature_url": "https://signer.techcert.com.br/validate/RQ7DJ-YH59A-XGL8Y-P85RW",
+      "internal_date_first_page": [
+        "30/10/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 1,
+          "hits": {
+            "atg": 1,
+            "henrique": 1,
+            "nomeacao": 1,
+            "portaria": 1,
+            "seg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "classificacao23",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "hash_matches_prior": true,
+      "pages": 6,
+      "pages_match_prior": true,
+      "extracted_pages": 6,
+      "min_chars": 651,
+      "short_pages": [],
+      "total_chars": 18764,
+      "errors": [],
+      "signature_url": null,
+      "internal_date_first_page": [],
+      "relevant_page_hits": [
+        {
+          "p": 1,
+          "hits": {
+            "concurso": 1
+          }
+        },
+        {
+          "p": 2,
+          "hits": {
+            "concurso": 1
+          }
+        },
+        {
+          "p": 4,
+          "hits": {
+            "caio": 1,
+            "eduardo": 1
+          }
+        },
+        {
+          "p": 5,
+          "hits": {
+            "gabriel": 1,
+            "inscricao": 1,
+            "henrique": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "convocacao_nov",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "hash_matches_prior": true,
+      "pages": 7,
+      "pages_match_prior": true,
+      "extracted_pages": 7,
+      "min_chars": 1226,
+      "short_pages": [],
+      "total_chars": 12212,
+      "errors": [],
+      "signature_url": null,
+      "internal_date_first_page": [
+        "06/11/2026",
+        "03/11/2026",
+        "03/11/2026"
+      ],
+      "relevant_page_hits": [
+        {
+          "p": 1,
+          "hits": {
+            "atg": 12,
+            "nomeacao": 1,
+            "convocacao": 3
+          }
+        },
+        {
+          "p": 2,
+          "hits": {
+            "atg": 7,
+            "henrique": 1,
+            "convocacao": 4
+          }
+        }
+      ]
+    }
+  ],
+  "page_evidence": {
+    "count": 456,
+    "raw_sha256": "59d37629383603c5660d533c99b170d033fad99721cc0a61ee3663913a07fc10",
+    "gzip_base64": "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",
+    "format": "json list of id and every page p, chars, text_sha256, hits"
+  },
+  "independent_sources": [
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026",
+      "http": 200,
+      "bytes": 1355148,
+      "sha256": "6297282f9f33d4bce9663dfc5ae35f3a80a578bf96d76bf6503f5810a7556c44",
+      "links_count": 3518
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026?b_start:int=20",
+      "http": 200,
+      "bytes": 1341029,
+      "sha256": "733a0a311f682360c1e8a4d1ac121a6caa25249df8ac706d3ff3a8fed50bacf7",
+      "links_count": 3500
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos",
+      "http": 200,
+      "bytes": 1332319,
+      "sha256": "241dfc3735ef6405161e5088e355282f56fb910d92dda1596adca2d47988b92c",
+      "links_count": 3496
+    },
+    {
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026",
+      "http": 200,
+      "bytes": 1330139,
+      "sha256": "354a2c77fadfcc0733b82e0b2ff494d6ac894ec957b19535300fbcc84601c5de",
+      "links_count": 3485
+    },
+    {
+      "url": "https://www.ibamsp-concursos.org.br/informacoes/134/",
+      "http": 403,
+      "bytes": 5506,
+      "sha256": "aa608ddfc05e437e04980b551cd32668306e3e84c308fefe90fcd89236045b96",
+      "links_count": 0
+    }
+  ],
+  "ibam_native_web": "2026-11-01 11h: publicações 1-31, sem item 32; HTTP direto 403 Cloudflare",
+  "findings": {
+    "new_relevant_act": false,
+    "last_known_general_convocation": 65,
+    "candidate_general_rank": 99,
+    "nominal_distance": 34,
+    "confirmed_new_withdrawals": 0,
+    "already_notified": "Portaria 1157/SEGES/2026, BOM 695 EXTRA p.1, 17 ATG nomeados a partir de 06/11/2026",
+    "unresolved": "Caio Monticelli e Eduardo Poliselli Zanella, intimações sobre prorrogação de posse sem decisão comprovada"
+  },
+  "checkpoint": {
+    "last_prior": "BOM 695 EXTRA (30/10/2026)",
+    "new": "BOM 695 EXTRA (30/10/2026)",
+    "next": "BOM 696",
+    "advanced": false
+  },
+  "limitations": [
+    "Extração textual integral, sem inspeção visual independente de todas as 456 páginas",
+    "Assinaturas Techcert identificadas, não validadas criptograficamente",
+    "Sem acesso aos sistemas restritos RH/DIGP",
+    "Crawl4AI self-hosted não conectado (endpoint não verificado)",
+    "Browserbase conexão ativa, navegação não utilizada para economizar cota",
+    "Firecrawl, Tavily, Jina não utilizados; sem custo contratado"
+  ],
+  "tools_actually_used": [
+    "Composio Remote Bash",
+    "requests HTTP oficial HEAD GET Range",
+    "BeautifulSoup",
+    "pypdf",
+    "SHA256",
+    "web nativa IBAM e pesquisa nominal",
+    "GitHub (leitura de checkpoint anterior)"
+  ]
+}
