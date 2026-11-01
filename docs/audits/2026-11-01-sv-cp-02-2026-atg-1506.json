@@ -1,0 +1,161 @@
+{
+  "audit": "sv-cp-02-2026-atg",
+  "started_local": "2026-11-01T15:06:00-03:00",
+  "finished_local": "2026-11-01T15:10:56.619938-03:00",
+  "result": "no_new_relevant_act",
+  "checkpoint": "BOM 695 EXTRA (2026-10-30)",
+  "next_edition": 696,
+  "head": {
+    "200": 20,
+    "404": 300
+  },
+  "get": {
+    "206": 20,
+    "404": 300
+  },
+  "probes": 320,
+  "pdf_count": 12,
+  "pdf_pages": 456,
+  "index_sha256": "d06b4184a05685da2f2e5cf1f9db7bf3aa3d86db12dbe972faee274a5f949299",
+  "docs_summary": [
+    {
+      "label": "687",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-687-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9696910,
+      "sha256": "3a3c66938de7e806c0b109f311d3ae5e97c666081cb3039eb74eebc0f9bc7164",
+      "pages": 43,
+      "extracted_pages": 43,
+      "low_pages": []
+    },
+    {
+      "label": "688",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9529895,
+      "sha256": "89566714ae0cad1d8c2e0f3e266d73a65f9407f98f03b1c0a287af026fdbd8b3",
+      "pages": 43,
+      "extracted_pages": 43,
+      "low_pages": []
+    },
+    {
+      "label": "688-supl",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-688-suplementar-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 910321,
+      "sha256": "06793e782279aa1828a812a4d8957fd178b3b98e957b7cc13e08d3d8b4170ce2",
+      "pages": 4,
+      "extracted_pages": 4,
+      "low_pages": []
+    },
+    {
+      "label": "689",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-689-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 5538184,
+      "sha256": "17fcf2edb227f3bd659f5301c8d5304a73a5df3bea5cb80ede403693aec5a6f1",
+      "pages": 49,
+      "extracted_pages": 49,
+      "low_pages": []
+    },
+    {
+      "label": "690",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-690-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 6899976,
+      "sha256": "a6d7a0ef77378a35b1ac743f34a366caaa9b7b7ce7a44c32edd49aaef6297a4b",
+      "pages": 179,
+      "extracted_pages": 179,
+      "low_pages": []
+    },
+    {
+      "label": "691-extra-1",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-691-extra-1-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 857200,
+      "sha256": "a349bf439f463a79134ff710c4acbd02cd3061c405cf0b9e13ad89f4fb720891",
+      "pages": 2,
+      "extracted_pages": 2,
+      "low_pages": []
+    },
+    {
+      "label": "692-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-692-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 853711,
+      "sha256": "ee240157d612fa2a638717c6bb518d43498e3b21a7f52070eb2cb3d1358d4670",
+      "pages": 2,
+      "extracted_pages": 2,
+      "low_pages": []
+    },
+    {
+      "label": "693",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-693-1-versaoimpressao-1.pdf",
+      "http": 200,
+      "bytes": 9376703,
+      "sha256": "a52369bfef47db8c2837dfb94d730511bfe5687500880a645ebf64d3717f8d82",
+      "pages": 55,
+      "extracted_pages": 55,
+      "low_pages": []
+    },
+    {
+      "label": "694",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-694-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 9625543,
+      "sha256": "30b876b35a4456de9dc3e662dc36c845493f0a4516fc1c9e36f45b556c2ce68c",
+      "pages": 62,
+      "extracted_pages": 62,
+      "low_pages": []
+    },
+    {
+      "label": "695-extra",
+      "url": "https://www.saovicente.sp.gov.br/transparencia/bom/bom-edicao-695-extra-versaoimpressao.pdf",
+      "http": 200,
+      "bytes": 899337,
+      "sha256": "96c9c5633ce7a14cdc8c3758d04b2a37bb9f04c286f9906cc5f3c547d16ed6a7",
+      "pages": 4,
+      "extracted_pages": 4,
+      "low_pages": []
+    },
+    {
+      "label": "classification",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/concurso-no-02-2026/23-edital-de-divulgacao-da-classificacao-final-cp-02-2026.pdf",
+      "http": 200,
+      "bytes": 447650,
+      "sha256": "81e007cce4bfaddadfafde357ee87ef83037d38cc9bd3f757c52ffed7030b34d",
+      "pages": 6,
+      "extracted_pages": 6,
+      "low_pages": []
+    },
+    {
+      "label": "convocation",
+      "url": "https://www.saovicente.sp.gov.br/institucional/concursos/convocacoes/convocacao-concursos-de-2026/convocacao-dias-03-04-05-e-06-de-novembro-de-2026.pdf",
+      "http": 200,
+      "bytes": 186290,
+      "sha256": "ae5bb249d77f913ea32ea564bc1c868c46d8b2fcb07f2e747750821875d3f030",
+      "pages": 7,
+      "extracted_pages": 7,
+      "low_pages": []
+    }
+  ],
+  "raw_sweep": {
+    "codec": "zlib+base64",
+    "raw_sha256": "7dc501c6fd8ca2acd12c1aa70f6f13248c23eb2431b1f24e293908b3b09f0f2b",
+    "raw_bytes": 73630,
+    "data": "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"
+  },
+  "raw_docs": {
+    "codec": "zlib+base64",
+    "raw_sha256": "2f45a6032051a5746e4c3dc69cd1f93c4327ba06b771d49d240e760b491fdbab",
+    "raw_bytes": 29121,
+    "data": "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"
+  },
+  "limitations": [
+    "text extraction only; no independent page-by-page visual inspection",
+    "cryptographic signatures not validated",
+    "IBAM direct HTTP 403; web native checked",
+    "RH/DIGP restricted systems not accessed",
+    "Crawl4AI endpoint not verified"
+  ]
+}
